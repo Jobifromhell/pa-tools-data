@@ -5,13 +5,13 @@
       "id": "amp-load",
       "version": "1.0.1",
       "sha256": "2f7358556eff1f255514df5f0a24aa06b16def784bfffb15c80ee355b58bd9f3",
-      "url": "https://raw.githubusercontent.com/Jobifromhell/pa-tools-data/main/DataUpdates/ampload.json"
+      "url": "https://raw.githubusercontent.com/Jobifromhell/pa-tools-data/main/ampload.json"
     },
     {
       "id": "pre-alignment",
       "version": "1.0.1",
       "sha256": "f471357ecee2ec7976c03d7c7608edbbde4448d6dab28b7213cd2eb1bb3ecaa5",
-      "url": "https://raw.githubusercontent.com/Jobifromhell/pa-tools-data/main/DataUpdates/prealignment.json"
+      "url": "https://raw.githubusercontent.com/Jobifromhell/pa-tools-data/main/prealignment.json"
     }
   ]
 }
