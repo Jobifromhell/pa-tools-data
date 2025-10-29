@@ -1,0 +1,52 @@
+{
+  "version": "1.0.1",
+  "updatedAt": "2025-03-01T12:00:00Z",
+  "combos": [
+    {
+      "id": "JSON STACK 1|JSON SPEAKER 1",
+      "speaker": "JSON SPEAKER 1",
+      "speakerSeries": "JSON SERIES",
+      "subSummary": "JSON SUB 1",
+      "presetLabel": "JSON STACK 1",
+      "components": [
+        {
+          "role": "top",
+          "name": "JSON SPEAKER 1",
+          "presetLabel": "JSON TOP PRESET",
+          "delay": 3.25,
+          "phase": "+"
+        },
+        {
+          "role": "sub",
+          "name": "JSON SUB 1",
+          "presetLabel": "JSON SUB PRESET",
+          "delay": 1.75,
+          "phase": null
+        }
+      ]
+    },
+    {
+      "id": "JSON STACK 2|JSON SPEAKER 2",
+      "speaker": "JSON SPEAKER 2",
+      "speakerSeries": "JSON SERIES",
+      "subSummary": "JSON SUB 2",
+      "presetLabel": "JSON STACK 2",
+      "components": [
+        {
+          "role": "top",
+          "name": "JSON SPEAKER 2",
+          "presetLabel": "JSON TOP PRESET 2",
+          "delay": 0.50,
+          "phase": "-"
+        },
+        {
+          "role": "sub",
+          "name": "JSON SUB 2",
+          "presetLabel": "JSON SUB PRESET 2",
+          "delay": 2.90,
+          "phase": "+"
+        }
+      ]
+    }
+  ]
+}
