@@ -1,0 +1,44 @@
+{
+  "version": "1.0.1",
+  "generatedAt": "2025-03-01T12:00:00Z",
+  "amps": [
+    {
+      "name": "JSON AMP 1",
+      "brand": "L-Acoustics",
+      "maxSpeakerLoads": {
+        "JSON SPEAKER 1": { "total": 4, "perChannel": 2 },
+        "JSON SPEAKER 2": { "total": 2, "perChannel": 1 }
+      }
+    },
+    {
+      "name": "JSON AMP 2",
+      "brand": "L-Acoustics",
+      "maxSpeakerLoads": {
+        "JSON SPEAKER 1": { "total": 6, "perChannel": 3 },
+        "JSON SPEAKER 2": { "total": 4, "perChannel": 2 }
+      }
+    }
+  ],
+  "speakers": [
+    {
+      "name": "JSON SPEAKER 1",
+      "brand": "L-Acoustics",
+      "category": "A",
+      "channelsUsed": 1,
+      "ampConfig": {
+        "JSON AMP 1": 2,
+        "JSON AMP 2": 3
+      }
+    },
+    {
+      "name": "JSON SPEAKER 2",
+      "brand": "L-Acoustics",
+      "category": "X",
+      "channelsUsed": 2,
+      "ampConfig": {
+        "JSON AMP 1": 1,
+        "JSON AMP 2": 2
+      }
+    }
+  ]
+}
