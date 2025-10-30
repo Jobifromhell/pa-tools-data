@@ -157,7 +157,22 @@
       "name" : "D80"
     }
   ],
+
+    "brand" : "test JSON",
+      "name" : "Modele Amp JSON"
+
+  
   "loads" : [
+
+     {
+      "amp" : "Modele Amp JSON",
+      "ampBrand" : "test JSON",
+      "perChannel" : 1,
+      "speaker" : "IS10",
+      "total" : 2
+    },
+
+    
     {
       "amp" : "IPD2400",
       "ampBrand" : "Adamson",
