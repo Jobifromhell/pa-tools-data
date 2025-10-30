@@ -1052,8 +1052,8 @@
           "perChannel": 3
         },
         "IS10": {
-          "total": 8,
-          "perChannel": 4
+          "total": 8000,
+          "perChannel": 4000
         },
         "IS10n": {
           "total": 8,
