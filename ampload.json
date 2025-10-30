@@ -163,9 +163,9 @@
     {
       "amp" : "IPD2400",
       "ampBrand" : "Adamson",
-      "perChannel" : 1000,
+      "perChannel" : 1,
       "speaker" : "IS10",
-      "total" : 2000
+      "total" : 2
     },
     {
       "amp" : "IPD2400",
@@ -1899,9 +1899,9 @@
     {
       "amp" : "PLM20K44",
       "ampBrand" : "Adamson",
-      "perChannel" : 4,
+      "perChannel" : 444,
       "speaker" : "IS10",
-      "total" : 8
+      "total" : 888
     },
     {
       "amp" : "PLM20K44",
