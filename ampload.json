@@ -163,9 +163,9 @@
     {
       "amp" : "IPD2400",
       "ampBrand" : "Adamson",
-      "perChannel" : 1,
+      "perChannel" : 1000,
       "speaker" : "IS10",
-      "total" : 2
+      "total" : 2000
     },
     {
       "amp" : "IPD2400",
