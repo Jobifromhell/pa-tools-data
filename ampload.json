@@ -1,44 +1,9220 @@
 {
-  "version": "1.0.1",
-  "generatedAt": "2025-03-01T12:00:00Z",
-  "amps": [
+  "amps" : [
     {
-      "name": "JSON AMP 1",
-      "brand": "L-Acoustics",
-      "maxSpeakerLoads": {
-        "JSON SPEAKER 1": { "total": 4, "perChannel": 2 },
-        "JSON SPEAKER 2": { "total": 2, "perChannel": 1 }
-      }
+      "brand" : "Adamson",
+      "name" : "IPD2400"
     },
     {
-      "name": "JSON AMP 2",
-      "brand": "L-Acoustics",
-      "maxSpeakerLoads": {
-        "JSON SPEAKER 1": { "total": 6, "perChannel": 3 },
-        "JSON SPEAKER 2": { "total": 4, "perChannel": 2 }
-      }
+      "brand" : "Adamson",
+      "name" : "IPX2400"
+    },
+    {
+      "brand" : "Adamson",
+      "name" : "PLM10000Q"
+    },
+    {
+      "brand" : "Adamson",
+      "name" : "PLM12K44"
+    },
+    {
+      "brand" : "Adamson",
+      "name" : "PLM20000Q"
+    },
+    {
+      "brand" : "Adamson",
+      "name" : "PLM20K44"
+    },
+    {
+      "brand" : "Adamson",
+      "name" : "PLM8K44"
+    },
+    {
+      "brand" : "CODA Audio",
+      "name" : "LINUS10C"
+    },
+    {
+      "brand" : "CODA Audio",
+      "name" : "LINUS12C"
+    },
+    {
+      "brand" : "CODA Audio",
+      "name" : "LINUS14D"
+    },
+    {
+      "brand" : "CODA Audio",
+      "name" : "LINUS5C"
+    },
+    {
+      "brand" : "Electro-Voice",
+      "name" : "IPX10:4"
+    },
+    {
+      "brand" : "Electro-Voice",
+      "name" : "TGX10"
+    },
+    {
+      "brand" : "Electro-Voice",
+      "name" : "TGX20"
+    },
+    {
+      "brand" : "JBL Professional",
+      "name" : "Crown I-Tech 12000HD"
+    },
+    {
+      "brand" : "JBL Professional",
+      "name" : "Crown I-Tech 4x3500HD"
+    },
+    {
+      "brand" : "JBL Professional",
+      "name" : "Crown VRack 4x3500HD"
+    },
+    {
+      "brand" : "L-Acoustics",
+      "name" : "LA1.16i_BTL"
+    },
+    {
+      "brand" : "L-Acoustics",
+      "name" : "LA1.16i_SE"
+    },
+    {
+      "brand" : "L-Acoustics",
+      "name" : "LA12X"
+    },
+    {
+      "brand" : "L-Acoustics",
+      "name" : "LA2Xi_BTL"
+    },
+    {
+      "brand" : "L-Acoustics",
+      "name" : "LA2Xi_PBTL"
+    },
+    {
+      "brand" : "L-Acoustics",
+      "name" : "LA2Xi_SE"
+    },
+    {
+      "brand" : "L-Acoustics",
+      "name" : "LA4"
+    },
+    {
+      "brand" : "L-Acoustics",
+      "name" : "LA4X"
+    },
+    {
+      "brand" : "L-Acoustics",
+      "name" : "LA7.16"
+    },
+    {
+      "brand" : "L-Acoustics",
+      "name" : "LA7.16i"
+    },
+    {
+      "brand" : "L-Acoustics",
+      "name" : "LA8"
+    },
+    {
+      "brand" : "Martin Audio",
+      "name" : "VIA2004"
+    },
+    {
+      "brand" : "Martin Audio",
+      "name" : "VIA5004"
+    },
+    {
+      "brand" : "Martin Audio",
+      "name" : "iK42"
+    },
+    {
+      "brand" : "Martin Audio",
+      "name" : "iK81"
+    },
+    {
+      "brand" : "NEXO",
+      "name" : "DTDAMP4x1.3"
+    },
+    {
+      "brand" : "NEXO",
+      "name" : "NXAMP4x1 MK2"
+    },
+    {
+      "brand" : "NEXO",
+      "name" : "NXAMP4x2 MK2"
+    },
+    {
+      "brand" : "NEXO",
+      "name" : "NXAMP4x4 MK2"
+    },
+    {
+      "brand" : "d&b audiotechnik",
+      "name" : "D40"
+    },
+    {
+      "brand" : "d&b audiotechnik",
+      "name" : "D80"
     }
   ],
-  "speakers": [
+  "loads" : [
     {
-      "name": "JSON SPEAKER 1",
-      "brand": "L-Acoustics",
-      "category": "A",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "JSON AMP 1": 2,
-        "JSON AMP 2": 3
-      }
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "IS10",
+      "total" : 2
     },
     {
-      "name": "JSON SPEAKER 2",
-      "brand": "L-Acoustics",
-      "category": "X",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "JSON AMP 1": 1,
-        "JSON AMP 2": 2
-      }
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "IS10n",
+      "total" : 2
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "IS10p",
+      "total" : 2
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "IS118",
+      "total" : 4
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "IS119",
+      "total" : 2
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "IS5c",
+      "total" : 6
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "IS7",
+      "total" : 4
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "IS7c",
+      "total" : 6
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "IS7p",
+      "total" : 2
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "IS7px",
+      "total" : 4
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "M10 Bi-Amped",
+      "total" : 2
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "M12A",
+      "total" : 2
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "M12P",
+      "total" : 3
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "M15A",
+      "total" : 2
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "M15P",
+      "total" : 3
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "MTX",
+      "total" : 6
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "P115A",
+      "total" : 2
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "P115P + P8P",
+      "total" : 2
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "P12A",
+      "total" : 2
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "P12P",
+      "total" : 2
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "P15A",
+      "total" : 2
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "P15P",
+      "total" : 2
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "P8P",
+      "total" : 2
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "PC10",
+      "total" : 2
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "PC12",
+      "total" : 2
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "PC5",
+      "total" : 2
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "PC6",
+      "total" : 4
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "PC8",
+      "total" : 2
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "S10",
+      "total" : 2
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "S10n",
+      "total" : 2
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "S10p",
+      "total" : 2
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "S118",
+      "total" : 4
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "S119",
+      "total" : 2
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "S7",
+      "total" : 2
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "S7p Bi-Amped",
+      "total" : 2
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "S7p Passive",
+      "total" : 4
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "SPK",
+      "total" : 2
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "SX18A",
+      "total" : 1
+    },
+    {
+      "amp" : "IPD2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "SX18P",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "IS10",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "IS10n",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "IS10p",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "IS118",
+      "total" : 4
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "IS119",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "IS5c",
+      "total" : 6
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "IS7",
+      "total" : 4
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "IS7c",
+      "total" : 6
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "IS7p",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "IS7px",
+      "total" : 4
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "M10 Bi-Amped",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "M12A",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "M12P",
+      "total" : 3
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "M15A",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "M15P",
+      "total" : 3
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "MTX",
+      "total" : 6
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "P115A",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "P115P + P8P",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "P12A",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "P12P",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "P15A",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "P15P",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "P8P",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "PC10",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "PC12",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "PC5",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "PC6",
+      "total" : 4
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "PC8",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "S10",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "S10n",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "S10p",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "S118",
+      "total" : 4
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "S119",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "S7",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "S7p Bi-Amped",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "S7p Passive",
+      "total" : 4
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "SPK",
+      "total" : 2
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "SX18A",
+      "total" : 1
+    },
+    {
+      "amp" : "IPX2400",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "SX18P",
+      "total" : 2
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "A218",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "IS10",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "IS10n",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "IS10p",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "IS118",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "IS119",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "IS213",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "IS219",
+      "total" : 3
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 8,
+      "speaker" : "IS5c",
+      "total" : 32
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 6,
+      "speaker" : "IS7",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 5,
+      "speaker" : "IS7c",
+      "total" : 18
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "IS7p",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "IS7px",
+      "total" : 10
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "M10 Bi-Amped",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "M12A",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "M12P",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "M15A",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "M15P",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "M212",
+      "total" : 2
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "M215",
+      "total" : 2
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "MTB",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 6,
+      "speaker" : "MTX",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "P115A",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "P115P + P8P",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "P12A",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "P12P",
+      "total" : 10
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "P15A",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "P15P",
+      "total" : 10
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "P215",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "P8P",
+      "total" : 16
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "PC10",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "PC12",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "PC5",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "PC6",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "PC8",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "Point 12",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "Point 15",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "Point 8",
+      "total" : 16
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "S10",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "S10n",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "S10p",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "S118",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "S119",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "S7",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "S7p Bi-Amped",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "S7p Passive",
+      "total" : 10
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "SPB",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "SPK",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "SX18A",
+      "total" : 3
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "SX18P",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "Y10",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM10000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "Y18",
+      "total" : 2
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "A218",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "E119",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "E12",
+      "total" : 3
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "E15",
+      "total" : 3
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "E219",
+      "total" : 2
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "IS10",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "IS10n",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "IS10p",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "IS118",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "IS119",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "IS213",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "IS219",
+      "total" : 2
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 8,
+      "speaker" : "IS5c",
+      "total" : 32
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 6,
+      "speaker" : "IS7",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 8,
+      "speaker" : "IS7c",
+      "total" : 20
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "IS7p",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "IS7px",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "M10 Bi-Amped",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "M12A",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "M12P",
+      "total" : 10
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "M15A",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "M15P",
+      "total" : 10
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "M212",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "M215",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "MTB",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 8,
+      "speaker" : "MTX",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "P115A",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "P115P + P8P",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "P12A",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "P12P",
+      "total" : 10
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "P15A",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "P15P",
+      "total" : 10
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "P215",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "P8P",
+      "total" : 16
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "PC10",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "PC12",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "PC5",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "PC6",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "PC8",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "Point 12",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "Point 15",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "Point 8",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "S10",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "S10n",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "S10p",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "S118",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "S119",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "S7",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "S7p Bi-Amped",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "S7p Passive",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "SPB",
+      "total" : 5
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "SPK",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "SX18A",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "SX18P",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "Y10",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM12K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "Y18",
+      "total" : 2
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "A218",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "E119",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "E12",
+      "total" : 3
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "E15",
+      "total" : 3
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "E218",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "E219",
+      "total" : 3
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "IS10",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "IS10p",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "IS118",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "IS119",
+      "total" : 2
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "IS213",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "IS219",
+      "total" : 3
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 8,
+      "speaker" : "IS5c",
+      "total" : 32
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 6,
+      "speaker" : "IS7",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 8,
+      "speaker" : "IS7c",
+      "total" : 32
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "IS7p",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "IS7px",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "M10 Bi-Amped",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "M12A",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "M12P",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "M15A",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "M15P",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "M212",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "M215",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "MTB",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 8,
+      "speaker" : "MTX",
+      "total" : 16
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "P115A",
+      "total" : 16
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "P115P + P8P",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "P12A",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "P12P",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "P15A",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "P15P",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "P215",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "P8P",
+      "total" : 16
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "PC10",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "PC12",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "PC5",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "PC6",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "PC8",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "Point 12",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "Point 15",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "Point 8",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "S10",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "S10p",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "S118",
+      "total" : 16
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "S119",
+      "total" : 2
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "S7",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "S7p Bi-Amped",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "S7p Passive",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "SPB",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "SPK",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "SX18A",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "SX18P",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "T21",
+      "total" : 2
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "Y10",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM20000Q",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "Y18",
+      "total" : 2
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "A218",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "E119",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "E12",
+      "total" : 3
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "E15",
+      "total" : 3
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "E218",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "E219",
+      "total" : 3
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "IS10",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "IS10n",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "IS10p",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "IS118",
+      "total" : 16
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "IS119",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "IS213",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "IS219",
+      "total" : 3
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 8,
+      "speaker" : "IS5c",
+      "total" : 32
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 6,
+      "speaker" : "IS7",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 8,
+      "speaker" : "IS7c",
+      "total" : 32
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "IS7p",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "IS7px",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "M10 Bi-Amped",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "M12A",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "M12P",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "M15A",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "M15P",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "M212",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "M215",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "MTB",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 8,
+      "speaker" : "MTX",
+      "total" : 16
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "P115A",
+      "total" : 16
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "P115P + P8P",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "P12A",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "P12P",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "P15A",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "P15P",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "P215",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "P8P",
+      "total" : 16
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "PC10",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "PC12",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "PC5",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "PC6",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "PC8",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "Point 12",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "Point 15",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "Point 8",
+      "total" : 16
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "S10",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "S10n",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "S10p",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "S118",
+      "total" : 16
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "S119",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "S7",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "S7p Bi-Amped",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "S7p Passive",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "SPB",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "SPK",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "SX18A",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "SX18P",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "T21",
+      "total" : 2
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "Y10",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM20K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "Y18",
+      "total" : 2
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "A218",
+      "total" : 3
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "IS10",
+      "total" : 5
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "IS10n",
+      "total" : 5
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "IS10p",
+      "total" : 5
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "IS118",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "IS119",
+      "total" : 3
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "IS213",
+      "total" : 2
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "IS219",
+      "total" : 2
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 8,
+      "speaker" : "IS5c",
+      "total" : 32
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 6,
+      "speaker" : "IS7",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 8,
+      "speaker" : "IS7c",
+      "total" : 13
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "IS7p",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "IS7px",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "M10 Bi-Amped",
+      "total" : 5
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "M12A",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "M12P",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "M15A",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "M15P",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "M212",
+      "total" : 3
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "M215",
+      "total" : 3
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "MTB",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 8,
+      "speaker" : "MTX",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "P115A",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "P115P + P8P",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "P12A",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "P12P",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "P15A",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "P15P",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "P215",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "P8P",
+      "total" : 14
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "PC10",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "PC12",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "PC5",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "PC6",
+      "total" : 12
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "PC8",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "S10",
+      "total" : 5
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "S10n",
+      "total" : 5
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "S10p",
+      "total" : 5
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "S118",
+      "total" : 8
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "S119",
+      "total" : 3
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "S7",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "S7p Bi-Amped",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "S7p Passive",
+      "total" : 6
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "SPB",
+      "total" : 3
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 4,
+      "speaker" : "SPK",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "SX18A",
+      "total" : 3
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 3,
+      "speaker" : "SX18P",
+      "total" : 4
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 2,
+      "speaker" : "Y10",
+      "total" : 2
+    },
+    {
+      "amp" : "PLM8K44",
+      "ampBrand" : "Adamson",
+      "perChannel" : 1,
+      "speaker" : "Y18",
+      "total" : 1
+    },
+    {
+      "amp" : "LINUS10C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "APS",
+      "total" : 8
+    },
+    {
+      "amp" : "LINUS10C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 1,
+      "speaker" : "APS-SUB",
+      "total" : 4
+    },
+    {
+      "amp" : "LINUS10C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 1,
+      "speaker" : "CUE FOUR",
+      "total" : 4
+    },
+    {
+      "amp" : "LINUS10C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 1,
+      "speaker" : "CUE TWO",
+      "total" : 4
+    },
+    {
+      "amp" : "LINUS10C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "CoRAY4",
+      "total" : 8
+    },
+    {
+      "amp" : "LINUS10C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "CoRAY4L",
+      "total" : 6
+    },
+    {
+      "amp" : "LINUS10C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 1,
+      "speaker" : "G715",
+      "total" : 4
+    },
+    {
+      "amp" : "LINUS10C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 1,
+      "speaker" : "G718",
+      "total" : 4
+    },
+    {
+      "amp" : "LINUS10C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 1,
+      "speaker" : "HOPS12i",
+      "total" : 4
+    },
+    {
+      "amp" : "LINUS10C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 4,
+      "speaker" : "HOPS5",
+      "total" : 16
+    },
+    {
+      "amp" : "LINUS10C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "HOPS8",
+      "total" : 8
+    },
+    {
+      "amp" : "LINUS10C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "N-RAY",
+      "total" : 8
+    },
+    {
+      "amp" : "LINUS10C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 1,
+      "speaker" : "SCN-F",
+      "total" : 4
+    },
+    {
+      "amp" : "LINUS10C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 1,
+      "speaker" : "SCP-F",
+      "total" : 2
+    },
+    {
+      "amp" : "LINUS10C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 1,
+      "speaker" : "SCV-F",
+      "total" : 2
+    },
+    {
+      "amp" : "LINUS10C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "ViRAY",
+      "total" : 8
+    },
+    {
+      "amp" : "LINUS10C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 1,
+      "speaker" : "ViRAY SUB",
+      "total" : 4
+    },
+    {
+      "amp" : "LINUS12C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 3,
+      "speaker" : "APS",
+      "total" : 12
+    },
+    {
+      "amp" : "LINUS12C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 1,
+      "speaker" : "APS-SUB",
+      "total" : 4
+    },
+    {
+      "amp" : "LINUS12C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "AiRAY",
+      "total" : 6
+    },
+    {
+      "amp" : "LINUS12C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "CUE FOUR",
+      "total" : 6
+    },
+    {
+      "amp" : "LINUS12C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "CUE TWO",
+      "total" : 6
+    },
+    {
+      "amp" : "LINUS12C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 3,
+      "speaker" : "CoRAY4",
+      "total" : 12
+    },
+    {
+      "amp" : "LINUS12C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "CoRAY4L",
+      "total" : 8
+    },
+    {
+      "amp" : "LINUS12C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "G715",
+      "total" : 6
+    },
+    {
+      "amp" : "LINUS12C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 1,
+      "speaker" : "G718",
+      "total" : 4
+    },
+    {
+      "amp" : "LINUS12C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "HOPS12i",
+      "total" : 6
+    },
+    {
+      "amp" : "LINUS12C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 5,
+      "speaker" : "HOPS5",
+      "total" : 20
+    },
+    {
+      "amp" : "LINUS12C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 3,
+      "speaker" : "HOPS8",
+      "total" : 12
+    },
+    {
+      "amp" : "LINUS12C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 3,
+      "speaker" : "N-RAY",
+      "total" : 12
+    },
+    {
+      "amp" : "LINUS12C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 1,
+      "speaker" : "SC2-F",
+      "total" : 4
+    },
+    {
+      "amp" : "LINUS12C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "SCN-F",
+      "total" : 6
+    },
+    {
+      "amp" : "LINUS12C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 1,
+      "speaker" : "SCP-F",
+      "total" : 2
+    },
+    {
+      "amp" : "LINUS12C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 1,
+      "speaker" : "SCV-F",
+      "total" : 2
+    },
+    {
+      "amp" : "LINUS12C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "ViRAY",
+      "total" : 8
+    },
+    {
+      "amp" : "LINUS12C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "ViRAY SUB",
+      "total" : 6
+    },
+    {
+      "amp" : "LINUS14D",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 3,
+      "speaker" : "APS",
+      "total" : 12
+    },
+    {
+      "amp" : "LINUS14D",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 1,
+      "speaker" : "APS-SUB",
+      "total" : 4
+    },
+    {
+      "amp" : "LINUS14D",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "AiRAY",
+      "total" : 8
+    },
+    {
+      "amp" : "LINUS14D",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "CUE FOUR",
+      "total" : 8
+    },
+    {
+      "amp" : "LINUS14D",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "CUE TWO",
+      "total" : 8
+    },
+    {
+      "amp" : "LINUS14D",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 4,
+      "speaker" : "CoRAY4",
+      "total" : 16
+    },
+    {
+      "amp" : "LINUS14D",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 3,
+      "speaker" : "CoRAY4L",
+      "total" : 12
+    },
+    {
+      "amp" : "LINUS14D",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "G715",
+      "total" : 8
+    },
+    {
+      "amp" : "LINUS14D",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 1,
+      "speaker" : "G718",
+      "total" : 4
+    },
+    {
+      "amp" : "LINUS14D",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "HOPS12i",
+      "total" : 8
+    },
+    {
+      "amp" : "LINUS14D",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 6,
+      "speaker" : "HOPS5",
+      "total" : 24
+    },
+    {
+      "amp" : "LINUS14D",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 3,
+      "speaker" : "HOPS8",
+      "total" : 12
+    },
+    {
+      "amp" : "LINUS14D",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 4,
+      "speaker" : "N-RAY",
+      "total" : 16
+    },
+    {
+      "amp" : "LINUS14D",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 1,
+      "speaker" : "SC2-F",
+      "total" : 4
+    },
+    {
+      "amp" : "LINUS14D",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "SCN-F",
+      "total" : 8
+    },
+    {
+      "amp" : "LINUS14D",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 1,
+      "speaker" : "SCP-F",
+      "total" : 2
+    },
+    {
+      "amp" : "LINUS14D",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 1,
+      "speaker" : "SCV-F",
+      "total" : 2
+    },
+    {
+      "amp" : "LINUS14D",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 3,
+      "speaker" : "ViRAY",
+      "total" : 12
+    },
+    {
+      "amp" : "LINUS14D",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "ViRAY SUB",
+      "total" : 8
+    },
+    {
+      "amp" : "LINUS5C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 3,
+      "speaker" : "APS",
+      "total" : 6
+    },
+    {
+      "amp" : "LINUS5C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "CUE FOUR",
+      "total" : 4
+    },
+    {
+      "amp" : "LINUS5C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "CUE TWO",
+      "total" : 4
+    },
+    {
+      "amp" : "LINUS5C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 3,
+      "speaker" : "CoRAY4",
+      "total" : 6
+    },
+    {
+      "amp" : "LINUS5C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "CoRAY4L",
+      "total" : 4
+    },
+    {
+      "amp" : "LINUS5C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "CoRAY4Li",
+      "total" : 4
+    },
+    {
+      "amp" : "LINUS5C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 3,
+      "speaker" : "CoRAY4i",
+      "total" : 6
+    },
+    {
+      "amp" : "LINUS5C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 1,
+      "speaker" : "G18-SUB",
+      "total" : 2
+    },
+    {
+      "amp" : "LINUS5C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 2,
+      "speaker" : "G715",
+      "total" : 4
+    },
+    {
+      "amp" : "LINUS5C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 6,
+      "speaker" : "HOPS5",
+      "total" : 12
+    },
+    {
+      "amp" : "LINUS5C",
+      "ampBrand" : "CODA Audio",
+      "perChannel" : 3,
+      "speaker" : "HOPS8",
+      "total" : 6
+    },
+    {
+      "amp" : "IPX10:4",
+      "ampBrand" : "Electro-Voice",
+      "perChannel" : 2,
+      "speaker" : "MFX-12MC",
+      "total" : 8
+    },
+    {
+      "amp" : "IPX10:4",
+      "ampBrand" : "Electro-Voice",
+      "perChannel" : 2,
+      "speaker" : "X1-212\/120",
+      "total" : 8
+    },
+    {
+      "amp" : "IPX10:4",
+      "ampBrand" : "Electro-Voice",
+      "perChannel" : 2,
+      "speaker" : "X1-212\/90",
+      "total" : 8
+    },
+    {
+      "amp" : "TGX10",
+      "ampBrand" : "Electro-Voice",
+      "perChannel" : 2,
+      "speaker" : "MFX-12MC",
+      "total" : 8
+    },
+    {
+      "amp" : "TGX10",
+      "ampBrand" : "Electro-Voice",
+      "perChannel" : 3,
+      "speaker" : "X1-212\/120",
+      "total" : 12
+    },
+    {
+      "amp" : "TGX10",
+      "ampBrand" : "Electro-Voice",
+      "perChannel" : 3,
+      "speaker" : "X1-212\/90",
+      "total" : 12
+    },
+    {
+      "amp" : "TGX20",
+      "ampBrand" : "Electro-Voice",
+      "perChannel" : 2,
+      "speaker" : "X12-125F",
+      "total" : 4
+    },
+    {
+      "amp" : "TGX20",
+      "ampBrand" : "Electro-Voice",
+      "perChannel" : 3,
+      "speaker" : "X12-128",
+      "total" : 6
+    },
+    {
+      "amp" : "TGX20",
+      "ampBrand" : "Electro-Voice",
+      "perChannel" : 3,
+      "speaker" : "X2-212\/120",
+      "total" : 12
+    },
+    {
+      "amp" : "TGX20",
+      "ampBrand" : "Electro-Voice",
+      "perChannel" : 3,
+      "speaker" : "X2-212\/90",
+      "total" : 12
+    },
+    {
+      "amp" : "Crown I-Tech 12000HD",
+      "ampBrand" : "JBL Professional",
+      "perChannel" : 2,
+      "speaker" : "SRX815",
+      "total" : 8
+    },
+    {
+      "amp" : "Crown I-Tech 12000HD",
+      "ampBrand" : "JBL Professional",
+      "perChannel" : 2,
+      "speaker" : "SRX828S",
+      "total" : 4
+    },
+    {
+      "amp" : "Crown I-Tech 12000HD",
+      "ampBrand" : "JBL Professional",
+      "perChannel" : 1,
+      "speaker" : "VTX B28",
+      "total" : 2
+    },
+    {
+      "amp" : "Crown I-Tech 4x3500HD",
+      "ampBrand" : "JBL Professional",
+      "perChannel" : 3,
+      "speaker" : "VRX932LA-1",
+      "total" : 12
+    },
+    {
+      "amp" : "Crown I-Tech 4x3500HD",
+      "ampBrand" : "JBL Professional",
+      "perChannel" : 2,
+      "speaker" : "VTX A12",
+      "total" : 3
+    },
+    {
+      "amp" : "Crown I-Tech 4x3500HD",
+      "ampBrand" : "JBL Professional",
+      "perChannel" : 3,
+      "speaker" : "VTX A8",
+      "total" : 6
+    },
+    {
+      "amp" : "Crown I-Tech 4x3500HD",
+      "ampBrand" : "JBL Professional",
+      "perChannel" : 1,
+      "speaker" : "VTX B28",
+      "total" : 2
+    },
+    {
+      "amp" : "Crown VRack 4x3500HD",
+      "ampBrand" : "JBL Professional",
+      "perChannel" : 2,
+      "speaker" : "VTX A12",
+      "total" : 9
+    },
+    {
+      "amp" : "Crown VRack 4x3500HD",
+      "ampBrand" : "JBL Professional",
+      "perChannel" : 3,
+      "speaker" : "VTX A8",
+      "total" : 18
+    },
+    {
+      "amp" : "Crown VRack 4x3500HD",
+      "ampBrand" : "JBL Professional",
+      "perChannel" : 1,
+      "speaker" : "VTX B28",
+      "total" : 6
+    },
+    {
+      "amp" : "LA1.16i_BTL",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "5XT",
+      "total" : 14
+    },
+    {
+      "amp" : "LA1.16i_BTL",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "A10 Wide\/Focus",
+      "total" : 4
+    },
+    {
+      "amp" : "LA1.16i_BTL",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "Kiva II",
+      "total" : 10
+    },
+    {
+      "amp" : "LA1.16i_BTL",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "SB10i",
+      "total" : 4
+    },
+    {
+      "amp" : "LA1.16i_BTL",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Soka",
+      "total" : 4
+    },
+    {
+      "amp" : "LA1.16i_BTL",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Syva Sub",
+      "total" : 4
+    },
+    {
+      "amp" : "LA1.16i_BTL",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "X12",
+      "total" : 4
+    },
+    {
+      "amp" : "LA1.16i_BTL",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "X4i",
+      "total" : 12
+    },
+    {
+      "amp" : "LA1.16i_BTL",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "X6i",
+      "total" : 8
+    },
+    {
+      "amp" : "LA1.16i_BTL",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "X8",
+      "total" : 8
+    },
+    {
+      "amp" : "LA1.16i_BTL",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "X8i",
+      "total" : 8
+    },
+    {
+      "amp" : "LA1.16i_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "5XT",
+      "total" : 48
+    },
+    {
+      "amp" : "LA1.16i_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "SB10i",
+      "total" : 20
+    },
+    {
+      "amp" : "LA1.16i_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "SB6i",
+      "total" : 12
+    },
+    {
+      "amp" : "LA1.16i_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "Soka",
+      "total" : 26
+    },
+    {
+      "amp" : "LA1.16i_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "X4i",
+      "total" : 48
+    },
+    {
+      "amp" : "LA1.16i_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "X6i",
+      "total" : 20
+    },
+    {
+      "amp" : "LA1.16i_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "X8",
+      "total" : 32
+    },
+    {
+      "amp" : "LA1.16i_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "X8i",
+      "total" : 30
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "112XT",
+      "total" : 6
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "115XT",
+      "total" : 6
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "115XT HiQ",
+      "total" : 6
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 6,
+      "speaker" : "5XT",
+      "total" : 24
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "8XT",
+      "total" : 12
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "A10 Wide\/Focus",
+      "total" : 12
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "A15 Wide\/Focus",
+      "total" : 12
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "ARCS",
+      "total" : 6
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "ARCS II",
+      "total" : 6
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "ARCS Wide\/Focus",
+      "total" : 12
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "Active 12XT",
+      "total" : 6
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "Active MTD115b",
+      "total" : 4
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "K1",
+      "total" : 2
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "K1-SB",
+      "total" : 4
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "K2",
+      "total" : 3
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "K3",
+      "total" : 6
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "KS21",
+      "total" : 8
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "KS28",
+      "total" : 4
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "Kara",
+      "total" : 6
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "Kara II",
+      "total" : 6
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "Kiva \/ Kilo",
+      "total" : 12
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 6,
+      "speaker" : "Kiva II",
+      "total" : 24
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "Kudo",
+      "total" : 3
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "MTD108a",
+      "total" : 12
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "MTD112b",
+      "total" : 8
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "Passive 12XT",
+      "total" : 12
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "Passive MTD115b",
+      "total" : 8
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "SB10i",
+      "total" : 12
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "SB118",
+      "total" : 8
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "SB15m",
+      "total" : 12
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "SB18",
+      "total" : 12
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "SB218",
+      "total" : 4
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "SB28",
+      "total" : 4
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "SB6i",
+      "total" : 8
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "Soka",
+      "total" : 12
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "Syva",
+      "total" : 12
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "Syva Low",
+      "total" : 6
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "Syva Sub",
+      "total" : 12
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "V-DOSC",
+      "total" : 2
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "X12",
+      "total" : 12
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "X15 HiQ",
+      "total" : 6
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 6,
+      "speaker" : "X4i",
+      "total" : 24
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "X6i",
+      "total" : 12
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "X8",
+      "total" : 12
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "X8i",
+      "total" : 12
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "dV-DOSC",
+      "total" : 6
+    },
+    {
+      "amp" : "LA12X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "dV-SUB",
+      "total" : 4
+    },
+    {
+      "amp" : "LA2Xi_BTL",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "A10 Wide\/Focus",
+      "total" : 2
+    },
+    {
+      "amp" : "LA2Xi_BTL",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "A15 Wide\/Focus",
+      "total" : 2
+    },
+    {
+      "amp" : "LA2Xi_BTL",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "ARCS Wide\/Focus",
+      "total" : 2
+    },
+    {
+      "amp" : "LA2Xi_BTL",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "KS21",
+      "total" : 2
+    },
+    {
+      "amp" : "LA2Xi_BTL",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "Kiva II",
+      "total" : 4
+    },
+    {
+      "amp" : "LA2Xi_BTL",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "SB10i",
+      "total" : 2
+    },
+    {
+      "amp" : "LA2Xi_BTL",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "SB15m",
+      "total" : 2
+    },
+    {
+      "amp" : "LA2Xi_BTL",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "SB18",
+      "total" : 2
+    },
+    {
+      "amp" : "LA2Xi_BTL",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Soka",
+      "total" : 2
+    },
+    {
+      "amp" : "LA2Xi_BTL",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Syva",
+      "total" : 2
+    },
+    {
+      "amp" : "LA2Xi_BTL",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Syva Sub",
+      "total" : 2
+    },
+    {
+      "amp" : "LA2Xi_BTL",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "X12",
+      "total" : 2
+    },
+    {
+      "amp" : "LA2Xi_BTL",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "X6i",
+      "total" : 2
+    },
+    {
+      "amp" : "LA2Xi_BTL",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "X8",
+      "total" : 2
+    },
+    {
+      "amp" : "LA2Xi_BTL",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "X8i",
+      "total" : 2
+    },
+    {
+      "amp" : "LA2Xi_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 4,
+      "speaker" : "5XT",
+      "total" : 16
+    },
+    {
+      "amp" : "LA2Xi_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "A10 Wide\/Focus",
+      "total" : 8
+    },
+    {
+      "amp" : "LA2Xi_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "A15 Wide\/Focus",
+      "total" : 4
+    },
+    {
+      "amp" : "LA2Xi_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "ARCS Wide\/Focus",
+      "total" : 4
+    },
+    {
+      "amp" : "LA2Xi_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "KS21",
+      "total" : 4
+    },
+    {
+      "amp" : "LA2Xi_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "Kara",
+      "total" : 4
+    },
+    {
+      "amp" : "LA2Xi_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "Kara II",
+      "total" : 4
+    },
+    {
+      "amp" : "LA2Xi_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "Kiva II",
+      "total" : 8
+    },
+    {
+      "amp" : "LA2Xi_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "SB10i",
+      "total" : 8
+    },
+    {
+      "amp" : "LA2Xi_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "SB15m",
+      "total" : 4
+    },
+    {
+      "amp" : "LA2Xi_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "SB18",
+      "total" : 4
+    },
+    {
+      "amp" : "LA2Xi_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "SB28",
+      "total" : 4
+    },
+    {
+      "amp" : "LA2Xi_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "SB6i",
+      "total" : 4
+    },
+    {
+      "amp" : "LA2Xi_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Soka",
+      "total" : 4
+    },
+    {
+      "amp" : "LA2Xi_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Syva",
+      "total" : 4
+    },
+    {
+      "amp" : "LA2Xi_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Syva Low",
+      "total" : 4
+    },
+    {
+      "amp" : "LA2Xi_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Syva Sub",
+      "total" : 4
+    },
+    {
+      "amp" : "LA2Xi_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "X12",
+      "total" : 4
+    },
+    {
+      "amp" : "LA2Xi_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "X15 HiQ",
+      "total" : 2
+    },
+    {
+      "amp" : "LA2Xi_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 4,
+      "speaker" : "X4i",
+      "total" : 16
+    },
+    {
+      "amp" : "LA2Xi_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "X6i",
+      "total" : 8
+    },
+    {
+      "amp" : "LA2Xi_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "X8",
+      "total" : 8
+    },
+    {
+      "amp" : "LA2Xi_SE",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "X8i",
+      "total" : 8
+    },
+    {
+      "amp" : "LA4",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "112XT",
+      "total" : 4
+    },
+    {
+      "amp" : "LA4",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "115XT",
+      "total" : 2
+    },
+    {
+      "amp" : "LA4",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "115XT HiQ",
+      "total" : 2
+    },
+    {
+      "amp" : "LA4",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "5XT",
+      "total" : 12
+    },
+    {
+      "amp" : "LA4",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "8XT",
+      "total" : 8
+    },
+    {
+      "amp" : "LA4",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "ARCS",
+      "total" : 2
+    },
+    {
+      "amp" : "LA4",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "ARCS Wide\/Focus",
+      "total" : 4
+    },
+    {
+      "amp" : "LA4",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "Active 12XT",
+      "total" : 4
+    },
+    {
+      "amp" : "LA4",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Active MTD115b",
+      "total" : 2
+    },
+    {
+      "amp" : "LA4",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "MTD108a",
+      "total" : 8
+    },
+    {
+      "amp" : "LA4",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "MTD112b",
+      "total" : 4
+    },
+    {
+      "amp" : "LA4",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Passive 12XT",
+      "total" : 4
+    },
+    {
+      "amp" : "LA4",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Passive MTD115b",
+      "total" : 4
+    },
+    {
+      "amp" : "LA4",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 4,
+      "speaker" : "X4i",
+      "total" : 16
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "112XT",
+      "total" : 4
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "115XT",
+      "total" : 2
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "115XT HiQ",
+      "total" : 2
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 4,
+      "speaker" : "5XT",
+      "total" : 16
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "8XT",
+      "total" : 8
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "A10 Wide\/Focus",
+      "total" : 8
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "A15 Wide\/Focus",
+      "total" : 4
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "ARCS",
+      "total" : 2
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "ARCS II",
+      "total" : 2
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "ARCS Wide\/Focus",
+      "total" : 4
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "Active 12XT",
+      "total" : 4
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Active MTD115b",
+      "total" : 2
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "K2",
+      "total" : 1
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "K3",
+      "total" : 2
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "KS21",
+      "total" : 4
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "Kara",
+      "total" : 4
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "Kara II",
+      "total" : 4
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "Kiva \/ Kilo",
+      "total" : 8
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "Kiva II",
+      "total" : 8
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Kudo",
+      "total" : 1
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "MTD108a",
+      "total" : 8
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "MTD112b",
+      "total" : 4
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Passive 12XT",
+      "total" : 4
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Passive MTD115b",
+      "total" : 4
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "SB10i",
+      "total" : 8
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "SB118",
+      "total" : 4
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "SB15m",
+      "total" : 4
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "SB18",
+      "total" : 4
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "SB6i",
+      "total" : 4
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "Soka",
+      "total" : 8
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Syva",
+      "total" : 4
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Syva Low",
+      "total" : 4
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Syva Sub",
+      "total" : 4
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "X12",
+      "total" : 4
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "X15 HiQ",
+      "total" : 2
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 4,
+      "speaker" : "X4i",
+      "total" : 16
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "X6i",
+      "total" : 8
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "X8",
+      "total" : 8
+    },
+    {
+      "amp" : "LA4X",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "X8i",
+      "total" : 8
+    },
+    {
+      "amp" : "LA7.16",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "5XT",
+      "total" : 48
+    },
+    {
+      "amp" : "LA7.16",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "A10 Wide\/Focus",
+      "total" : 16
+    },
+    {
+      "amp" : "LA7.16",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "A15 Wide\/Focus",
+      "total" : 10
+    },
+    {
+      "amp" : "LA7.16",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "K2",
+      "total" : 4
+    },
+    {
+      "amp" : "LA7.16",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "K3",
+      "total" : 8
+    },
+    {
+      "amp" : "LA7.16",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "KS21",
+      "total" : 8
+    },
+    {
+      "amp" : "LA7.16",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Kara II",
+      "total" : 8
+    },
+    {
+      "amp" : "LA7.16",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "Kiva II",
+      "total" : 32
+    },
+    {
+      "amp" : "LA7.16",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "L2",
+      "total" : 1
+    },
+    {
+      "amp" : "LA7.16",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "L2D",
+      "total" : 1
+    },
+    {
+      "amp" : "LA7.16",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "SB10i",
+      "total" : 32
+    },
+    {
+      "amp" : "LA7.16",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "SB15m",
+      "total" : 9
+    },
+    {
+      "amp" : "LA7.16",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "SB18",
+      "total" : 6
+    },
+    {
+      "amp" : "LA7.16",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "SB6i",
+      "total" : 16
+    },
+    {
+      "amp" : "LA7.16",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Soka",
+      "total" : 16
+    },
+    {
+      "amp" : "LA7.16",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Syva",
+      "total" : 10
+    },
+    {
+      "amp" : "LA7.16",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Syva Low",
+      "total" : 8
+    },
+    {
+      "amp" : "LA7.16",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Syva Sub",
+      "total" : 16
+    },
+    {
+      "amp" : "LA7.16",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "X12",
+      "total" : 14
+    },
+    {
+      "amp" : "LA7.16",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "X15 HiQ",
+      "total" : 8
+    },
+    {
+      "amp" : "LA7.16",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 4,
+      "speaker" : "X4i",
+      "total" : 64
+    },
+    {
+      "amp" : "LA7.16",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "X6i",
+      "total" : 16
+    },
+    {
+      "amp" : "LA7.16",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "X8",
+      "total" : 16
+    },
+    {
+      "amp" : "LA7.16",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "X8i",
+      "total" : 16
+    },
+    {
+      "amp" : "LA7.16i",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "5XT",
+      "total" : 48
+    },
+    {
+      "amp" : "LA7.16i",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "A10 Wide\/Focus",
+      "total" : 16
+    },
+    {
+      "amp" : "LA7.16i",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "A15 Wide\/Focus",
+      "total" : 10
+    },
+    {
+      "amp" : "LA7.16i",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "K2",
+      "total" : 4
+    },
+    {
+      "amp" : "LA7.16i",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "K3",
+      "total" : 8
+    },
+    {
+      "amp" : "LA7.16i",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "KS21",
+      "total" : 8
+    },
+    {
+      "amp" : "LA7.16i",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Kara II",
+      "total" : 8
+    },
+    {
+      "amp" : "LA7.16i",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "Kiva II",
+      "total" : 32
+    },
+    {
+      "amp" : "LA7.16i",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "L2",
+      "total" : 1
+    },
+    {
+      "amp" : "LA7.16i",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "L2D",
+      "total" : 1
+    },
+    {
+      "amp" : "LA7.16i",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "SB10i",
+      "total" : 32
+    },
+    {
+      "amp" : "LA7.16i",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "SB15m",
+      "total" : 9
+    },
+    {
+      "amp" : "LA7.16i",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "SB18",
+      "total" : 6
+    },
+    {
+      "amp" : "LA7.16i",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "SB6i",
+      "total" : 16
+    },
+    {
+      "amp" : "LA7.16i",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Soka",
+      "total" : 16
+    },
+    {
+      "amp" : "LA7.16i",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Syva",
+      "total" : 10
+    },
+    {
+      "amp" : "LA7.16i",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Syva Low",
+      "total" : 8
+    },
+    {
+      "amp" : "LA7.16i",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "Syva Sub",
+      "total" : 16
+    },
+    {
+      "amp" : "LA7.16i",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "X12",
+      "total" : 14
+    },
+    {
+      "amp" : "LA7.16i",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "X15 HiQ",
+      "total" : 8
+    },
+    {
+      "amp" : "LA7.16i",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 4,
+      "speaker" : "X4i",
+      "total" : 64
+    },
+    {
+      "amp" : "LA7.16i",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "X6i",
+      "total" : 16
+    },
+    {
+      "amp" : "LA7.16i",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "X8",
+      "total" : 16
+    },
+    {
+      "amp" : "LA7.16i",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "X8i",
+      "total" : 16
+    },
+    {
+      "amp" : "LA8",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "112XT",
+      "total" : 6
+    },
+    {
+      "amp" : "LA8",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "115XT",
+      "total" : 6
+    },
+    {
+      "amp" : "LA8",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "115XT HiQ",
+      "total" : 4
+    },
+    {
+      "amp" : "LA8",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 6,
+      "speaker" : "5XT",
+      "total" : 24
+    },
+    {
+      "amp" : "LA8",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "8XT",
+      "total" : 12
+    },
+    {
+      "amp" : "LA8",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "A10 Wide\/Focus",
+      "total" : 8
+    },
+    {
+      "amp" : "LA8",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "A15 Wide\/Focus",
+      "total" : 8
+    },
+    {
+      "amp" : "LA8",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "ARCS",
+      "total" : 6
+    },
+    {
+      "amp" : "LA8",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "ARCS II",
+      "total" : 4
+    },
+    {
+      "amp" : "LA8",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "ARCS Wide\/Focus",
+      "total" : 8
+    },
+    {
+      "amp" : "LA8",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "Active 12XT",
+      "total" : 6
+    },
+    {
+      "amp" : "LA8",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "Active MTD115b",
+      "total" : 4
+    },
+    {
+      "amp" : "LA8",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "K1",
+      "total" : 2
+    },
+    {
+      "amp" : "LA8",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 1,
+      "speaker" : "K1-SB",
+      "total" : 4
+    },
+    {
+      "amp" : "LA8",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "K2",
+      "total" : 3
+    },
+    {
+      "amp" : "LA8",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "K3",
+      "total" : 4
+    },
+    {
+      "amp" : "LA8",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "Kara",
+      "total" : 6
+    },
+    {
+      "amp" : "LA8",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 3,
+      "speaker" : "MTD108a",
+      "total" : 12
+    },
+    {
+      "amp" : "LA8",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "MTD112b",
+      "total" : 8
+    },
+    {
+      "amp" : "LA8",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "Passive 12XT",
+      "total" : 8
+    },
+    {
+      "amp" : "LA8",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "Passive MTD115b",
+      "total" : 8
+    },
+    {
+      "amp" : "LA8",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "Syva",
+      "total" : 8
+    },
+    {
+      "amp" : "LA8",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "X12",
+      "total" : 8
+    },
+    {
+      "amp" : "LA8",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 2,
+      "speaker" : "X15 HiQ",
+      "total" : 4
+    },
+    {
+      "amp" : "LA8",
+      "ampBrand" : "L-Acoustics",
+      "perChannel" : 6,
+      "speaker" : "X4i",
+      "total" : 24
+    },
+    {
+      "amp" : "VIA2004",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 4,
+      "speaker" : "ADORN",
+      "total" : 16
+    },
+    {
+      "amp" : "VIA2004",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 2,
+      "speaker" : "CDD10",
+      "total" : 8
+    },
+    {
+      "amp" : "VIA2004",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "CDD12",
+      "total" : 4
+    },
+    {
+      "amp" : "VIA2004",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "CDD15",
+      "total" : 4
+    },
+    {
+      "amp" : "VIA2004",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 3,
+      "speaker" : "CDD6",
+      "total" : 12
+    },
+    {
+      "amp" : "VIA2004",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 3,
+      "speaker" : "CDD8",
+      "total" : 12
+    },
+    {
+      "amp" : "VIA2004",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 2,
+      "speaker" : "SX110",
+      "total" : 8
+    },
+    {
+      "amp" : "VIA2004",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "SX210",
+      "total" : 4
+    },
+    {
+      "amp" : "VIA5004",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 4,
+      "speaker" : "ADORN",
+      "total" : 16
+    },
+    {
+      "amp" : "VIA5004",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 2,
+      "speaker" : "CDD10",
+      "total" : 8
+    },
+    {
+      "amp" : "VIA5004",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "CDD12",
+      "total" : 4
+    },
+    {
+      "amp" : "VIA5004",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "CDD15",
+      "total" : 4
+    },
+    {
+      "amp" : "VIA5004",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 3,
+      "speaker" : "CDD6",
+      "total" : 12
+    },
+    {
+      "amp" : "VIA5004",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 3,
+      "speaker" : "CDD8",
+      "total" : 12
+    },
+    {
+      "amp" : "VIA5004",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 2,
+      "speaker" : "SX110",
+      "total" : 8
+    },
+    {
+      "amp" : "VIA5004",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "SX210",
+      "total" : 4
+    },
+    {
+      "amp" : "iK42",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 4,
+      "speaker" : "ADORN",
+      "total" : 16
+    },
+    {
+      "amp" : "iK42",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 2,
+      "speaker" : "CDD10",
+      "total" : 8
+    },
+    {
+      "amp" : "iK42",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "CDD12",
+      "total" : 4
+    },
+    {
+      "amp" : "iK42",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "CDD15",
+      "total" : 4
+    },
+    {
+      "amp" : "iK42",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 3,
+      "speaker" : "CDD6",
+      "total" : 12
+    },
+    {
+      "amp" : "iK42",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 3,
+      "speaker" : "CDD8",
+      "total" : 12
+    },
+    {
+      "amp" : "iK42",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "LE1200",
+      "total" : 4
+    },
+    {
+      "amp" : "iK42",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "LE1500",
+      "total" : 2
+    },
+    {
+      "amp" : "iK42",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "LE2100",
+      "total" : 2
+    },
+    {
+      "amp" : "iK42",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 2,
+      "speaker" : "SX110",
+      "total" : 8
+    },
+    {
+      "amp" : "iK42",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "SX210",
+      "total" : 4
+    },
+    {
+      "amp" : "iK42",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "SXC115",
+      "total" : 4
+    },
+    {
+      "amp" : "iK42",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "SXC118",
+      "total" : 4
+    },
+    {
+      "amp" : "iK42",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "SXH218",
+      "total" : 2
+    },
+    {
+      "amp" : "iK42",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "TORUS T1215",
+      "total" : 4
+    },
+    {
+      "amp" : "iK42",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "TORUS T1230",
+      "total" : 4
+    },
+    {
+      "amp" : "iK42",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "W8L",
+      "total" : 4
+    },
+    {
+      "amp" : "iK42",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "W8LC",
+      "total" : 4
+    },
+    {
+      "amp" : "iK42",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "W8LM",
+      "total" : 4
+    },
+    {
+      "amp" : "iK42",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "WPC",
+      "total" : 4
+    },
+    {
+      "amp" : "iK42",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "WPL",
+      "total" : 4
+    },
+    {
+      "amp" : "iK42",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "WPM",
+      "total" : 4
+    },
+    {
+      "amp" : "iK42",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "WPS",
+      "total" : 4
+    },
+    {
+      "amp" : "iK42",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 2,
+      "speaker" : "XE300",
+      "total" : 6
+    },
+    {
+      "amp" : "iK42",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "XE500",
+      "total" : 4
+    },
+    {
+      "amp" : "iK81",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 4,
+      "speaker" : "ADORN",
+      "total" : 16
+    },
+    {
+      "amp" : "iK81",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 2,
+      "speaker" : "CDD10",
+      "total" : 8
+    },
+    {
+      "amp" : "iK81",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "CDD12",
+      "total" : 4
+    },
+    {
+      "amp" : "iK81",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "CDD15",
+      "total" : 4
+    },
+    {
+      "amp" : "iK81",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 3,
+      "speaker" : "CDD6",
+      "total" : 12
+    },
+    {
+      "amp" : "iK81",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 3,
+      "speaker" : "CDD8",
+      "total" : 12
+    },
+    {
+      "amp" : "iK81",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "LE1200",
+      "total" : 4
+    },
+    {
+      "amp" : "iK81",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "LE1500",
+      "total" : 2
+    },
+    {
+      "amp" : "iK81",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "LE2100",
+      "total" : 2
+    },
+    {
+      "amp" : "iK81",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 2,
+      "speaker" : "SX110",
+      "total" : 8
+    },
+    {
+      "amp" : "iK81",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "SX210",
+      "total" : 4
+    },
+    {
+      "amp" : "iK81",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "SXC115",
+      "total" : 4
+    },
+    {
+      "amp" : "iK81",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "SXC118",
+      "total" : 4
+    },
+    {
+      "amp" : "iK81",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "SXH218",
+      "total" : 2
+    },
+    {
+      "amp" : "iK81",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "TORUS T1215",
+      "total" : 4
+    },
+    {
+      "amp" : "iK81",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "TORUS T1230",
+      "total" : 4
+    },
+    {
+      "amp" : "iK81",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "W8L",
+      "total" : 4
+    },
+    {
+      "amp" : "iK81",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "W8LC",
+      "total" : 4
+    },
+    {
+      "amp" : "iK81",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "W8LM",
+      "total" : 4
+    },
+    {
+      "amp" : "iK81",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "WPC",
+      "total" : 4
+    },
+    {
+      "amp" : "iK81",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "WPL",
+      "total" : 4
+    },
+    {
+      "amp" : "iK81",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "WPM",
+      "total" : 4
+    },
+    {
+      "amp" : "iK81",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "WPS",
+      "total" : 4
+    },
+    {
+      "amp" : "iK81",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 2,
+      "speaker" : "XE300",
+      "total" : 6
+    },
+    {
+      "amp" : "iK81",
+      "ampBrand" : "Martin Audio",
+      "perChannel" : 1,
+      "speaker" : "XE500",
+      "total" : 4
+    },
+    {
+      "amp" : "DTDAMP4x1.3",
+      "ampBrand" : "NEXO",
+      "perChannel" : 2,
+      "speaker" : "45N12",
+      "total" : 8
+    },
+    {
+      "amp" : "DTDAMP4x1.3",
+      "ampBrand" : "NEXO",
+      "perChannel" : 4,
+      "speaker" : "GEO M6",
+      "total" : 16
+    },
+    {
+      "amp" : "DTDAMP4x1.3",
+      "ampBrand" : "NEXO",
+      "perChannel" : 1,
+      "speaker" : "P12",
+      "total" : 4
+    },
+    {
+      "amp" : "DTDAMP4x1.3",
+      "ampBrand" : "NEXO",
+      "perChannel" : 2,
+      "speaker" : "P15",
+      "total" : 8
+    },
+    {
+      "amp" : "NXAMP4x1 MK2",
+      "ampBrand" : "NEXO",
+      "perChannel" : 2,
+      "speaker" : "45N12",
+      "total" : 8
+    },
+    {
+      "amp" : "NXAMP4x1 MK2",
+      "ampBrand" : "NEXO",
+      "perChannel" : 2,
+      "speaker" : "GEO M10",
+      "total" : 4
+    },
+    {
+      "amp" : "NXAMP4x1 MK2",
+      "ampBrand" : "NEXO",
+      "perChannel" : 6,
+      "speaker" : "GEO M6",
+      "total" : 24
+    },
+    {
+      "amp" : "NXAMP4x1 MK2",
+      "ampBrand" : "NEXO",
+      "perChannel" : 2,
+      "speaker" : "P12",
+      "total" : 8
+    },
+    {
+      "amp" : "NXAMP4x2 MK2",
+      "ampBrand" : "NEXO",
+      "perChannel" : 4,
+      "speaker" : "GEO M10",
+      "total" : 8
+    },
+    {
+      "amp" : "NXAMP4x2 MK2",
+      "ampBrand" : "NEXO",
+      "perChannel" : 3,
+      "speaker" : "GEO M12",
+      "total" : 6
+    },
+    {
+      "amp" : "NXAMP4x2 MK2",
+      "ampBrand" : "NEXO",
+      "perChannel" : 2,
+      "speaker" : "MSUB18",
+      "total" : 8
+    },
+    {
+      "amp" : "NXAMP4x2 MK2",
+      "ampBrand" : "NEXO",
+      "perChannel" : 2,
+      "speaker" : "PS15-R2",
+      "total" : 8
+    },
+    {
+      "amp" : "NXAMP4x2 MK2",
+      "ampBrand" : "NEXO",
+      "perChannel" : 2,
+      "speaker" : "RS18",
+      "total" : 4
+    },
+    {
+      "amp" : "NXAMP4x4 MK2",
+      "ampBrand" : "NEXO",
+      "perChannel" : 4,
+      "speaker" : "GEO M12",
+      "total" : 8
+    },
+    {
+      "amp" : "NXAMP4x4 MK2",
+      "ampBrand" : "NEXO",
+      "perChannel" : 2,
+      "speaker" : "MSUB18",
+      "total" : 8
+    },
+    {
+      "amp" : "NXAMP4x4 MK2",
+      "ampBrand" : "NEXO",
+      "perChannel" : 4,
+      "speaker" : "RS18",
+      "total" : 6
+    },
+    {
+      "amp" : "NXAMP4x4 MK2",
+      "ampBrand" : "NEXO",
+      "perChannel" : 4,
+      "speaker" : "STM M28",
+      "total" : 8
+    },
+    {
+      "amp" : "D40",
+      "ampBrand" : "d&b audiotechnik",
+      "perChannel" : 1,
+      "speaker" : "B6-SUB",
+      "total" : 4
+    },
+    {
+      "amp" : "D40",
+      "ampBrand" : "d&b audiotechnik",
+      "perChannel" : 1,
+      "speaker" : "C6",
+      "total" : 4
+    },
+    {
+      "amp" : "D40",
+      "ampBrand" : "d&b audiotechnik",
+      "perChannel" : 1,
+      "speaker" : "E6",
+      "total" : 4
+    },
+    {
+      "amp" : "D40",
+      "ampBrand" : "d&b audiotechnik",
+      "perChannel" : 1,
+      "speaker" : "KSL12",
+      "total" : 4
+    },
+    {
+      "amp" : "D40",
+      "ampBrand" : "d&b audiotechnik",
+      "perChannel" : 1,
+      "speaker" : "KSL8",
+      "total" : 4
+    },
+    {
+      "amp" : "D40",
+      "ampBrand" : "d&b audiotechnik",
+      "perChannel" : 1,
+      "speaker" : "M4",
+      "total" : 4
+    },
+    {
+      "amp" : "D40",
+      "ampBrand" : "d&b audiotechnik",
+      "perChannel" : 1,
+      "speaker" : "T10",
+      "total" : 4
+    },
+    {
+      "amp" : "D40",
+      "ampBrand" : "d&b audiotechnik",
+      "perChannel" : 1,
+      "speaker" : "V8",
+      "total" : 4
+    },
+    {
+      "amp" : "D40",
+      "ampBrand" : "d&b audiotechnik",
+      "perChannel" : 1,
+      "speaker" : "XSL12",
+      "total" : 4
+    },
+    {
+      "amp" : "D40",
+      "ampBrand" : "d&b audiotechnik",
+      "perChannel" : 1,
+      "speaker" : "XSL8",
+      "total" : 4
+    },
+    {
+      "amp" : "D40",
+      "ampBrand" : "d&b audiotechnik",
+      "perChannel" : 1,
+      "speaker" : "Y10P",
+      "total" : 4
+    },
+    {
+      "amp" : "D40",
+      "ampBrand" : "d&b audiotechnik",
+      "perChannel" : 1,
+      "speaker" : "Y7P",
+      "total" : 4
+    },
+    {
+      "amp" : "D40",
+      "ampBrand" : "d&b audiotechnik",
+      "perChannel" : 2,
+      "speaker" : "Y8",
+      "total" : 8
+    },
+    {
+      "amp" : "D80",
+      "ampBrand" : "d&b audiotechnik",
+      "perChannel" : 1,
+      "speaker" : "B22-SUB",
+      "total" : 2
+    },
+    {
+      "amp" : "D80",
+      "ampBrand" : "d&b audiotechnik",
+      "perChannel" : 1,
+      "speaker" : "C6",
+      "total" : 4
+    },
+    {
+      "amp" : "D80",
+      "ampBrand" : "d&b audiotechnik",
+      "perChannel" : 1,
+      "speaker" : "GSL12",
+      "total" : 4
+    },
+    {
+      "amp" : "D80",
+      "ampBrand" : "d&b audiotechnik",
+      "perChannel" : 1,
+      "speaker" : "GSL8",
+      "total" : 4
+    },
+    {
+      "amp" : "D80",
+      "ampBrand" : "d&b audiotechnik",
+      "perChannel" : 1,
+      "speaker" : "J-SUB",
+      "total" : 2
+    },
+    {
+      "amp" : "D80",
+      "ampBrand" : "d&b audiotechnik",
+      "perChannel" : 1,
+      "speaker" : "J8",
+      "total" : 4
+    },
+    {
+      "amp" : "D80",
+      "ampBrand" : "d&b audiotechnik",
+      "perChannel" : 1,
+      "speaker" : "KSL12",
+      "total" : 4
+    },
+    {
+      "amp" : "D80",
+      "ampBrand" : "d&b audiotechnik",
+      "perChannel" : 1,
+      "speaker" : "KSL8",
+      "total" : 4
+    },
+    {
+      "amp" : "D80",
+      "ampBrand" : "d&b audiotechnik",
+      "perChannel" : 1,
+      "speaker" : "V8",
+      "total" : 4
+    },
+    {
+      "amp" : "D80",
+      "ampBrand" : "d&b audiotechnik",
+      "perChannel" : 1,
+      "speaker" : "XSL12",
+      "total" : 4
+    },
+    {
+      "amp" : "D80",
+      "ampBrand" : "d&b audiotechnik",
+      "perChannel" : 1,
+      "speaker" : "XSL8",
+      "total" : 4
+    },
+    {
+      "amp" : "D80",
+      "ampBrand" : "d&b audiotechnik",
+      "perChannel" : 2,
+      "speaker" : "Y10P",
+      "total" : 8
+    },
+    {
+      "amp" : "D80",
+      "ampBrand" : "d&b audiotechnik",
+      "perChannel" : 2,
+      "speaker" : "Y7P",
+      "total" : 8
+    }
+  ],
+  "speakers" : [
+    {
+      "ampConfig" : {
+        "PLM12K44" : 4,
+        "PLM20000Q" : 6,
+        "PLM20K44" : 6
+      },
+      "brand" : "Adamson",
+      "category" : "E",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44"
+      ],
+      "name" : "E119"
+    },
+    {
+      "ampConfig" : {
+        "PLM12K44" : 3,
+        "PLM20000Q" : 3,
+        "PLM20K44" : 3
+      },
+      "brand" : "Adamson",
+      "category" : "E",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44"
+      ],
+      "name" : "E12"
+    },
+    {
+      "ampConfig" : {
+        "PLM12K44" : 3,
+        "PLM20000Q" : 3,
+        "PLM20K44" : 3
+      },
+      "brand" : "Adamson",
+      "category" : "E",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44"
+      ],
+      "name" : "E15"
+    },
+    {
+      "ampConfig" : {
+        "PLM12K44" : 2,
+        "PLM20000Q" : 3,
+        "PLM20K44" : 3
+      },
+      "brand" : "Adamson",
+      "category" : "E",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44"
+      ],
+      "name" : "E219"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 6,
+        "PLM12K44" : 8,
+        "PLM20000Q" : 8,
+        "PLM20K44" : 8,
+        "PLM8K44" : 5
+      },
+      "brand" : "Adamson",
+      "category" : "I",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "IS10"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 6,
+        "PLM12K44" : 8,
+        "PLM8K44" : 5
+      },
+      "brand" : "Adamson",
+      "category" : "I",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM8K44"
+      ],
+      "name" : "IS10n"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 6,
+        "PLM12K44" : 8,
+        "PLM20000Q" : 8,
+        "PLM20K44" : 8,
+        "PLM8K44" : 5
+      },
+      "brand" : "Adamson",
+      "category" : "I",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "IS10p"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 4,
+        "PLM10000Q" : 12,
+        "PLM12K44" : 12,
+        "PLM20000Q" : 8,
+        "PLM20K44" : 16,
+        "PLM8K44" : 8
+      },
+      "brand" : "Adamson",
+      "category" : "I",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "IS118"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 4,
+        "PLM12K44" : 4,
+        "PLM20000Q" : 2,
+        "PLM20K44" : 8,
+        "PLM8K44" : 3
+      },
+      "brand" : "Adamson",
+      "category" : "I",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "IS119"
+    },
+    {
+      "ampConfig" : {
+        "PLM12K44" : 4,
+        "PLM20000Q" : 4,
+        "PLM20K44" : 4,
+        "PLM8K44" : 2
+      },
+      "brand" : "Adamson",
+      "category" : "I",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "IS213"
+    },
+    {
+      "ampConfig" : {
+        "PLM12K44" : 2,
+        "PLM20000Q" : 3,
+        "PLM20K44" : 3,
+        "PLM8K44" : 2
+      },
+      "brand" : "Adamson",
+      "category" : "I",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "IS219"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 6,
+        "PLM10000Q" : 32,
+        "PLM12K44" : 32,
+        "PLM20000Q" : 32,
+        "PLM20K44" : 32,
+        "PLM8K44" : 32
+      },
+      "brand" : "Adamson",
+      "category" : "I",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "IS5c"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 4,
+        "PLM10000Q" : 12,
+        "PLM12K44" : 12,
+        "PLM20000Q" : 12,
+        "PLM20K44" : 12,
+        "PLM8K44" : 8
+      },
+      "brand" : "Adamson",
+      "category" : "I",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "IS7"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 6,
+        "PLM10000Q" : 18,
+        "PLM12K44" : 20,
+        "PLM20000Q" : 32,
+        "PLM20K44" : 32,
+        "PLM8K44" : 13
+      },
+      "brand" : "Adamson",
+      "category" : "I",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "IS7c"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 6,
+        "PLM12K44" : 8,
+        "PLM20000Q" : 8,
+        "PLM20K44" : 8,
+        "PLM8K44" : 6
+      },
+      "brand" : "Adamson",
+      "category" : "I",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "IS7p"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 4,
+        "PLM10000Q" : 10,
+        "PLM12K44" : 12,
+        "PLM20000Q" : 12,
+        "PLM20K44" : 12,
+        "PLM8K44" : 6
+      },
+      "brand" : "Adamson",
+      "category" : "I",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "IS7px"
+    },
+    {
+      "ampConfig" : {
+        "PLM10000Q" : 4,
+        "PLM12K44" : 4,
+        "PLM20000Q" : 6,
+        "PLM20K44" : 6,
+        "PLM8K44" : 3
+      },
+      "brand" : "Adamson",
+      "category" : "Legacy",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "A218"
+    },
+    {
+      "ampConfig" : {
+        "PLM20000Q" : 6,
+        "PLM20K44" : 6
+      },
+      "brand" : "Adamson",
+      "category" : "Legacy",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "PLM20000Q",
+        "PLM20K44"
+      ],
+      "name" : "E218"
+    },
+    {
+      "ampConfig" : {
+        "PLM10000Q" : 4,
+        "PLM12K44" : 6,
+        "PLM20000Q" : 8,
+        "PLM20K44" : 8,
+        "PLM8K44" : 4
+      },
+      "brand" : "Adamson",
+      "category" : "Legacy",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "MTB"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 6,
+        "PLM10000Q" : 12,
+        "PLM12K44" : 12,
+        "PLM20000Q" : 16,
+        "PLM20K44" : 16,
+        "PLM8K44" : 12
+      },
+      "brand" : "Adamson",
+      "category" : "Legacy",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "MTX"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 6,
+        "PLM12K44" : 6,
+        "PLM20000Q" : 6,
+        "PLM20K44" : 6,
+        "PLM8K44" : 6
+      },
+      "brand" : "Adamson",
+      "category" : "Legacy",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "P12A"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 10,
+        "PLM12K44" : 10,
+        "PLM20000Q" : 12,
+        "PLM20K44" : 12,
+        "PLM8K44" : 8
+      },
+      "brand" : "Adamson",
+      "category" : "Legacy",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "P12P"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 6,
+        "PLM12K44" : 6,
+        "PLM20000Q" : 6,
+        "PLM20K44" : 6,
+        "PLM8K44" : 6
+      },
+      "brand" : "Adamson",
+      "category" : "Legacy",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "P15A"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 10,
+        "PLM12K44" : 10,
+        "PLM20000Q" : 12,
+        "PLM20K44" : 12,
+        "PLM8K44" : 8
+      },
+      "brand" : "Adamson",
+      "category" : "Legacy",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "P15P"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 8,
+        "PLM12K44" : 8,
+        "PLM20000Q" : 8,
+        "PLM20K44" : 8,
+        "PLM8K44" : 8
+      },
+      "brand" : "Adamson",
+      "category" : "Legacy",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "PC10"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 8,
+        "PLM12K44" : 8,
+        "PLM20000Q" : 8,
+        "PLM20K44" : 8,
+        "PLM8K44" : 8
+      },
+      "brand" : "Adamson",
+      "category" : "Legacy",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "PC12"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 4,
+        "PLM10000Q" : 12,
+        "PLM12K44" : 12,
+        "PLM20000Q" : 12,
+        "PLM20K44" : 12,
+        "PLM8K44" : 12
+      },
+      "brand" : "Adamson",
+      "category" : "Legacy",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "PC6"
+    },
+    {
+      "ampConfig" : {
+        "PLM10000Q" : 4,
+        "PLM12K44" : 5,
+        "PLM20000Q" : 8,
+        "PLM20K44" : 6,
+        "PLM8K44" : 3
+      },
+      "brand" : "Adamson",
+      "category" : "Legacy",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "SPB"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 4,
+        "PLM12K44" : 4,
+        "PLM20000Q" : 4,
+        "PLM20K44" : 4,
+        "PLM8K44" : 4
+      },
+      "brand" : "Adamson",
+      "category" : "Legacy",
+      "channelsUsed" : 3,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "SPK"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 1,
+        "PLM10000Q" : 3,
+        "PLM12K44" : 4,
+        "PLM20000Q" : 4,
+        "PLM20K44" : 4,
+        "PLM8K44" : 3
+      },
+      "brand" : "Adamson",
+      "category" : "Legacy",
+      "channelsUsed" : 3,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "SX18A"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 6,
+        "PLM12K44" : 8,
+        "PLM20000Q" : 8,
+        "PLM20K44" : 8,
+        "PLM8K44" : 4
+      },
+      "brand" : "Adamson",
+      "category" : "Legacy",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "SX18P"
+    },
+    {
+      "ampConfig" : {
+        "PLM20000Q" : 2,
+        "PLM20K44" : 2
+      },
+      "brand" : "Adamson",
+      "category" : "Legacy",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "PLM20000Q",
+        "PLM20K44"
+      ],
+      "name" : "T21"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 6,
+        "PLM12K44" : 8,
+        "PLM20000Q" : 8,
+        "PLM20K44" : 8,
+        "PLM8K44" : 5
+      },
+      "brand" : "Adamson",
+      "category" : "M",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "M10 Bi-Amped"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 4,
+        "PLM12K44" : 6,
+        "PLM20000Q" : 6,
+        "PLM20K44" : 6,
+        "PLM8K44" : 6
+      },
+      "brand" : "Adamson",
+      "category" : "M",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "M12A"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 3,
+        "PLM10000Q" : 8,
+        "PLM12K44" : 10,
+        "PLM20000Q" : 12,
+        "PLM20K44" : 12,
+        "PLM8K44" : 6
+      },
+      "brand" : "Adamson",
+      "category" : "M",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "M12P"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 4,
+        "PLM12K44" : 6,
+        "PLM20000Q" : 6,
+        "PLM20K44" : 6,
+        "PLM8K44" : 6
+      },
+      "brand" : "Adamson",
+      "category" : "M",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "M15A"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 3,
+        "PLM10000Q" : 8,
+        "PLM12K44" : 10,
+        "PLM20000Q" : 12,
+        "PLM20K44" : 12,
+        "PLM8K44" : 6
+      },
+      "brand" : "Adamson",
+      "category" : "M",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "M15P"
+    },
+    {
+      "ampConfig" : {
+        "PLM10000Q" : 2,
+        "PLM12K44" : 4,
+        "PLM20000Q" : 4,
+        "PLM20K44" : 4,
+        "PLM8K44" : 3
+      },
+      "brand" : "Adamson",
+      "category" : "M",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "M212"
+    },
+    {
+      "ampConfig" : {
+        "PLM10000Q" : 2,
+        "PLM12K44" : 4,
+        "PLM20000Q" : 4,
+        "PLM20K44" : 4,
+        "PLM8K44" : 3
+      },
+      "brand" : "Adamson",
+      "category" : "M",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "M215"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 12,
+        "PLM12K44" : 12,
+        "PLM20000Q" : 16,
+        "PLM20K44" : 16,
+        "PLM8K44" : 8
+      },
+      "brand" : "Adamson",
+      "category" : "Point",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "P115A"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 4,
+        "PLM12K44" : 4,
+        "PLM20000Q" : 4,
+        "PLM20K44" : 4,
+        "PLM8K44" : 4
+      },
+      "brand" : "Adamson",
+      "category" : "Point",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "P115P + P8P"
+    },
+    {
+      "ampConfig" : {
+        "PLM10000Q" : 4,
+        "PLM12K44" : 6,
+        "PLM20000Q" : 8,
+        "PLM20K44" : 8,
+        "PLM8K44" : 4
+      },
+      "brand" : "Adamson",
+      "category" : "Point",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "P215"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 16,
+        "PLM12K44" : 16,
+        "PLM20000Q" : 16,
+        "PLM20K44" : 16,
+        "PLM8K44" : 14
+      },
+      "brand" : "Adamson",
+      "category" : "Point",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "P8P"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 8,
+        "PLM12K44" : 8,
+        "PLM20000Q" : 8,
+        "PLM20K44" : 8,
+        "PLM8K44" : 8
+      },
+      "brand" : "Adamson",
+      "category" : "Point",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "PC10"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 8,
+        "PLM12K44" : 8,
+        "PLM20000Q" : 8,
+        "PLM20K44" : 8,
+        "PLM8K44" : 8
+      },
+      "brand" : "Adamson",
+      "category" : "Point",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "PC12"
+    },
+    {
+      "ampConfig" : {
+        "PLM10000Q" : 8,
+        "PLM12K44" : 8,
+        "PLM20000Q" : 8,
+        "PLM20K44" : 8,
+        "PLM8K44" : 8
+      },
+      "brand" : "Adamson",
+      "category" : "Point",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "PC5"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 8,
+        "PLM12K44" : 8,
+        "PLM20000Q" : 8,
+        "PLM20K44" : 8,
+        "PLM8K44" : 8
+      },
+      "brand" : "Adamson",
+      "category" : "Point",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "PC8"
+    },
+    {
+      "ampConfig" : {
+        "PLM10000Q" : 4,
+        "PLM12K44" : 4,
+        "PLM20000Q" : 4,
+        "PLM20K44" : 4
+      },
+      "brand" : "Adamson",
+      "category" : "Point",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44"
+      ],
+      "name" : "Point 12"
+    },
+    {
+      "ampConfig" : {
+        "PLM10000Q" : 4,
+        "PLM12K44" : 4,
+        "PLM20000Q" : 4,
+        "PLM20K44" : 4
+      },
+      "brand" : "Adamson",
+      "category" : "Point",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44"
+      ],
+      "name" : "Point 15"
+    },
+    {
+      "ampConfig" : {
+        "PLM10000Q" : 16,
+        "PLM12K44" : 4,
+        "PLM20000Q" : 8,
+        "PLM20K44" : 16
+      },
+      "brand" : "Adamson",
+      "category" : "Point",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44"
+      ],
+      "name" : "Point 8"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 6,
+        "PLM12K44" : 8,
+        "PLM20000Q" : 8,
+        "PLM20K44" : 8,
+        "PLM8K44" : 5
+      },
+      "brand" : "Adamson",
+      "category" : "S ",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "S10"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 6,
+        "PLM12K44" : 8,
+        "PLM8K44" : 5
+      },
+      "brand" : "Adamson",
+      "category" : "S ",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM8K44"
+      ],
+      "name" : "S10n"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 6,
+        "PLM12K44" : 8,
+        "PLM20000Q" : 8,
+        "PLM20K44" : 8,
+        "PLM8K44" : 5
+      },
+      "brand" : "Adamson",
+      "category" : "S ",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "S10p"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 4,
+        "PLM10000Q" : 12,
+        "PLM12K44" : 12,
+        "PLM20000Q" : 16,
+        "PLM20K44" : 16,
+        "PLM8K44" : 8
+      },
+      "brand" : "Adamson",
+      "category" : "S ",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "S118"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 4,
+        "PLM12K44" : 4,
+        "PLM20000Q" : 2,
+        "PLM20K44" : 8,
+        "PLM8K44" : 3
+      },
+      "brand" : "Adamson",
+      "category" : "S ",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "S119"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 6,
+        "PLM12K44" : 8,
+        "PLM20000Q" : 8,
+        "PLM20K44" : 8,
+        "PLM8K44" : 6
+      },
+      "brand" : "Adamson",
+      "category" : "S ",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "S7"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 2,
+        "PLM10000Q" : 6,
+        "PLM12K44" : 8,
+        "PLM20000Q" : 8,
+        "PLM20K44" : 8,
+        "PLM8K44" : 6
+      },
+      "brand" : "Adamson",
+      "category" : "S ",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "S7p Bi-Amped"
+    },
+    {
+      "ampConfig" : {
+        "IPX2400" : 4,
+        "PLM10000Q" : 10,
+        "PLM12K44" : 12,
+        "PLM20000Q" : 12,
+        "PLM20K44" : 12,
+        "PLM8K44" : 6
+      },
+      "brand" : "Adamson",
+      "category" : "S ",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "IPX2400",
+        "PLM10000Q",
+        "PLM12K44",
+        "PLM20000Q",
+        "PLM20K44",
+        "PLM8K44"
+      ],
+      "name" : "S7p Passive"
+    },
+    {
+      "ampConfig" : {
+        "PLM10000Q" : 4,
+        "PLM20000Q" : 4
+      },
+      "brand" : "Adamson",
+      "category" : "Y",
+      "channelsUsed" : 4,
+      "compatibleAmps" : [
+        "PLM10000Q",
+        "PLM20000Q"
+      ],
+      "name" : "Y10"
+    },
+    {
+      "ampConfig" : {
+        "PLM10000Q" : 2,
+        "PLM20000Q" : 2
+      },
+      "brand" : "Adamson",
+      "category" : "Y",
+      "channelsUsed" : 4,
+      "compatibleAmps" : [
+        "PLM10000Q",
+        "PLM20000Q"
+      ],
+      "name" : "Y18"
+    },
+    {
+      "ampConfig" : {
+        "LINUS10C" : 8,
+        "LINUS12C" : 12,
+        "LINUS14D" : 12,
+        "LINUS5C" : 6
+      },
+      "brand" : "CODA Audio",
+      "category" : "APS",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "LINUS10C",
+        "LINUS12C",
+        "LINUS14D",
+        "LINUS5C"
+      ],
+      "name" : "APS"
+    },
+    {
+      "ampConfig" : {
+        "LINUS10C" : 4,
+        "LINUS12C" : 4,
+        "LINUS14D" : 4,
+        "LINUS5C" : 4
+      },
+      "brand" : "CODA Audio",
+      "category" : "APS",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LINUS10C",
+        "LINUS12C",
+        "LINUS14D",
+        "LINUS5C"
+      ],
+      "name" : "APS-SUB"
+    },
+    {
+      "ampConfig" : {
+        "LINUS12C" : 6,
+        "LINUS14D" : 8
+      },
+      "brand" : "CODA Audio",
+      "category" : "AiRAY",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "LINUS12C",
+        "LINUS14D"
+      ],
+      "name" : "AiRAY"
+    },
+    {
+      "ampConfig" : {
+        "LINUS12C" : 4,
+        "LINUS14D" : 4
+      },
+      "brand" : "CODA Audio",
+      "category" : "AiRAY",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "LINUS12C",
+        "LINUS14D"
+      ],
+      "name" : "SC2-F"
+    },
+    {
+      "ampConfig" : {
+        "LINUS10C" : 4,
+        "LINUS12C" : 4,
+        "LINUS14D" : 4,
+        "LINUS5C" : 2
+      },
+      "brand" : "CODA Audio",
+      "category" : "CODA Sub",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LINUS10C",
+        "LINUS12C",
+        "LINUS14D",
+        "LINUS5C"
+      ],
+      "name" : "G18-SUB"
+    },
+    {
+      "ampConfig" : {
+        "LINUS10C" : 2,
+        "LINUS12C" : 2,
+        "LINUS14D" : 2
+      },
+      "brand" : "CODA Audio",
+      "category" : "CODA Sub",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LINUS10C",
+        "LINUS12C",
+        "LINUS14D"
+      ],
+      "name" : "SCP-F"
+    },
+    {
+      "ampConfig" : {
+        "LINUS10C" : 2,
+        "LINUS12C" : 2,
+        "LINUS14D" : 2
+      },
+      "brand" : "CODA Audio",
+      "category" : "CODA Sub",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LINUS10C",
+        "LINUS12C",
+        "LINUS14D"
+      ],
+      "name" : "SCV-F"
+    },
+    {
+      "ampConfig" : {
+        "LINUS10C" : 4,
+        "LINUS12C" : 6,
+        "LINUS14D" : 8,
+        "LINUS5C" : 4
+      },
+      "brand" : "CODA Audio",
+      "category" : "CUE",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LINUS10C",
+        "LINUS12C",
+        "LINUS14D",
+        "LINUS5C"
+      ],
+      "name" : "CUE FOUR"
+    },
+    {
+      "ampConfig" : {
+        "LINUS10C" : 4,
+        "LINUS12C" : 6,
+        "LINUS14D" : 8,
+        "LINUS5C" : 4
+      },
+      "brand" : "CODA Audio",
+      "category" : "CUE",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LINUS10C",
+        "LINUS12C",
+        "LINUS14D",
+        "LINUS5C"
+      ],
+      "name" : "CUE TWO"
+    },
+    {
+      "ampConfig" : {
+        "LINUS10C" : 8,
+        "LINUS12C" : 12,
+        "LINUS14D" : 16,
+        "LINUS5C" : 6
+      },
+      "brand" : "CODA Audio",
+      "category" : "CoRAY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LINUS10C",
+        "LINUS12C",
+        "LINUS14D",
+        "LINUS5C"
+      ],
+      "name" : "CoRAY4"
+    },
+    {
+      "ampConfig" : {
+        "LINUS10C" : 6,
+        "LINUS12C" : 8,
+        "LINUS14D" : 12,
+        "LINUS5C" : 4
+      },
+      "brand" : "CODA Audio",
+      "category" : "CoRAY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LINUS10C",
+        "LINUS12C",
+        "LINUS14D",
+        "LINUS5C"
+      ],
+      "name" : "CoRAY4L"
+    },
+    {
+      "ampConfig" : {
+        "LINUS10C" : 6,
+        "LINUS12C" : 8,
+        "LINUS14D" : 12,
+        "LINUS5C" : 4
+      },
+      "brand" : "CODA Audio",
+      "category" : "CoRAY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LINUS10C",
+        "LINUS12C",
+        "LINUS14D",
+        "LINUS5C"
+      ],
+      "name" : "CoRAY4Li"
+    },
+    {
+      "ampConfig" : {
+        "LINUS10C" : 8,
+        "LINUS12C" : 12,
+        "LINUS14D" : 16,
+        "LINUS5C" : 6
+      },
+      "brand" : "CODA Audio",
+      "category" : "CoRAY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LINUS10C",
+        "LINUS12C",
+        "LINUS14D",
+        "LINUS5C"
+      ],
+      "name" : "CoRAY4i"
+    },
+    {
+      "ampConfig" : {
+        "LINUS10C" : 4,
+        "LINUS12C" : 6,
+        "LINUS14D" : 8,
+        "LINUS5C" : 4
+      },
+      "brand" : "CODA Audio",
+      "category" : "G-Series",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LINUS10C",
+        "LINUS12C",
+        "LINUS14D",
+        "LINUS5C"
+      ],
+      "name" : "G715"
+    },
+    {
+      "ampConfig" : {
+        "LINUS10C" : 4,
+        "LINUS12C" : 4,
+        "LINUS14D" : 4
+      },
+      "brand" : "CODA Audio",
+      "category" : "G-Series",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LINUS10C",
+        "LINUS12C",
+        "LINUS14D"
+      ],
+      "name" : "G718"
+    },
+    {
+      "ampConfig" : {
+        "LINUS10C" : 4,
+        "LINUS12C" : 6,
+        "LINUS14D" : 8
+      },
+      "brand" : "CODA Audio",
+      "category" : "HOPS",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LINUS10C",
+        "LINUS12C",
+        "LINUS14D"
+      ],
+      "name" : "HOPS12i"
+    },
+    {
+      "ampConfig" : {
+        "LINUS10C" : 16,
+        "LINUS12C" : 20,
+        "LINUS14D" : 24,
+        "LINUS5C" : 12
+      },
+      "brand" : "CODA Audio",
+      "category" : "HOPS",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LINUS10C",
+        "LINUS12C",
+        "LINUS14D",
+        "LINUS5C"
+      ],
+      "name" : "HOPS5"
+    },
+    {
+      "ampConfig" : {
+        "LINUS10C" : 8,
+        "LINUS12C" : 12,
+        "LINUS14D" : 12,
+        "LINUS5C" : 6
+      },
+      "brand" : "CODA Audio",
+      "category" : "HOPS",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LINUS10C",
+        "LINUS12C",
+        "LINUS14D",
+        "LINUS5C"
+      ],
+      "name" : "HOPS8"
+    },
+    {
+      "ampConfig" : {
+        "LINUS10C" : 8,
+        "LINUS12C" : 12,
+        "LINUS14D" : 16
+      },
+      "brand" : "CODA Audio",
+      "category" : "N-Series",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LINUS10C",
+        "LINUS12C",
+        "LINUS14D"
+      ],
+      "name" : "N-RAY"
+    },
+    {
+      "ampConfig" : {
+        "LINUS10C" : 4,
+        "LINUS12C" : 6,
+        "LINUS14D" : 8
+      },
+      "brand" : "CODA Audio",
+      "category" : "N-Series",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LINUS10C",
+        "LINUS12C",
+        "LINUS14D"
+      ],
+      "name" : "SCN-F"
+    },
+    {
+      "ampConfig" : {
+        "LINUS10C" : 8,
+        "LINUS12C" : 8,
+        "LINUS14D" : 12
+      },
+      "brand" : "CODA Audio",
+      "category" : "ViRAY",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "LINUS10C",
+        "LINUS12C",
+        "LINUS14D"
+      ],
+      "name" : "ViRAY"
+    },
+    {
+      "ampConfig" : {
+        "LINUS10C" : 4,
+        "LINUS12C" : 6,
+        "LINUS14D" : 8
+      },
+      "brand" : "CODA Audio",
+      "category" : "ViRAY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LINUS10C",
+        "LINUS12C",
+        "LINUS14D"
+      ],
+      "name" : "ViRAY SUB"
+    },
+    {
+      "ampConfig" : {
+        "IPX10:4" : 2,
+        "TGX10" : 3
+      },
+      "brand" : "Electro-Voice",
+      "category" : "Electro-Voice Line Array",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "IPX10:4",
+        "TGX10"
+      ],
+      "name" : "X1-212\/120"
+    },
+    {
+      "ampConfig" : {
+        "IPX10:4" : 2,
+        "TGX10" : 3
+      },
+      "brand" : "Electro-Voice",
+      "category" : "Electro-Voice Line Array",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "IPX10:4",
+        "TGX10"
+      ],
+      "name" : "X1-212\/90"
+    },
+    {
+      "ampConfig" : {
+        "TGX20" : 3
+      },
+      "brand" : "Electro-Voice",
+      "category" : "Electro-Voice Line Array",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "TGX20"
+      ],
+      "name" : "X2-212\/120"
+    },
+    {
+      "ampConfig" : {
+        "TGX20" : 3
+      },
+      "brand" : "Electro-Voice",
+      "category" : "Electro-Voice Line Array",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "TGX20"
+      ],
+      "name" : "X2-212\/90"
+    },
+    {
+      "ampConfig" : {
+        "IPX10:4" : 2,
+        "TGX10" : 2
+      },
+      "brand" : "Electro-Voice",
+      "category" : "Electro-Voice Monitor",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "IPX10:4",
+        "TGX10"
+      ],
+      "name" : "MFX-12MC"
+    },
+    {
+      "ampConfig" : {
+        "TGX20" : 2
+      },
+      "brand" : "Electro-Voice",
+      "category" : "Electro-Voice Subwoofer",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "TGX20"
+      ],
+      "name" : "X12-125F"
+    },
+    {
+      "ampConfig" : {
+        "TGX20" : 3
+      },
+      "brand" : "Electro-Voice",
+      "category" : "Electro-Voice Subwoofer",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "TGX20"
+      ],
+      "name" : "X12-128"
+    },
+    {
+      "ampConfig" : {
+        "Crown I-Tech 12000HD" : 2
+      },
+      "brand" : "JBL Professional",
+      "category" : "JBL SRX",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "Crown I-Tech 12000HD"
+      ],
+      "name" : "SRX815"
+    },
+    {
+      "ampConfig" : {
+        "Crown I-Tech 12000HD" : 2
+      },
+      "brand" : "JBL Professional",
+      "category" : "JBL Subwoofer",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "Crown I-Tech 12000HD"
+      ],
+      "name" : "SRX828S"
+    },
+    {
+      "ampConfig" : {
+        "Crown I-Tech 12000HD" : 2,
+        "Crown I-Tech 4x3500HD" : 1,
+        "Crown VRack 4x3500HD" : 2
+      },
+      "brand" : "JBL Professional",
+      "category" : "JBL Subwoofer",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "Crown I-Tech 12000HD",
+        "Crown I-Tech 4x3500HD",
+        "Crown VRack 4x3500HD"
+      ],
+      "name" : "VTX B28"
+    },
+    {
+      "ampConfig" : {
+        "Crown I-Tech 4x3500HD" : 3
+      },
+      "brand" : "JBL Professional",
+      "category" : "JBL VRX",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "Crown I-Tech 4x3500HD"
+      ],
+      "name" : "VRX932LA-1"
+    },
+    {
+      "ampConfig" : {
+        "Crown I-Tech 4x3500HD" : 2,
+        "Crown VRack 4x3500HD" : 4
+      },
+      "brand" : "JBL Professional",
+      "category" : "JBL VTX",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "Crown I-Tech 4x3500HD",
+        "Crown VRack 4x3500HD"
+      ],
+      "name" : "VTX A12"
+    },
+    {
+      "ampConfig" : {
+        "Crown I-Tech 4x3500HD" : 2,
+        "Crown VRack 4x3500HD" : 4
+      },
+      "brand" : "JBL Professional",
+      "category" : "JBL VTX",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "Crown I-Tech 4x3500HD",
+        "Crown VRack 4x3500HD"
+      ],
+      "name" : "VTX A8"
+    },
+    {
+      "ampConfig" : {
+        "LA1.16i_BTL" : 1,
+        "LA12X" : 3,
+        "LA2Xi_BTL" : 1,
+        "LA2Xi_SE" : 2,
+        "LA4X" : 2,
+        "LA7.16" : 1,
+        "LA7.16i" : 1,
+        "LA8" : 2
+      },
+      "brand" : "L-Acoustics",
+      "category" : "A",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA1.16i_BTL",
+        "LA12X",
+        "LA2Xi_BTL",
+        "LA2Xi_SE",
+        "LA4X",
+        "LA7.16",
+        "LA7.16i",
+        "LA8"
+      ],
+      "name" : "A10 Wide\/Focus"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 3,
+        "LA2Xi_BTL" : 1,
+        "LA2Xi_SE" : 1,
+        "LA4X" : 1,
+        "LA7.16" : 1,
+        "LA7.16i" : 1,
+        "LA8" : 2
+      },
+      "brand" : "L-Acoustics",
+      "category" : "A",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA2Xi_BTL",
+        "LA2Xi_SE",
+        "LA4X",
+        "LA7.16",
+        "LA7.16i",
+        "LA8"
+      ],
+      "name" : "A15 Wide\/Focus"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 2,
+        "LA8" : 2
+      },
+      "brand" : "L-Acoustics",
+      "category" : "K",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA8"
+      ],
+      "name" : "K1"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 3,
+        "LA4X" : 1,
+        "LA7.16" : 1,
+        "LA7.16i" : 1,
+        "LA8" : 3
+      },
+      "brand" : "L-Acoustics",
+      "category" : "K",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA4X",
+        "LA7.16",
+        "LA7.16i",
+        "LA8"
+      ],
+      "name" : "K2"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 3,
+        "LA4X" : 1,
+        "LA7.16" : 1,
+        "LA7.16i" : 1,
+        "LA8" : 2
+      },
+      "brand" : "L-Acoustics",
+      "category" : "K",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA4X",
+        "LA7.16",
+        "LA7.16i",
+        "LA8"
+      ],
+      "name" : "K3"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 3,
+        "LA2Xi_SE" : 2,
+        "LA4X" : 2,
+        "LA8" : 3
+      },
+      "brand" : "L-Acoustics",
+      "category" : "K",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA2Xi_SE",
+        "LA4X",
+        "LA8"
+      ],
+      "name" : "Kara"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 3,
+        "LA2Xi_SE" : 2,
+        "LA4X" : 2,
+        "LA7.16" : 1,
+        "LA7.16i" : 1,
+        "LA8" : 3
+      },
+      "brand" : "L-Acoustics",
+      "category" : "K",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA2Xi_SE",
+        "LA4X",
+        "LA7.16",
+        "LA7.16i",
+        "LA8"
+      ],
+      "name" : "Kara II"
+    },
+    {
+      "ampConfig" : {
+        "LA1.16i_BTL" : 2,
+        "LA12X" : 6,
+        "LA2Xi_BTL" : 2,
+        "LA2Xi_SE" : 2,
+        "LA4X" : 2,
+        "LA7.16" : 2,
+        "LA7.16i" : 2
+      },
+      "brand" : "L-Acoustics",
+      "category" : "K",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA1.16i_BTL",
+        "LA12X",
+        "LA2Xi_BTL",
+        "LA2Xi_SE",
+        "LA4X",
+        "LA7.16",
+        "LA7.16i"
+      ],
+      "name" : "Kiva II"
+    },
+    {
+      "ampConfig" : {
+        "LA7.16" : 1,
+        "LA7.16i" : 1
+      },
+      "brand" : "L-Acoustics",
+      "category" : "L",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA7.16",
+        "LA7.16i"
+      ],
+      "name" : "L2"
+    },
+    {
+      "ampConfig" : {
+        "LA7.16" : 1,
+        "LA7.16i" : 1
+      },
+      "brand" : "L-Acoustics",
+      "category" : "L",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA7.16",
+        "LA7.16i"
+      ],
+      "name" : "L2D"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 3,
+        "LA4" : 2,
+        "LA4X" : 2,
+        "LA8" : 3
+      },
+      "brand" : "L-Acoustics",
+      "category" : "LEGACY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA4",
+        "LA4X",
+        "LA8"
+      ],
+      "name" : "112XT"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 3,
+        "LA4" : 1,
+        "LA4X" : 1,
+        "LA8" : 3
+      },
+      "brand" : "L-Acoustics",
+      "category" : "LEGACY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA4",
+        "LA4X",
+        "LA8"
+      ],
+      "name" : "115XT"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 3,
+        "LA4" : 1,
+        "LA4X" : 1,
+        "LA8" : 2
+      },
+      "brand" : "L-Acoustics",
+      "category" : "LEGACY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA4",
+        "LA4X",
+        "LA8"
+      ],
+      "name" : "115XT HiQ"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 3,
+        "LA4" : 2,
+        "LA4X" : 2,
+        "LA8" : 3
+      },
+      "brand" : "L-Acoustics",
+      "category" : "LEGACY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA4",
+        "LA4X",
+        "LA8"
+      ],
+      "name" : "8XT"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 3,
+        "LA4" : 1,
+        "LA4X" : 1,
+        "LA8" : 3
+      },
+      "brand" : "L-Acoustics",
+      "category" : "LEGACY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA4",
+        "LA4X",
+        "LA8"
+      ],
+      "name" : "ARCS"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 3,
+        "LA4X" : 1,
+        "LA8" : 2
+      },
+      "brand" : "L-Acoustics",
+      "category" : "LEGACY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA4X",
+        "LA8"
+      ],
+      "name" : "ARCS II"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 3,
+        "LA2Xi_BTL" : 1,
+        "LA2Xi_SE" : 1,
+        "LA4" : 1,
+        "LA4X" : 1,
+        "LA8" : 2
+      },
+      "brand" : "L-Acoustics",
+      "category" : "LEGACY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA2Xi_BTL",
+        "LA2Xi_SE",
+        "LA4",
+        "LA4X",
+        "LA8"
+      ],
+      "name" : "ARCS Wide\/Focus"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 3,
+        "LA4" : 2,
+        "LA4X" : 2,
+        "LA8" : 3
+      },
+      "brand" : "L-Acoustics",
+      "category" : "LEGACY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA4",
+        "LA4X",
+        "LA8"
+      ],
+      "name" : "Active 12XT"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 2,
+        "LA4" : 1,
+        "LA4X" : 1,
+        "LA8" : 2
+      },
+      "brand" : "L-Acoustics",
+      "category" : "LEGACY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA4",
+        "LA4X",
+        "LA8"
+      ],
+      "name" : "Active MTD115b"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 3,
+        "LA4X" : 2
+      },
+      "brand" : "L-Acoustics",
+      "category" : "LEGACY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA4X"
+      ],
+      "name" : "Kiva \/ Kilo"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 3,
+        "LA4X" : 1
+      },
+      "brand" : "L-Acoustics",
+      "category" : "LEGACY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA4X"
+      ],
+      "name" : "Kudo"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 3,
+        "LA4" : 2,
+        "LA4X" : 2,
+        "LA8" : 3
+      },
+      "brand" : "L-Acoustics",
+      "category" : "LEGACY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA4",
+        "LA4X",
+        "LA8"
+      ],
+      "name" : "MTD108a"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 2,
+        "LA4" : 1,
+        "LA4X" : 1,
+        "LA8" : 2
+      },
+      "brand" : "L-Acoustics",
+      "category" : "LEGACY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA4",
+        "LA4X",
+        "LA8"
+      ],
+      "name" : "MTD112b"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 3,
+        "LA4" : 1,
+        "LA4X" : 1,
+        "LA8" : 2
+      },
+      "brand" : "L-Acoustics",
+      "category" : "LEGACY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA4",
+        "LA4X",
+        "LA8"
+      ],
+      "name" : "Passive 12XT"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 2,
+        "LA4" : 1,
+        "LA4X" : 1,
+        "LA8" : 2
+      },
+      "brand" : "L-Acoustics",
+      "category" : "LEGACY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA4",
+        "LA4X",
+        "LA8"
+      ],
+      "name" : "Passive MTD115b"
+    },
+    {
+      "ampConfig" : {
+        "LA1.16i_BTL" : 1,
+        "LA1.16i_SE" : 2,
+        "LA12X" : 3,
+        "LA2Xi_BTL" : 1,
+        "LA2Xi_SE" : 2,
+        "LA4X" : 2,
+        "LA7.16" : 2,
+        "LA7.16i" : 2
+      },
+      "brand" : "L-Acoustics",
+      "category" : "LEGACY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA1.16i_BTL",
+        "LA1.16i_SE",
+        "LA12X",
+        "LA2Xi_BTL",
+        "LA2Xi_SE",
+        "LA4X",
+        "LA7.16",
+        "LA7.16i"
+      ],
+      "name" : "SB10i"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 2,
+        "LA4X" : 1
+      },
+      "brand" : "L-Acoustics",
+      "category" : "LEGACY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA4X"
+      ],
+      "name" : "SB118"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 1
+      },
+      "brand" : "L-Acoustics",
+      "category" : "LEGACY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X"
+      ],
+      "name" : "SB218"
+    },
+    {
+      "ampConfig" : {
+        "LA1.16i_SE" : 1,
+        "LA12X" : 2,
+        "LA2Xi_SE" : 1,
+        "LA4X" : 1,
+        "LA7.16" : 1,
+        "LA7.16i" : 1
+      },
+      "brand" : "L-Acoustics",
+      "category" : "LEGACY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA1.16i_SE",
+        "LA12X",
+        "LA2Xi_SE",
+        "LA4X",
+        "LA7.16",
+        "LA7.16i"
+      ],
+      "name" : "SB6i"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 2
+      },
+      "brand" : "L-Acoustics",
+      "category" : "LEGACY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X"
+      ],
+      "name" : "V-DOSC"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 3
+      },
+      "brand" : "L-Acoustics",
+      "category" : "LEGACY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X"
+      ],
+      "name" : "dV-DOSC"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 1
+      },
+      "brand" : "L-Acoustics",
+      "category" : "LEGACY",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X"
+      ],
+      "name" : "dV-SUB"
+    },
+    {
+      "ampConfig" : {
+        "LA1.16i_BTL" : 1,
+        "LA1.16i_SE" : 2,
+        "LA12X" : 3,
+        "LA2Xi_BTL" : 1,
+        "LA2Xi_SE" : 1,
+        "LA4X" : 2,
+        "LA7.16" : 1,
+        "LA7.16i" : 1
+      },
+      "brand" : "L-Acoustics",
+      "category" : "S",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA1.16i_BTL",
+        "LA1.16i_SE",
+        "LA12X",
+        "LA2Xi_BTL",
+        "LA2Xi_SE",
+        "LA4X",
+        "LA7.16",
+        "LA7.16i"
+      ],
+      "name" : "Soka"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 3,
+        "LA2Xi_BTL" : 1,
+        "LA2Xi_SE" : 1,
+        "LA4X" : 1,
+        "LA7.16" : 1,
+        "LA7.16i" : 1,
+        "LA8" : 2
+      },
+      "brand" : "L-Acoustics",
+      "category" : "S",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA2Xi_BTL",
+        "LA2Xi_SE",
+        "LA4X",
+        "LA7.16",
+        "LA7.16i",
+        "LA8"
+      ],
+      "name" : "Syva"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 1,
+        "LA8" : 1
+      },
+      "brand" : "L-Acoustics",
+      "category" : "SUB",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA8"
+      ],
+      "name" : "K1-SB"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 2,
+        "LA2Xi_BTL" : 1,
+        "LA2Xi_SE" : 1,
+        "LA4X" : 1,
+        "LA7.16" : 1,
+        "LA7.16i" : 1
+      },
+      "brand" : "L-Acoustics",
+      "category" : "SUB",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA2Xi_BTL",
+        "LA2Xi_SE",
+        "LA4X",
+        "LA7.16",
+        "LA7.16i"
+      ],
+      "name" : "KS21"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 1
+      },
+      "brand" : "L-Acoustics",
+      "category" : "SUB",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X"
+      ],
+      "name" : "KS28"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 3,
+        "LA2Xi_BTL" : 1,
+        "LA2Xi_SE" : 1,
+        "LA4X" : 1,
+        "LA7.16" : 1,
+        "LA7.16i" : 1
+      },
+      "brand" : "L-Acoustics",
+      "category" : "SUB",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA2Xi_BTL",
+        "LA2Xi_SE",
+        "LA4X",
+        "LA7.16",
+        "LA7.16i"
+      ],
+      "name" : "SB15m"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 3,
+        "LA2Xi_BTL" : 1,
+        "LA2Xi_SE" : 1,
+        "LA4X" : 1,
+        "LA7.16" : 1,
+        "LA7.16i" : 1
+      },
+      "brand" : "L-Acoustics",
+      "category" : "SUB",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA2Xi_BTL",
+        "LA2Xi_SE",
+        "LA4X",
+        "LA7.16",
+        "LA7.16i"
+      ],
+      "name" : "SB18"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 1
+      },
+      "brand" : "L-Acoustics",
+      "category" : "SUB",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X"
+      ],
+      "name" : "SB28"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 2,
+        "LA2Xi_SE" : 1,
+        "LA4X" : 1,
+        "LA7.16" : 1,
+        "LA7.16i" : 1
+      },
+      "brand" : "L-Acoustics",
+      "category" : "SUB",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA2Xi_SE",
+        "LA4X",
+        "LA7.16",
+        "LA7.16i"
+      ],
+      "name" : "Syva Low"
+    },
+    {
+      "ampConfig" : {
+        "LA1.16i_BTL" : 1,
+        "LA12X" : 3,
+        "LA2Xi_BTL" : 1,
+        "LA2Xi_SE" : 1,
+        "LA4X" : 1,
+        "LA7.16" : 1,
+        "LA7.16i" : 1
+      },
+      "brand" : "L-Acoustics",
+      "category" : "SUB",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA1.16i_BTL",
+        "LA12X",
+        "LA2Xi_BTL",
+        "LA2Xi_SE",
+        "LA4X",
+        "LA7.16",
+        "LA7.16i"
+      ],
+      "name" : "Syva Sub"
+    },
+    {
+      "ampConfig" : {
+        "LA1.16i_BTL" : 2,
+        "LA1.16i_SE" : 3,
+        "LA12X" : 6,
+        "LA2Xi_SE" : 4,
+        "LA4" : 3,
+        "LA4X" : 4,
+        "LA7.16" : 3,
+        "LA7.16i" : 3,
+        "LA8" : 6
+      },
+      "brand" : "L-Acoustics",
+      "category" : "X",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA1.16i_BTL",
+        "LA1.16i_SE",
+        "LA12X",
+        "LA2Xi_SE",
+        "LA4",
+        "LA4X",
+        "LA7.16",
+        "LA7.16i",
+        "LA8"
+      ],
+      "name" : "5XT"
+    },
+    {
+      "ampConfig" : {
+        "LA1.16i_BTL" : 1,
+        "LA12X" : 3,
+        "LA2Xi_BTL" : 1,
+        "LA2Xi_SE" : 1,
+        "LA4X" : 1,
+        "LA7.16" : 1,
+        "LA7.16i" : 1,
+        "LA8" : 2
+      },
+      "brand" : "L-Acoustics",
+      "category" : "X",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA1.16i_BTL",
+        "LA12X",
+        "LA2Xi_BTL",
+        "LA2Xi_SE",
+        "LA4X",
+        "LA7.16",
+        "LA7.16i",
+        "LA8"
+      ],
+      "name" : "X12"
+    },
+    {
+      "ampConfig" : {
+        "LA12X" : 3,
+        "LA2Xi_SE" : 1,
+        "LA4X" : 1,
+        "LA7.16" : 1,
+        "LA7.16i" : 1,
+        "LA8" : 2
+      },
+      "brand" : "L-Acoustics",
+      "category" : "X",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA12X",
+        "LA2Xi_SE",
+        "LA4X",
+        "LA7.16",
+        "LA7.16i",
+        "LA8"
+      ],
+      "name" : "X15 HiQ"
+    },
+    {
+      "ampConfig" : {
+        "LA1.16i_BTL" : 2,
+        "LA1.16i_SE" : 3,
+        "LA12X" : 6,
+        "LA2Xi_SE" : 4,
+        "LA4" : 4,
+        "LA4X" : 4,
+        "LA7.16" : 4,
+        "LA7.16i" : 4,
+        "LA8" : 6
+      },
+      "brand" : "L-Acoustics",
+      "category" : "X",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA1.16i_BTL",
+        "LA1.16i_SE",
+        "LA12X",
+        "LA2Xi_SE",
+        "LA4",
+        "LA4X",
+        "LA7.16",
+        "LA7.16i",
+        "LA8"
+      ],
+      "name" : "X4i"
+    },
+    {
+      "ampConfig" : {
+        "LA1.16i_BTL" : 1,
+        "LA1.16i_SE" : 2,
+        "LA12X" : 3,
+        "LA2Xi_BTL" : 1,
+        "LA2Xi_SE" : 2,
+        "LA4X" : 2,
+        "LA7.16" : 1,
+        "LA7.16i" : 1
+      },
+      "brand" : "L-Acoustics",
+      "category" : "X",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA1.16i_BTL",
+        "LA1.16i_SE",
+        "LA12X",
+        "LA2Xi_BTL",
+        "LA2Xi_SE",
+        "LA4X",
+        "LA7.16",
+        "LA7.16i"
+      ],
+      "name" : "X6i"
+    },
+    {
+      "ampConfig" : {
+        "LA1.16i_BTL" : 1,
+        "LA1.16i_SE" : 2,
+        "LA12X" : 3,
+        "LA2Xi_BTL" : 1,
+        "LA2Xi_SE" : 2,
+        "LA4X" : 2,
+        "LA7.16" : 1,
+        "LA7.16i" : 1
+      },
+      "brand" : "L-Acoustics",
+      "category" : "X",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA1.16i_BTL",
+        "LA1.16i_SE",
+        "LA12X",
+        "LA2Xi_BTL",
+        "LA2Xi_SE",
+        "LA4X",
+        "LA7.16",
+        "LA7.16i"
+      ],
+      "name" : "X8"
+    },
+    {
+      "ampConfig" : {
+        "LA1.16i_BTL" : 1,
+        "LA1.16i_SE" : 2,
+        "LA12X" : 3,
+        "LA2Xi_BTL" : 1,
+        "LA2Xi_SE" : 2,
+        "LA4X" : 2,
+        "LA7.16" : 1,
+        "LA7.16i" : 1
+      },
+      "brand" : "L-Acoustics",
+      "category" : "X",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "LA1.16i_BTL",
+        "LA1.16i_SE",
+        "LA12X",
+        "LA2Xi_BTL",
+        "LA2Xi_SE",
+        "LA4X",
+        "LA7.16",
+        "LA7.16i"
+      ],
+      "name" : "X8i"
+    },
+    {
+      "ampConfig" : {
+        "iK42" : 4,
+        "iK81" : 4
+      },
+      "brand" : "Martin Audio",
+      "category" : "Adorn",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "iK42",
+        "iK81"
+      ],
+      "name" : "ADORN"
+    },
+    {
+      "ampConfig" : {
+        "VIA2004" : 1,
+        "VIA5004" : 2,
+        "iK42" : 2,
+        "iK81" : 2
+      },
+      "brand" : "Martin Audio",
+      "category" : "CDD",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "VIA2004",
+        "VIA5004",
+        "iK42",
+        "iK81"
+      ],
+      "name" : "CDD10"
+    },
+    {
+      "ampConfig" : {
+        "VIA2004" : 1,
+        "VIA5004" : 2,
+        "iK42" : 1,
+        "iK81" : 1
+      },
+      "brand" : "Martin Audio",
+      "category" : "CDD",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "VIA2004",
+        "VIA5004",
+        "iK42",
+        "iK81"
+      ],
+      "name" : "CDD12"
+    },
+    {
+      "ampConfig" : {
+        "VIA5004" : 1,
+        "iK42" : 1,
+        "iK81" : 1
+      },
+      "brand" : "Martin Audio",
+      "category" : "CDD",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "VIA5004",
+        "iK42",
+        "iK81"
+      ],
+      "name" : "CDD15"
+    },
+    {
+      "ampConfig" : {
+        "VIA2004" : 2,
+        "iK42" : 3,
+        "iK81" : 3
+      },
+      "brand" : "Martin Audio",
+      "category" : "CDD",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "VIA2004",
+        "iK42",
+        "iK81"
+      ],
+      "name" : "CDD6"
+    },
+    {
+      "ampConfig" : {
+        "VIA2004" : 2,
+        "iK42" : 3,
+        "iK81" : 3
+      },
+      "brand" : "Martin Audio",
+      "category" : "CDD",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "VIA2004",
+        "iK42",
+        "iK81"
+      ],
+      "name" : "CDD8"
+    },
+    {
+      "ampConfig" : {
+        "iK42" : 2,
+        "iK81" : 2
+      },
+      "brand" : "Martin Audio",
+      "category" : "LE",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "iK42",
+        "iK81"
+      ],
+      "name" : "LE1200"
+    },
+    {
+      "ampConfig" : {
+        "iK42" : 1,
+        "iK81" : 1
+      },
+      "brand" : "Martin Audio",
+      "category" : "LE",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "iK42",
+        "iK81"
+      ],
+      "name" : "LE1500"
+    },
+    {
+      "ampConfig" : {
+        "iK42" : 1,
+        "iK81" : 1
+      },
+      "brand" : "Martin Audio",
+      "category" : "LE",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "iK42",
+        "iK81"
+      ],
+      "name" : "LE2100"
+    },
+    {
+      "ampConfig" : {
+        "VIA2004" : 1,
+        "VIA5004" : 2,
+        "iK42" : 2,
+        "iK81" : 2
+      },
+      "brand" : "Martin Audio",
+      "category" : "Subwoofer",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "VIA2004",
+        "VIA5004",
+        "iK42",
+        "iK81"
+      ],
+      "name" : "SX110"
+    },
+    {
+      "ampConfig" : {
+        "VIA2004" : 1,
+        "VIA5004" : 1,
+        "iK42" : 1,
+        "iK81" : 1
+      },
+      "brand" : "Martin Audio",
+      "category" : "Subwoofer",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "VIA2004",
+        "VIA5004",
+        "iK42",
+        "iK81"
+      ],
+      "name" : "SX210"
+    },
+    {
+      "ampConfig" : {
+        "iK42" : 1
+      },
+      "brand" : "Martin Audio",
+      "category" : "Subwoofer",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "iK42"
+      ],
+      "name" : "SXC115"
+    },
+    {
+      "ampConfig" : {
+        "iK42" : 1
+      },
+      "brand" : "Martin Audio",
+      "category" : "Subwoofer",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "iK42"
+      ],
+      "name" : "SXC118"
+    },
+    {
+      "ampConfig" : {
+        "iK42" : 1
+      },
+      "brand" : "Martin Audio",
+      "category" : "Subwoofer",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "iK42"
+      ],
+      "name" : "SXH218"
+    },
+    {
+      "ampConfig" : {
+        "iK42" : 1,
+        "iK81" : 1
+      },
+      "brand" : "Martin Audio",
+      "category" : "TORUS",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "iK42",
+        "iK81"
+      ],
+      "name" : "TORUS T1215"
+    },
+    {
+      "ampConfig" : {
+        "iK42" : 1,
+        "iK81" : 1
+      },
+      "brand" : "Martin Audio",
+      "category" : "TORUS",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "iK42",
+        "iK81"
+      ],
+      "name" : "TORUS T1230"
+    },
+    {
+      "ampConfig" : {
+        "iK42" : 2,
+        "iK81" : 2
+      },
+      "brand" : "Martin Audio",
+      "category" : "W8",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "iK42",
+        "iK81"
+      ],
+      "name" : "W8L"
+    },
+    {
+      "ampConfig" : {
+        "iK42" : 2,
+        "iK81" : 2
+      },
+      "brand" : "Martin Audio",
+      "category" : "W8",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "iK42",
+        "iK81"
+      ],
+      "name" : "W8LC"
+    },
+    {
+      "ampConfig" : {
+        "iK42" : 2,
+        "iK81" : 2
+      },
+      "brand" : "Martin Audio",
+      "category" : "W8",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "iK42",
+        "iK81"
+      ],
+      "name" : "W8LM"
+    },
+    {
+      "ampConfig" : {
+        "iK42" : 2,
+        "iK81" : 2
+      },
+      "brand" : "Martin Audio",
+      "category" : "Wavefront",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "iK42",
+        "iK81"
+      ],
+      "name" : "WPC"
+    },
+    {
+      "ampConfig" : {
+        "iK42" : 2,
+        "iK81" : 2
+      },
+      "brand" : "Martin Audio",
+      "category" : "Wavefront",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "iK42",
+        "iK81"
+      ],
+      "name" : "WPL"
+    },
+    {
+      "ampConfig" : {
+        "iK42" : 2,
+        "iK81" : 2
+      },
+      "brand" : "Martin Audio",
+      "category" : "Wavefront",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "iK42",
+        "iK81"
+      ],
+      "name" : "WPM"
+    },
+    {
+      "ampConfig" : {
+        "iK42" : 2,
+        "iK81" : 2
+      },
+      "brand" : "Martin Audio",
+      "category" : "Wavefront",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "iK42",
+        "iK81"
+      ],
+      "name" : "WPS"
+    },
+    {
+      "ampConfig" : {
+        "iK42" : 3,
+        "iK81" : 3
+      },
+      "brand" : "Martin Audio",
+      "category" : "XE",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "iK42",
+        "iK81"
+      ],
+      "name" : "XE300"
+    },
+    {
+      "ampConfig" : {
+        "iK42" : 2
+      },
+      "brand" : "Martin Audio",
+      "category" : "XE",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "iK42"
+      ],
+      "name" : "XE500"
+    },
+    {
+      "ampConfig" : {
+        "NXAMP4x1 MK2" : 2,
+        "NXAMP4x2 MK2" : 4
+      },
+      "brand" : "NEXO",
+      "category" : "NEXO Line Array",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "NXAMP4x1 MK2",
+        "NXAMP4x2 MK2"
+      ],
+      "name" : "GEO M10"
+    },
+    {
+      "ampConfig" : {
+        "NXAMP4x2 MK2" : 3,
+        "NXAMP4x4 MK2" : 4
+      },
+      "brand" : "NEXO",
+      "category" : "NEXO Line Array",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "NXAMP4x2 MK2",
+        "NXAMP4x4 MK2"
+      ],
+      "name" : "GEO M12"
+    },
+    {
+      "ampConfig" : {
+        "DTDAMP4x1.3" : 4,
+        "NXAMP4x1 MK2" : 6
+      },
+      "brand" : "NEXO",
+      "category" : "NEXO Line Array",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "DTDAMP4x1.3",
+        "NXAMP4x1 MK2"
+      ],
+      "name" : "GEO M6"
+    },
+    {
+      "ampConfig" : {
+        "NXAMP4x4 MK2" : 4
+      },
+      "brand" : "NEXO",
+      "category" : "NEXO Line Array",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "NXAMP4x4 MK2"
+      ],
+      "name" : "STM M28"
+    },
+    {
+      "ampConfig" : {
+        "DTDAMP4x1.3" : 2,
+        "NXAMP4x1 MK2" : 2
+      },
+      "brand" : "NEXO",
+      "category" : "NEXO Monitor",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "DTDAMP4x1.3",
+        "NXAMP4x1 MK2"
+      ],
+      "name" : "45N12"
+    },
+    {
+      "ampConfig" : {
+        "DTDAMP4x1.3" : 2
+      },
+      "brand" : "NEXO",
+      "category" : "NEXO Monitor",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "DTDAMP4x1.3"
+      ],
+      "name" : "P15"
+    },
+    {
+      "ampConfig" : {
+        "DTDAMP4x1.3" : 1,
+        "NXAMP4x1 MK2" : 2
+      },
+      "brand" : "NEXO",
+      "category" : "NEXO Point Source",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "DTDAMP4x1.3",
+        "NXAMP4x1 MK2"
+      ],
+      "name" : "P12"
+    },
+    {
+      "ampConfig" : {
+        "NXAMP4x1 MK2" : 1,
+        "NXAMP4x2 MK2" : 2
+      },
+      "brand" : "NEXO",
+      "category" : "NEXO Point Source",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "NXAMP4x1 MK2",
+        "NXAMP4x2 MK2"
+      ],
+      "name" : "PS15-R2"
+    },
+    {
+      "ampConfig" : {
+        "NXAMP4x2 MK2" : 2,
+        "NXAMP4x4 MK2" : 2
+      },
+      "brand" : "NEXO",
+      "category" : "NEXO Subwoofer",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "NXAMP4x2 MK2",
+        "NXAMP4x4 MK2"
+      ],
+      "name" : "MSUB18"
+    },
+    {
+      "ampConfig" : {
+        "NXAMP4x2 MK2" : 2,
+        "NXAMP4x4 MK2" : 4
+      },
+      "brand" : "NEXO",
+      "category" : "NEXO Subwoofer",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "NXAMP4x2 MK2",
+        "NXAMP4x4 MK2"
+      ],
+      "name" : "RS18"
+    },
+    {
+      "ampConfig" : {
+        "D40" : 4,
+        "D80" : 4
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "E ",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D40",
+        "D80"
+      ],
+      "name" : "E12"
+    },
+    {
+      "ampConfig" : {
+        "D40" : 4,
+        "D80" : 4
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "E ",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D40",
+        "D80"
+      ],
+      "name" : "E5"
+    },
+    {
+      "ampConfig" : {
+        "D40" : 4,
+        "D80" : 4
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "E ",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D40",
+        "D80"
+      ],
+      "name" : "E6"
+    },
+    {
+      "ampConfig" : {
+        "D40" : 4,
+        "D80" : 4
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "E ",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D40",
+        "D80"
+      ],
+      "name" : "E8"
+    },
+    {
+      "ampConfig" : {
+        "D80" : 1
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "J",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D80"
+      ],
+      "name" : "J12"
+    },
+    {
+      "ampConfig" : {
+        "D80" : 1
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "J",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D80"
+      ],
+      "name" : "J8"
+    },
+    {
+      "ampConfig" : {
+        "D80" : 4
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "Legacy",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D80"
+      ],
+      "name" : "C4"
+    },
+    {
+      "ampConfig" : {
+        "D40" : 4,
+        "D80" : 4
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "Legacy",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D40",
+        "D80"
+      ],
+      "name" : "C6"
+    },
+    {
+      "ampConfig" : {
+        "D80" : 4
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "Legacy",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D80"
+      ],
+      "name" : "C7"
+    },
+    {
+      "ampConfig" : {
+        "D40" : 4,
+        "D80" : 4
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "Legacy",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D40",
+        "D80"
+      ],
+      "name" : "Ci80"
+    },
+    {
+      "ampConfig" : {
+        "D80" : 4
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "Legacy",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D80"
+      ],
+      "name" : "Ci90"
+    },
+    {
+      "ampConfig" : {
+        "D40" : 4,
+        "D80" : 4
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "M ",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D40",
+        "D80"
+      ],
+      "name" : "M4"
+    },
+    {
+      "ampConfig" : {
+        "D40" : 4,
+        "D80" : 4
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "M ",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D40",
+        "D80"
+      ],
+      "name" : "MAX2"
+    },
+    {
+      "ampConfig" : {
+        "D80" : 1
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "SL",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D80"
+      ],
+      "name" : "GSL12"
+    },
+    {
+      "ampConfig" : {
+        "D80" : 1
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "SL",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D80"
+      ],
+      "name" : "GSL8"
+    },
+    {
+      "ampConfig" : {
+        "D40" : 1,
+        "D80" : 1
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "SL",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D40",
+        "D80"
+      ],
+      "name" : "KSL12"
+    },
+    {
+      "ampConfig" : {
+        "D40" : 1,
+        "D80" : 1
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "SL",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D40",
+        "D80"
+      ],
+      "name" : "KSL8"
+    },
+    {
+      "ampConfig" : {
+        "D40" : 1,
+        "D80" : 1
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "SL",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D40",
+        "D80"
+      ],
+      "name" : "XSL12"
+    },
+    {
+      "ampConfig" : {
+        "D40" : 1,
+        "D80" : 1
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "SL",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D40",
+        "D80"
+      ],
+      "name" : "XSL8"
+    },
+    {
+      "ampConfig" : {
+        "D80" : 1
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "Sub",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D80"
+      ],
+      "name" : "B22-SUB"
+    },
+    {
+      "ampConfig" : {
+        "D40" : 4,
+        "D80" : 4
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "Sub",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D40",
+        "D80"
+      ],
+      "name" : "B6-SUB"
+    },
+    {
+      "ampConfig" : {
+        "D80" : 1
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "Sub",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D80"
+      ],
+      "name" : "J-INFRA"
+    },
+    {
+      "ampConfig" : {
+        "D80" : 1
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "Sub",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D80"
+      ],
+      "name" : "J-SUB"
+    },
+    {
+      "ampConfig" : {
+        "D40" : 4,
+        "D80" : 4
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "T",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D40",
+        "D80"
+      ],
+      "name" : "T10"
+    },
+    {
+      "ampConfig" : {
+        "D40" : 4,
+        "D80" : 1
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "V",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D40",
+        "D80"
+      ],
+      "name" : "V10P"
+    },
+    {
+      "ampConfig" : {
+        "D40" : 4,
+        "D80" : 1
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "V",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D40",
+        "D80"
+      ],
+      "name" : "V12"
+    },
+    {
+      "ampConfig" : {
+        "D40" : 4,
+        "D80" : 1
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "V",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D40",
+        "D80"
+      ],
+      "name" : "V7P"
+    },
+    {
+      "ampConfig" : {
+        "D40" : 4,
+        "D80" : 1
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "V",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D40",
+        "D80"
+      ],
+      "name" : "V8"
+    },
+    {
+      "ampConfig" : {
+        "D40" : 4,
+        "D80" : 2
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "Y",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D40",
+        "D80"
+      ],
+      "name" : "Y10P"
+    },
+    {
+      "ampConfig" : {
+        "D40" : 2,
+        "D80" : 2
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "Y",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "D40",
+        "D80"
+      ],
+      "name" : "Y12"
+    },
+    {
+      "ampConfig" : {
+        "D40" : 4,
+        "D80" : 2
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "Y",
+      "channelsUsed" : 1,
+      "compatibleAmps" : [
+        "D40",
+        "D80"
+      ],
+      "name" : "Y7P"
+    },
+    {
+      "ampConfig" : {
+        "D40" : 2,
+        "D80" : 2
+      },
+      "brand" : "d&b audiotechnik",
+      "category" : "Y",
+      "channelsUsed" : 2,
+      "compatibleAmps" : [
+        "D40",
+        "D80"
+      ],
+      "name" : "Y8"
     }
   ]
 }
