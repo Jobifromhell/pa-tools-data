@@ -5,7 +5,7 @@
       "name": "Amplifier Load Dataset",
       "version": "2025-02-01",
       "fileName": "ampload.json",
-      "checksum": "92360cc76baf9e45406be778437caeab3d21aea2ae3bb092f73c313340234404",
+      "checksum": "2aa065abf0ea092fbfbbfeff4c36daa7a1d0e868988ec810185f05e173ff629e",
       "url": "https://raw.githubusercontent.com/Jobifromhell/pa-tools-data/main/ampload.json"
     },
     {
@@ -13,7 +13,7 @@
       "name": "Pre-alignment Dataset",
       "version": "2025-02-01",
       "fileName": "prealignment.json",
-      "checksum": "1be604a0673b17a46660119f022a8e31f095050e8079b49f0369269bab43a4e9",
+      "checksum": "9295cb2c08b7f596e6e2f7aa4abd4dd777ea7a5f14de2b7ea7da9882e226597e",
       "url": "https://raw.githubusercontent.com/Jobifromhell/pa-tools-data/main/prealignment.json"
     }
   ]
