@@ -1,5829 +1,3313 @@
 {
-  "version": "2025-02-01",
-  "amplifiers": [
+  "amplifiers" : [
     {
-      "name": "LA1.16i_SE",
-      "brand": "L-Acoustics",
-      "loads": {
-        "5XT": {
-          "total": 48,
-          "perChannel": 3
+      "brand" : "L-Acoustics",
+      "loads" : {
+        "5XT" : {
+          "perChannel" : 3,
+          "total" : 48
         },
-        "SB10i": {
-          "total": 20,
-          "perChannel": 2
+        "SB10i" : {
+          "perChannel" : 2,
+          "total" : 20
         },
-        "SB6i": {
-          "total": 12,
-          "perChannel": 1
+        "SB6i" : {
+          "perChannel" : 1,
+          "total" : 12
         },
-        "Soka": {
-          "total": 26,
-          "perChannel": 2
+        "Soka" : {
+          "perChannel" : 2,
+          "total" : 26
         },
-        "X4i": {
-          "total": 48,
-          "perChannel": 3
+        "X4i" : {
+          "perChannel" : 3,
+          "total" : 48
         },
-        "X6i": {
-          "total": 20,
-          "perChannel": 2
+        "X6i" : {
+          "perChannel" : 2,
+          "total" : 20
         },
-        "X8": {
-          "total": 32,
-          "perChannel": 2
+        "X8" : {
+          "perChannel" : 2,
+          "total" : 32
         },
-        "X8i": {
-          "total": 30,
-          "perChannel": 2
+        "X8i" : {
+          "perChannel" : 2,
+          "total" : 30
         }
-      }
+      },
+      "name" : "LA1.16i_SE"
     },
     {
-      "name": "LA1.16i_BTL",
-      "brand": "L-Acoustics",
-      "loads": {
-        "5XT": {
-          "total": 14,
-          "perChannel": 2
+      "brand" : "L-Acoustics",
+      "loads" : {
+        "5XT" : {
+          "perChannel" : 2,
+          "total" : 14
         },
-        "A10 Wide/Focus": {
-          "total": 4,
-          "perChannel": 1
+        "A10 Wide\/Focus" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "Kiva II": {
-          "total": 10,
-          "perChannel": 2
+        "Kiva II" : {
+          "perChannel" : 2,
+          "total" : 10
         },
-        "SB10i": {
-          "total": 4,
-          "perChannel": 1
+        "SB10i" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "Soka": {
-          "total": 4,
-          "perChannel": 1
+        "Soka" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "Syva Sub": {
-          "total": 4,
-          "perChannel": 1
+        "Syva Sub" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "X12": {
-          "total": 4,
-          "perChannel": 1
+        "X12" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "X4i": {
-          "total": 12,
-          "perChannel": 2
+        "X4i" : {
+          "perChannel" : 2,
+          "total" : 12
         },
-        "X6i": {
-          "total": 8,
-          "perChannel": 1
+        "X6i" : {
+          "perChannel" : 1,
+          "total" : 8
         },
-        "X8": {
-          "total": 8,
-          "perChannel": 1
+        "X8" : {
+          "perChannel" : 1,
+          "total" : 8
         },
-        "X8i": {
-          "total": 8,
-          "perChannel": 1
+        "X8i" : {
+          "perChannel" : 1,
+          "total" : 8
         }
-      }
+      },
+      "name" : "LA1.16i_BTL"
     },
     {
-      "name": "LA2Xi_SE",
-      "brand": "L-Acoustics",
-      "loads": {
-        "5XT": {
-          "total": 16,
-          "perChannel": 4
+      "brand" : "L-Acoustics",
+      "loads" : {
+        "5XT" : {
+          "perChannel" : 4,
+          "total" : 16
         },
-        "A10 Wide/Focus": {
-          "total": 8,
-          "perChannel": 2
+        "A10 Wide\/Focus" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "A15 Wide/Focus": {
-          "total": 4,
-          "perChannel": 1
+        "A15 Wide\/Focus" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "ARCS Wide/Focus": {
-          "total": 4,
-          "perChannel": 1
+        "ARCS Wide\/Focus" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "Kara": {
-          "total": 4,
-          "perChannel": 2
+        "KS21" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "Kara II": {
-          "total": 4,
-          "perChannel": 2
+        "KS28" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "Kiva II": {
-          "total": 8,
-          "perChannel": 2
+        "Kara" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "KS21": {
-          "total": 4,
-          "perChannel": 1
+        "Kara II" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "KS28": {
-          "total": 4,
-          "perChannel": 1
+        "Kiva II" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "SB10i": {
-          "total": 8,
-          "perChannel": 2
+        "SB10i" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "SB15m": {
-          "total": 4,
-          "perChannel": 1
+        "SB15m" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "SB18": {
-          "total": 4,
-          "perChannel": 1
+        "SB18" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "SB28": {
-          "total": 4,
-          "perChannel": 1
+        "SB28" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "SB6i": {
-          "total": 4,
-          "perChannel": 1
+        "SB6i" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "Soka": {
-          "total": 4,
-          "perChannel": 1
+        "Soka" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "Syva": {
-          "total": 4,
-          "perChannel": 1
+        "Syva" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "Syva Low": {
-          "total": 4,
-          "perChannel": 1
+        "Syva Low" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "Syva Sub": {
-          "total": 4,
-          "perChannel": 1
+        "Syva Sub" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "X12": {
-          "total": 4,
-          "perChannel": 1
+        "X12" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "X15 HiQ": {
-          "total": 2,
-          "perChannel": 1
+        "X15 HiQ" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "X4i": {
-          "total": 16,
-          "perChannel": 4
+        "X4i" : {
+          "perChannel" : 4,
+          "total" : 16
         },
-        "X6i": {
-          "total": 8,
-          "perChannel": 2
+        "X6i" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "X8": {
-          "total": 8,
-          "perChannel": 2
+        "X8" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "X8i": {
-          "total": 8,
-          "perChannel": 2
+        "X8i" : {
+          "perChannel" : 2,
+          "total" : 8
         }
-      }
+      },
+      "name" : "LA2Xi_SE"
     },
     {
-      "name": "LA2Xi_BTL",
-      "brand": "L-Acoustics",
-      "loads": {
-        "A10 Wide/Focus": {
-          "total": 2,
-          "perChannel": 1
+      "brand" : "L-Acoustics",
+      "loads" : {
+        "A10 Wide\/Focus" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "A15 Wide/Focus": {
-          "total": 2,
-          "perChannel": 1
+        "A15 Wide\/Focus" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "ARCS Wide/Focus": {
-          "total": 2,
-          "perChannel": 1
+        "ARCS Wide\/Focus" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "Kiva II": {
-          "total": 4,
-          "perChannel": 2
+        "KS21" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "KS21": {
-          "total": 2,
-          "perChannel": 1
+        "Kiva II" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "SB10i": {
-          "total": 2,
-          "perChannel": 1
+        "SB10i" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "SB15m": {
-          "total": 2,
-          "perChannel": 1
+        "SB15m" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "SB18": {
-          "total": 2,
-          "perChannel": 1
+        "SB18" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "Soka": {
-          "total": 2,
-          "perChannel": 1
+        "Soka" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "Syva": {
-          "total": 2,
-          "perChannel": 1
+        "Syva" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "Syva Sub": {
-          "total": 2,
-          "perChannel": 1
+        "Syva Sub" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "X12": {
-          "total": 2,
-          "perChannel": 1
+        "X12" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "X6i": {
-          "total": 2,
-          "perChannel": 1
+        "X6i" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "X8": {
-          "total": 2,
-          "perChannel": 1
+        "X8" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "X8i": {
-          "total": 2,
-          "perChannel": 1
+        "X8i" : {
+          "perChannel" : 1,
+          "total" : 2
         }
-      }
+      },
+      "name" : "LA2Xi_BTL"
     },
     {
-      "name": "LA2Xi_PBTL",
-      "brand": "L-Acoustics",
-      "loads": {
-        "KS28": {
-          "total": 1,
-          "perChannel": 1
+      "brand" : "L-Acoustics",
+      "loads" : {
+        "KS28" : {
+          "perChannel" : 1,
+          "total" : 1
         },
-        "SB28": {
-          "total": 1,
-          "perChannel": 1
+        "SB28" : {
+          "perChannel" : 1,
+          "total" : 1
         }
-      }
+      },
+      "name" : "LA2Xi_PBTL"
     },
     {
-      "name": "LA4X",
-      "brand": "L-Acoustics",
-      "loads": {
-        "112XT": {
-          "total": 4,
-          "perChannel": 2
+      "brand" : "L-Acoustics",
+      "loads" : {
+        "112XT" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "115XT": {
-          "total": 2,
-          "perChannel": 1
+        "115XT" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "115XT HiQ": {
-          "total": 2,
-          "perChannel": 1
+        "115XT HiQ" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "5XT": {
-          "total": 16,
-          "perChannel": 4
+        "5XT" : {
+          "perChannel" : 4,
+          "total" : 16
         },
-        "8XT": {
-          "total": 8,
-          "perChannel": 2
+        "8XT" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "A10 Wide/Focus": {
-          "total": 8,
-          "perChannel": 2
+        "A10 Wide\/Focus" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "A15 Wide/Focus": {
-          "total": 4,
-          "perChannel": 1
+        "A15 Wide\/Focus" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "Active 12XT": {
-          "total": 4,
-          "perChannel": 2
+        "ARCS" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "Active MTD115b": {
-          "total": 2,
-          "perChannel": 1
+        "ARCS II" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "ARCS": {
-          "total": 2,
-          "perChannel": 1
+        "ARCS Wide\/Focus" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "ARCS II": {
-          "total": 2,
-          "perChannel": 1
+        "Active 12XT" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "ARCS Wide/Focus": {
-          "total": 4,
-          "perChannel": 1
+        "Active MTD115b" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "K2": {
-          "total": 1,
-          "perChannel": 1
+        "K2" : {
+          "perChannel" : 1,
+          "total" : 1
         },
-        "K3": {
-          "total": 2,
-          "perChannel": 1
+        "K3" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "Kara": {
-          "total": 4,
-          "perChannel": 2
+        "KS21" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "Kara II": {
-          "total": 4,
-          "perChannel": 2
+        "Kara" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "Kiva / Kilo": {
-          "total": 8,
-          "perChannel": 2
+        "Kara II" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "Kiva II": {
-          "total": 8,
-          "perChannel": 2
+        "Kiva \/ Kilo" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "KS21": {
-          "total": 4,
-          "perChannel": 1
+        "Kiva II" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "Kudo": {
-          "total": 1,
-          "perChannel": 1
+        "Kudo" : {
+          "perChannel" : 1,
+          "total" : 1
         },
-        "MTD108a": {
-          "total": 8,
-          "perChannel": 2
+        "MTD108a" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "MTD112b": {
-          "total": 4,
-          "perChannel": 1
+        "MTD112b" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "Passive 12XT": {
-          "total": 4,
-          "perChannel": 1
+        "Passive 12XT" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "Passive MTD115b": {
-          "total": 4,
-          "perChannel": 1
+        "Passive MTD115b" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "SB10i": {
-          "total": 8,
-          "perChannel": 2
+        "SB10i" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "SB118": {
-          "total": 4,
-          "perChannel": 1
+        "SB118" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "SB15m": {
-          "total": 4,
-          "perChannel": 1
+        "SB15m" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "SB18": {
-          "total": 4,
-          "perChannel": 1
+        "SB18" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "SB6i": {
-          "total": 4,
-          "perChannel": 1
+        "SB6i" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "Soka": {
-          "total": 8,
-          "perChannel": 2
+        "Soka" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "Syva": {
-          "total": 4,
-          "perChannel": 1
+        "Syva" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "Syva Low": {
-          "total": 4,
-          "perChannel": 1
+        "Syva Low" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "Syva Sub": {
-          "total": 4,
-          "perChannel": 1
+        "Syva Sub" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "X12": {
-          "total": 4,
-          "perChannel": 1
+        "X12" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "X15 HiQ": {
-          "total": 2,
-          "perChannel": 1
+        "X15 HiQ" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "X4i": {
-          "total": 16,
-          "perChannel": 4
+        "X4i" : {
+          "perChannel" : 4,
+          "total" : 16
         },
-        "X6i": {
-          "total": 8,
-          "perChannel": 2
+        "X6i" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "X8": {
-          "total": 8,
-          "perChannel": 2
+        "X8" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "X8i": {
-          "total": 8,
-          "perChannel": 2
+        "X8i" : {
+          "perChannel" : 2,
+          "total" : 8
         }
-      }
+      },
+      "name" : "LA4X"
     },
     {
-      "name": "LA7.16",
-      "brand": "L-Acoustics",
-      "loads": {
-        "5XT": {
-          "total": 48,
-          "perChannel": 3
+      "brand" : "L-Acoustics",
+      "loads" : {
+        "5XT" : {
+          "perChannel" : 3,
+          "total" : 48
         },
-        "A10 Wide/Focus": {
-          "total": 16,
-          "perChannel": 1
+        "A10 Wide\/Focus" : {
+          "perChannel" : 1,
+          "total" : 16
         },
-        "A15 Wide/Focus": {
-          "total": 10,
-          "perChannel": 1
+        "A15 Wide\/Focus" : {
+          "perChannel" : 1,
+          "total" : 10
         },
-        "K2": {
-          "total": 4,
-          "perChannel": 1
+        "K2" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "K3": {
-          "total": 8,
-          "perChannel": 1
+        "K3" : {
+          "perChannel" : 1,
+          "total" : 8
         },
-        "Kara II": {
-          "total": 8,
-          "perChannel": 1
+        "KS21" : {
+          "perChannel" : 1,
+          "total" : 8
         },
-        "Kiva II": {
-          "total": 32,
-          "perChannel": 2
+        "Kara II" : {
+          "perChannel" : 1,
+          "total" : 8
         },
-        "KS21": {
-          "total": 8,
-          "perChannel": 1
+        "Kiva II" : {
+          "perChannel" : 2,
+          "total" : 32
         },
-        "L2": {
-          "total": 1,
-          "perChannel": 1
+        "L2" : {
+          "perChannel" : 1,
+          "total" : 1
         },
-        "L2D": {
-          "total": 1,
-          "perChannel": 1
+        "L2D" : {
+          "perChannel" : 1,
+          "total" : 1
         },
-        "SB10i": {
-          "total": 32,
-          "perChannel": 2
+        "SB10i" : {
+          "perChannel" : 2,
+          "total" : 32
         },
-        "SB15m": {
-          "total": 9,
-          "perChannel": 1
+        "SB15m" : {
+          "perChannel" : 1,
+          "total" : 9
         },
-        "SB18": {
-          "total": 6,
-          "perChannel": 1
+        "SB18" : {
+          "perChannel" : 1,
+          "total" : 6
         },
-        "SB6i": {
-          "total": 16,
-          "perChannel": 1
+        "SB6i" : {
+          "perChannel" : 1,
+          "total" : 16
         },
-        "Soka": {
-          "total": 16,
-          "perChannel": 1
+        "Soka" : {
+          "perChannel" : 1,
+          "total" : 16
         },
-        "Syva": {
-          "total": 10,
-          "perChannel": 1
+        "Syva" : {
+          "perChannel" : 1,
+          "total" : 10
         },
-        "Syva Low": {
-          "total": 8,
-          "perChannel": 1
+        "Syva Low" : {
+          "perChannel" : 1,
+          "total" : 8
         },
-        "Syva Sub": {
-          "total": 16,
-          "perChannel": 1
+        "Syva Sub" : {
+          "perChannel" : 1,
+          "total" : 16
         },
-        "X12": {
-          "total": 14,
-          "perChannel": 1
+        "X12" : {
+          "perChannel" : 1,
+          "total" : 14
         },
-        "X15 HiQ": {
-          "total": 8,
-          "perChannel": 1
+        "X15 HiQ" : {
+          "perChannel" : 1,
+          "total" : 8
         },
-        "X4i": {
-          "total": 64,
-          "perChannel": 4
+        "X4i" : {
+          "perChannel" : 4,
+          "total" : 64
         },
-        "X6i": {
-          "total": 16,
-          "perChannel": 1
+        "X6i" : {
+          "perChannel" : 1,
+          "total" : 16
         },
-        "X8": {
-          "total": 16,
-          "perChannel": 1
+        "X8" : {
+          "perChannel" : 1,
+          "total" : 16
         },
-        "X8i": {
-          "total": 16,
-          "perChannel": 1
+        "X8i" : {
+          "perChannel" : 1,
+          "total" : 16
         }
-      }
+      },
+      "name" : "LA7.16"
     },
     {
-      "name": "LA7.16i",
-      "brand": "L-Acoustics",
-      "loads": {
-        "5XT": {
-          "total": 48,
-          "perChannel": 3
+      "brand" : "L-Acoustics",
+      "loads" : {
+        "5XT" : {
+          "perChannel" : 3,
+          "total" : 48
         },
-        "A10 Wide/Focus": {
-          "total": 16,
-          "perChannel": 1
+        "A10 Wide\/Focus" : {
+          "perChannel" : 1,
+          "total" : 16
         },
-        "A15 Wide/Focus": {
-          "total": 10,
-          "perChannel": 1
+        "A15 Wide\/Focus" : {
+          "perChannel" : 1,
+          "total" : 10
         },
-        "K2": {
-          "total": 4,
-          "perChannel": 1
+        "K2" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "K3": {
-          "total": 8,
-          "perChannel": 1
+        "K3" : {
+          "perChannel" : 1,
+          "total" : 8
         },
-        "Kara II": {
-          "total": 8,
-          "perChannel": 1
+        "KS21" : {
+          "perChannel" : 1,
+          "total" : 8
         },
-        "Kiva II": {
-          "total": 32,
-          "perChannel": 2
+        "Kara II" : {
+          "perChannel" : 1,
+          "total" : 8
         },
-        "KS21": {
-          "total": 8,
-          "perChannel": 1
+        "Kiva II" : {
+          "perChannel" : 2,
+          "total" : 32
         },
-        "L2": {
-          "total": 1,
-          "perChannel": 1
+        "L2" : {
+          "perChannel" : 1,
+          "total" : 1
         },
-        "L2D": {
-          "total": 1,
-          "perChannel": 1
+        "L2D" : {
+          "perChannel" : 1,
+          "total" : 1
         },
-        "SB10i": {
-          "total": 32,
-          "perChannel": 2
+        "SB10i" : {
+          "perChannel" : 2,
+          "total" : 32
         },
-        "SB15m": {
-          "total": 9,
-          "perChannel": 1
+        "SB15m" : {
+          "perChannel" : 1,
+          "total" : 9
         },
-        "SB18": {
-          "total": 6,
-          "perChannel": 1
+        "SB18" : {
+          "perChannel" : 1,
+          "total" : 6
         },
-        "SB6i": {
-          "total": 16,
-          "perChannel": 1
+        "SB6i" : {
+          "perChannel" : 1,
+          "total" : 16
         },
-        "Soka": {
-          "total": 16,
-          "perChannel": 1
+        "Soka" : {
+          "perChannel" : 1,
+          "total" : 16
         },
-        "Syva": {
-          "total": 10,
-          "perChannel": 1
+        "Syva" : {
+          "perChannel" : 1,
+          "total" : 10
         },
-        "Syva Low": {
-          "total": 8,
-          "perChannel": 1
+        "Syva Low" : {
+          "perChannel" : 1,
+          "total" : 8
         },
-        "Syva Sub": {
-          "total": 16,
-          "perChannel": 1
+        "Syva Sub" : {
+          "perChannel" : 1,
+          "total" : 16
         },
-        "X12": {
-          "total": 14,
-          "perChannel": 1
+        "X12" : {
+          "perChannel" : 1,
+          "total" : 14
         },
-        "X15 HiQ": {
-          "total": 8,
-          "perChannel": 1
+        "X15 HiQ" : {
+          "perChannel" : 1,
+          "total" : 8
         },
-        "X4i": {
-          "total": 64,
-          "perChannel": 4
+        "X4i" : {
+          "perChannel" : 4,
+          "total" : 64
         },
-        "X6i": {
-          "total": 16,
-          "perChannel": 1
+        "X6i" : {
+          "perChannel" : 1,
+          "total" : 16
         },
-        "X8": {
-          "total": 16,
-          "perChannel": 1
+        "X8" : {
+          "perChannel" : 1,
+          "total" : 16
         },
-        "X8i": {
-          "total": 16,
-          "perChannel": 1
+        "X8i" : {
+          "perChannel" : 1,
+          "total" : 16
         }
-      }
+      },
+      "name" : "LA7.16i"
     },
     {
-      "name": "LA12X",
-      "brand": "L-Acoustics",
-      "loads": {
-        "112XT": {
-          "total": 6,
-          "perChannel": 3
+      "brand" : "L-Acoustics",
+      "loads" : {
+        "112XT" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "115XT": {
-          "total": 6,
-          "perChannel": 3
+        "115XT" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "115XT HiQ": {
-          "total": 6,
-          "perChannel": 3
+        "115XT HiQ" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "5XT": {
-          "total": 24,
-          "perChannel": 6
+        "5XT" : {
+          "perChannel" : 6,
+          "total" : 24
         },
-        "8XT": {
-          "total": 12,
-          "perChannel": 3
+        "8XT" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "A10 Wide/Focus": {
-          "total": 12,
-          "perChannel": 3
+        "A10 Wide\/Focus" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "A15 Wide/Focus": {
-          "total": 12,
-          "perChannel": 3
+        "A15 Wide\/Focus" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "Active 12XT": {
-          "total": 6,
-          "perChannel": 3
+        "ARCS" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "Active MTD115b": {
-          "total": 4,
-          "perChannel": 2
+        "ARCS II" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "ARCS": {
-          "total": 6,
-          "perChannel": 3
+        "ARCS Wide\/Focus" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "ARCS II": {
-          "total": 6,
-          "perChannel": 3
+        "Active 12XT" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "ARCS Wide/Focus": {
-          "total": 12,
-          "perChannel": 3
+        "Active MTD115b" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "dV-DOSC": {
-          "total": 6,
-          "perChannel": 3
+        "K1" : {
+          "perChannel" : 2,
+          "total" : 2
         },
-        "dV-SUB": {
-          "total": 4,
-          "perChannel": 1
+        "K1-SB" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "K1": {
-          "total": 2,
-          "perChannel": 2
+        "K2" : {
+          "perChannel" : 3,
+          "total" : 3
         },
-        "K1-SB": {
-          "total": 4,
-          "perChannel": 1
+        "K3" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "K2": {
-          "total": 3,
-          "perChannel": 3
+        "KS21" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "K3": {
-          "total": 6,
-          "perChannel": 3
+        "KS28" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "Kara": {
-          "total": 6,
-          "perChannel": 3
+        "Kara" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "Kara II": {
-          "total": 6,
-          "perChannel": 3
+        "Kara II" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "Kiva / Kilo": {
-          "total": 12,
-          "perChannel": 3
+        "Kiva \/ Kilo" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "Kiva II": {
-          "total": 24,
-          "perChannel": 6
+        "Kiva II" : {
+          "perChannel" : 6,
+          "total" : 24
         },
-        "KS21": {
-          "total": 8,
-          "perChannel": 2
+        "Kudo" : {
+          "perChannel" : 3,
+          "total" : 3
         },
-        "KS28": {
-          "total": 4,
-          "perChannel": 1
+        "MTD108a" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "Kudo": {
-          "total": 3,
-          "perChannel": 3
+        "MTD112b" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "MTD108a": {
-          "total": 12,
-          "perChannel": 3
+        "Passive 12XT" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "MTD112b": {
-          "total": 8,
-          "perChannel": 2
+        "Passive MTD115b" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "Passive 12XT": {
-          "total": 12,
-          "perChannel": 3
+        "SB10i" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "Passive MTD115b": {
-          "total": 8,
-          "perChannel": 2
+        "SB118" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "SB10i": {
-          "total": 12,
-          "perChannel": 3
+        "SB15m" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "SB118": {
-          "total": 8,
-          "perChannel": 2
+        "SB18" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "SB15m": {
-          "total": 12,
-          "perChannel": 3
+        "SB218" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "SB18": {
-          "total": 12,
-          "perChannel": 3
+        "SB28" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "SB218": {
-          "total": 4,
-          "perChannel": 1
+        "SB6i" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "SB28": {
-          "total": 4,
-          "perChannel": 1
+        "Soka" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "SB6i": {
-          "total": 8,
-          "perChannel": 2
+        "Syva" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "Soka": {
-          "total": 12,
-          "perChannel": 3
+        "Syva Low" : {
+          "perChannel" : 2,
+          "total" : 6
         },
-        "Syva": {
-          "total": 12,
-          "perChannel": 3
+        "Syva Sub" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "Syva Low": {
-          "total": 6,
-          "perChannel": 2
+        "V-DOSC" : {
+          "perChannel" : 2,
+          "total" : 2
         },
-        "Syva Sub": {
-          "total": 12,
-          "perChannel": 3
+        "X12" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "V-DOSC": {
-          "total": 2,
-          "perChannel": 2
+        "X15 HiQ" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "X12": {
-          "total": 12,
-          "perChannel": 3
+        "X4i" : {
+          "perChannel" : 6,
+          "total" : 24
         },
-        "X15 HiQ": {
-          "total": 6,
-          "perChannel": 3
+        "X6i" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "X4i": {
-          "total": 24,
-          "perChannel": 6
+        "X8" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "X6i": {
-          "total": 12,
-          "perChannel": 3
+        "X8i" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "X8": {
-          "total": 12,
-          "perChannel": 3
+        "dV-DOSC" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "X8i": {
-          "total": 12,
-          "perChannel": 3
+        "dV-SUB" : {
+          "perChannel" : 1,
+          "total" : 4
         }
-      }
+      },
+      "name" : "LA12X"
     },
     {
-      "name": "LA4",
-      "brand": "L-Acoustics",
-      "loads": {
-        "112XT": {
-          "total": 4,
-          "perChannel": 2
+      "brand" : "L-Acoustics",
+      "loads" : {
+        "112XT" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "115XT": {
-          "total": 2,
-          "perChannel": 1
+        "115XT" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "115XT HiQ": {
-          "total": 2,
-          "perChannel": 1
+        "115XT HiQ" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "5XT": {
-          "total": 12,
-          "perChannel": 3
+        "5XT" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "8XT": {
-          "total": 8,
-          "perChannel": 2
+        "8XT" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "Active 12XT": {
-          "total": 4,
-          "perChannel": 2
+        "ARCS" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "Active MTD115b": {
-          "total": 2,
-          "perChannel": 1
+        "ARCS Wide\/Focus" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "ARCS": {
-          "total": 2,
-          "perChannel": 1
+        "Active 12XT" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "ARCS Wide/Focus": {
-          "total": 4,
-          "perChannel": 1
+        "Active MTD115b" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "MTD108a": {
-          "total": 8,
-          "perChannel": 2
+        "MTD108a" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "MTD112b": {
-          "total": 4,
-          "perChannel": 1
+        "MTD112b" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "Passive 12XT": {
-          "total": 4,
-          "perChannel": 1
+        "Passive 12XT" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "Passive MTD115b": {
-          "total": 4,
-          "perChannel": 1
+        "Passive MTD115b" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "X4i": {
-          "total": 16,
-          "perChannel": 4
+        "X4i" : {
+          "perChannel" : 4,
+          "total" : 16
         }
-      }
+      },
+      "name" : "LA4"
     },
     {
-      "name": "LA8",
-      "brand": "L-Acoustics",
-      "loads": {
-        "112XT": {
-          "total": 6,
-          "perChannel": 3
+      "brand" : "L-Acoustics",
+      "loads" : {
+        "112XT" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "115XT": {
-          "total": 6,
-          "perChannel": 3
+        "115XT" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "115XT HiQ": {
-          "total": 4,
-          "perChannel": 2
+        "115XT HiQ" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "5XT": {
-          "total": 24,
-          "perChannel": 6
+        "5XT" : {
+          "perChannel" : 6,
+          "total" : 24
         },
-        "8XT": {
-          "total": 12,
-          "perChannel": 3
+        "8XT" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "A10 Wide/Focus": {
-          "total": 8,
-          "perChannel": 2
+        "A10 Wide\/Focus" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "A15 Wide/Focus": {
-          "total": 8,
-          "perChannel": 2
+        "A15 Wide\/Focus" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "Active 12XT": {
-          "total": 6,
-          "perChannel": 3
+        "ARCS" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "Active MTD115b": {
-          "total": 4,
-          "perChannel": 2
+        "ARCS II" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "ARCS": {
-          "total": 6,
-          "perChannel": 3
+        "ARCS Wide\/Focus" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "ARCS II": {
-          "total": 4,
-          "perChannel": 2
+        "Active 12XT" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "ARCS Wide/Focus": {
-          "total": 8,
-          "perChannel": 2
+        "Active MTD115b" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "K1": {
-          "total": 2,
-          "perChannel": 2
+        "K1" : {
+          "perChannel" : 2,
+          "total" : 2
         },
-        "K1-SB": {
-          "total": 4,
-          "perChannel": 1
+        "K1-SB" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "K2": {
-          "total": 3,
-          "perChannel": 3
+        "K2" : {
+          "perChannel" : 3,
+          "total" : 3
         },
-        "K3": {
-          "total": 4,
-          "perChannel": 2
+        "K3" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "Kara": {
-          "total": 6,
-          "perChannel": 3
+        "Kara" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "MTD108a": {
-          "total": 12,
-          "perChannel": 3
+        "MTD108a" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "MTD112b": {
-          "total": 8,
-          "perChannel": 2
+        "MTD112b" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "Passive 12XT": {
-          "total": 8,
-          "perChannel": 2
+        "Passive 12XT" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "Passive MTD115b": {
-          "total": 8,
-          "perChannel": 2
+        "Passive MTD115b" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "Syva": {
-          "total": 8,
-          "perChannel": 2
+        "Syva" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "X12": {
-          "total": 8,
-          "perChannel": 2
+        "X12" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "X15 HiQ": {
-          "total": 4,
-          "perChannel": 2
+        "X15 HiQ" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "X4i": {
-          "total": 24,
-          "perChannel": 6
+        "X4i" : {
+          "perChannel" : 6,
+          "total" : 24
         }
-      }
+      },
+      "name" : "LA8"
     },
     {
-      "name": "PLM20K44",
-      "brand": "Adamson",
-      "loads": {
-        "E15": {
-          "total": 3,
-          "perChannel": 3
+      "brand" : "Adamson",
+      "loads" : {
+        "A218" : {
+          "perChannel" : 2,
+          "total" : 6
         },
-        "E12": {
-          "total": 3,
-          "perChannel": 3
+        "E119" : {
+          "perChannel" : 2,
+          "total" : 6
         },
-        "E219": {
-          "total": 3,
-          "perChannel": 2
+        "E12" : {
+          "perChannel" : 3,
+          "total" : 3
         },
-        "E119": {
-          "total": 6,
-          "perChannel": 2
+        "E15" : {
+          "perChannel" : 3,
+          "total" : 3
         },
-        "S10": {
-          "total": 8,
-          "perChannel": 4
+        "E218" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "S10n": {
-          "total": 8,
-          "perChannel": 4
+        "E219" : {
+          "perChannel" : 2,
+          "total" : 3
         },
-        "S119": {
-          "total": 8,
-          "perChannel": 2
+        "IS10" : {
+          "perChannel" : 4000,
+          "total" : 8
         },
-        "S7": {
-          "total": 8,
-          "perChannel": 4
+        "IS10n" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "S118": {
-          "total": 16,
-          "perChannel": 4
+        "IS10p" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "S10p": {
-          "total": 8,
-          "perChannel": 4
+        "IS118" : {
+          "perChannel" : 4,
+          "total" : 16
         },
-        "S7p Bi-Amped": {
-          "total": 8,
-          "perChannel": 4
+        "IS119" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "S7p Passive": {
-          "total": 12,
-          "perChannel": 3
+        "IS213" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "IS10": {
-          "total": 8,
-          "perChannel": 4000
+        "IS219" : {
+          "perChannel" : 1,
+          "total" : 3
         },
-        "IS10n": {
-          "total": 8,
-          "perChannel": 4
+        "IS5c" : {
+          "perChannel" : 8,
+          "total" : 32
         },
-        "IS119": {
-          "total": 8,
-          "perChannel": 2
+        "IS7" : {
+          "perChannel" : 6,
+          "total" : 12
         },
-        "IS7": {
-          "total": 12,
-          "perChannel": 6
+        "IS7c" : {
+          "perChannel" : 8,
+          "total" : 32
         },
-        "IS118": {
-          "total": 16,
-          "perChannel": 4
+        "IS7p" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "IS10p": {
-          "total": 8,
-          "perChannel": 4
+        "IS7px" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "IS7p": {
-          "total": 8,
-          "perChannel": 4
+        "M10 Bi-Amped" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "IS7px": {
-          "total": 12,
-          "perChannel": 3
+        "M12A" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "IS7c": {
-          "total": 32,
-          "perChannel": 8
+        "M12P" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "IS5c": {
-          "total": 32,
-          "perChannel": 8
+        "M15A" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "IS213": {
-          "total": 4,
-          "perChannel": 1
+        "M15P" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "IS219": {
-          "total": 3,
-          "perChannel": 1
+        "M212" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "Point 8": {
-          "total": 16,
-          "perChannel": 4
+        "M215" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "Point 12": {
-          "total": 4,
-          "perChannel": 1
+        "MTB" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "Point 15": {
-          "total": 4,
-          "perChannel": 1
+        "MTX" : {
+          "perChannel" : 8,
+          "total" : 16
         },
-        "P8P": {
-          "total": 16,
-          "perChannel": 4
+        "P115A" : {
+          "perChannel" : 4,
+          "total" : 16
         },
-        "P115P + P8P": {
-          "total": 4,
-          "perChannel": 1
+        "P115P + P8P" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "P115A": {
-          "total": 16,
-          "perChannel": 4
+        "P12A" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "P215": {
-          "total": 8,
-          "perChannel": 2
+        "P12P" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "PC5": {
-          "total": 8,
-          "perChannel": 2
+        "P15A" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "PC8": {
-          "total": 8,
-          "perChannel": 2
+        "P15P" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "M10 Bi-Amped": {
-          "total": 8,
-          "perChannel": 4
+        "P215" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "M15A": {
-          "total": 6,
-          "perChannel": 3
+        "P8P" : {
+          "perChannel" : 4,
+          "total" : 16
         },
-        "M15P": {
-          "total": 12,
-          "perChannel": 3
+        "PC10" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "M12A": {
-          "total": 6,
-          "perChannel": 3
+        "PC12" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "M12P": {
-          "total": 12,
-          "perChannel": 3
+        "PC5" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "M215": {
-          "total": 4,
-          "perChannel": 2
+        "PC6" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "M212": {
-          "total": 4,
-          "perChannel": 2
+        "PC8" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "P12A": {
-          "total": 6,
-          "perChannel": 3
+        "Point 12" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "P12P": {
-          "total": 12,
-          "perChannel": 3
+        "Point 15" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "P15A": {
-          "total": 6,
-          "perChannel": 3
+        "Point 8" : {
+          "perChannel" : 4,
+          "total" : 16
         },
-        "P15P": {
-          "total": 12,
-          "perChannel": 3
+        "S10" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "PC6": {
-          "total": 12,
-          "perChannel": 3
+        "S10n" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "PC10": {
-          "total": 8,
-          "perChannel": 2
+        "S10p" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "PC12": {
-          "total": 8,
-          "perChannel": 2
+        "S118" : {
+          "perChannel" : 4,
+          "total" : 16
         },
-        "A218": {
-          "total": 6,
-          "perChannel": 2
+        "S119" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "E218": {
-          "total": 6,
-          "perChannel": 3
+        "S7" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "Y18": {
-          "total": 2,
-          "perChannel": 2
+        "S7p Bi-Amped" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "Y10": {
-          "total": 4,
-          "perChannel": 4
+        "S7p Passive" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "T21": {
-          "total": 2,
-          "perChannel": 1
+        "SPB" : {
+          "perChannel" : 2,
+          "total" : 6
         },
-        "SX18A": {
-          "total": 4,
-          "perChannel": 4
+        "SPK" : {
+          "perChannel" : 4,
+          "total" : 4
         },
-        "SX18P": {
-          "total": 8,
-          "perChannel": 4
+        "SX18A" : {
+          "perChannel" : 4,
+          "total" : 4
         },
-        "MTX": {
-          "total": 16,
-          "perChannel": 8
+        "SX18P" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "MTB": {
-          "total": 8,
-          "perChannel": 2
+        "T21" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "SPK": {
-          "total": 4,
-          "perChannel": 4
+        "Y10" : {
+          "perChannel" : 4,
+          "total" : 4
         },
-        "SPB": {
-          "total": 6,
-          "perChannel": 2
+        "Y18" : {
+          "perChannel" : 2,
+          "total" : 2
         }
-      }
+      },
+      "name" : "PLM20K44"
     },
     {
-      "name": "PLM12K44",
-      "brand": "Adamson",
-      "loads": {
-        "E15": {
-          "total": 3,
-          "perChannel": 3
+      "brand" : "Adamson",
+      "loads" : {
+        "A218" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "E12": {
-          "total": 3,
-          "perChannel": 3
+        "E119" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "E219": {
-          "total": 2,
-          "perChannel": 1
+        "E12" : {
+          "perChannel" : 3,
+          "total" : 3
         },
-        "E119": {
-          "total": 4,
-          "perChannel": 1
+        "E15" : {
+          "perChannel" : 3,
+          "total" : 3
         },
-        "S10": {
-          "total": 8,
-          "perChannel": 4
+        "E219" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "S10n": {
-          "total": 8,
-          "perChannel": 4
+        "IS10" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "S119": {
-          "total": 4,
-          "perChannel": 2
+        "IS10n" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "S7": {
-          "total": 8,
-          "perChannel": 4
+        "IS10p" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "S118": {
-          "total": 12,
-          "perChannel": 4
+        "IS118" : {
+          "perChannel" : 4,
+          "total" : 12
         },
-        "S10p": {
-          "total": 8,
-          "perChannel": 4
+        "IS119" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "S7p Bi-Amped": {
-          "total": 8,
-          "perChannel": 4
+        "IS213" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "S7p Passive": {
-          "total": 12,
-          "perChannel": 3
+        "IS219" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "IS10": {
-          "total": 8,
-          "perChannel": 4
+        "IS5c" : {
+          "perChannel" : 8,
+          "total" : 32
         },
-        "IS10n": {
-          "total": 8,
-          "perChannel": 4
+        "IS7" : {
+          "perChannel" : 6,
+          "total" : 12
         },
-        "IS119": {
-          "total": 4,
-          "perChannel": 2
+        "IS7c" : {
+          "perChannel" : 8,
+          "total" : 20
         },
-        "IS7": {
-          "total": 12,
-          "perChannel": 6
+        "IS7p" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "IS118": {
-          "total": 12,
-          "perChannel": 4
+        "IS7px" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "IS10p": {
-          "total": 8,
-          "perChannel": 4
+        "M10 Bi-Amped" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "IS7p": {
-          "total": 8,
-          "perChannel": 4
+        "M12A" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "IS7px": {
-          "total": 12,
-          "perChannel": 3
+        "M12P" : {
+          "perChannel" : 3,
+          "total" : 10
         },
-        "IS7c": {
-          "total": 20,
-          "perChannel": 8
+        "M15A" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "IS5c": {
-          "total": 32,
-          "perChannel": 8
+        "M15P" : {
+          "perChannel" : 3,
+          "total" : 10
         },
-        "IS213": {
-          "total": 4,
-          "perChannel": 1
+        "M212" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "IS219": {
-          "total": 2,
-          "perChannel": 1
+        "M215" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "Point 8": {
-          "total": 4,
-          "perChannel": 4
+        "MTB" : {
+          "perChannel" : 2,
+          "total" : 6
         },
-        "Point 12": {
-          "total": 4,
-          "perChannel": 1
+        "MTX" : {
+          "perChannel" : 8,
+          "total" : 12
         },
-        "Point 15": {
-          "total": 4,
-          "perChannel": 1
+        "P115A" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "P8P": {
-          "total": 16,
-          "perChannel": 4
+        "P115P + P8P" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "P115P + P8P": {
-          "total": 4,
-          "perChannel": 1
+        "P12A" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "P115A": {
-          "total": 12,
-          "perChannel": 3
+        "P12P" : {
+          "perChannel" : 3,
+          "total" : 10
         },
-        "P215": {
-          "total": 6,
-          "perChannel": 2
+        "P15A" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "PC5": {
-          "total": 8,
-          "perChannel": 2
+        "P15P" : {
+          "perChannel" : 3,
+          "total" : 10
         },
-        "PC8": {
-          "total": 8,
-          "perChannel": 2
+        "P215" : {
+          "perChannel" : 2,
+          "total" : 6
         },
-        "M10 Bi-Amped": {
-          "total": 8,
-          "perChannel": 4
+        "P8P" : {
+          "perChannel" : 4,
+          "total" : 16
         },
-        "M15A": {
-          "total": 6,
-          "perChannel": 3
+        "PC10" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "M15P": {
-          "total": 10,
-          "perChannel": 3
+        "PC12" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "M12A": {
-          "total": 6,
-          "perChannel": 3
+        "PC5" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "M12P": {
-          "total": 10,
-          "perChannel": 3
+        "PC6" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "M215": {
-          "total": 4,
-          "perChannel": 2
+        "PC8" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "M212": {
-          "total": 4,
-          "perChannel": 2
+        "Point 12" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "P12A": {
-          "total": 6,
-          "perChannel": 3
+        "Point 15" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "P12P": {
-          "total": 10,
-          "perChannel": 3
+        "Point 8" : {
+          "perChannel" : 4,
+          "total" : 4
         },
-        "P15A": {
-          "total": 6,
-          "perChannel": 3
+        "S10" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "P15P": {
-          "total": 10,
-          "perChannel": 3
+        "S10n" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "PC6": {
-          "total": 12,
-          "perChannel": 3
+        "S10p" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "PC10": {
-          "total": 8,
-          "perChannel": 2
+        "S118" : {
+          "perChannel" : 4,
+          "total" : 12
         },
-        "PC12": {
-          "total": 8,
-          "perChannel": 2
+        "S119" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "A218": {
-          "total": 4,
-          "perChannel": 2
+        "S7" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "Y18": {
-          "total": 2,
-          "perChannel": 2
+        "S7p Bi-Amped" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "Y10": {
-          "total": 4,
-          "perChannel": 4
+        "S7p Passive" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "SX18A": {
-          "total": 4,
-          "perChannel": 4
+        "SPB" : {
+          "perChannel" : 2,
+          "total" : 5
         },
-        "SX18P": {
-          "total": 8,
-          "perChannel": 4
+        "SPK" : {
+          "perChannel" : 4,
+          "total" : 4
         },
-        "MTX": {
-          "total": 12,
-          "perChannel": 8
+        "SX18A" : {
+          "perChannel" : 4,
+          "total" : 4
         },
-        "MTB": {
-          "total": 6,
-          "perChannel": 2
+        "SX18P" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "SPK": {
-          "total": 4,
-          "perChannel": 4
+        "Y10" : {
+          "perChannel" : 4,
+          "total" : 4
         },
-        "SPB": {
-          "total": 5,
-          "perChannel": 2
+        "Y18" : {
+          "perChannel" : 2,
+          "total" : 2
         }
-      }
+      },
+      "name" : "PLM12K44"
     },
     {
-      "name": "PLM8K44",
-      "brand": "Adamson",
-      "loads": {
-        "S10": {
-          "total": 5,
-          "perChannel": 4
+      "brand" : "Adamson",
+      "loads" : {
+        "A218" : {
+          "perChannel" : 2,
+          "total" : 3
         },
-        "S10n": {
-          "total": 5,
-          "perChannel": 4
+        "IS10" : {
+          "perChannel" : 4,
+          "total" : 5
         },
-        "S119": {
-          "total": 3,
-          "perChannel": 1
+        "IS10n" : {
+          "perChannel" : 4,
+          "total" : 5
         },
-        "S7": {
-          "total": 6,
-          "perChannel": 4
+        "IS10p" : {
+          "perChannel" : 4,
+          "total" : 5
         },
-        "S118": {
-          "total": 8,
-          "perChannel": 2
+        "IS118" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "S10p": {
-          "total": 5,
-          "perChannel": 4
+        "IS119" : {
+          "perChannel" : 1,
+          "total" : 3
         },
-        "S7p Bi-Amped": {
-          "total": 6,
-          "perChannel": 4
+        "IS213" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "S7p Passive": {
-          "total": 6,
-          "perChannel": 3
+        "IS219" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "IS10": {
-          "total": 5,
-          "perChannel": 4
+        "IS5c" : {
+          "perChannel" : 8,
+          "total" : 32
         },
-        "IS10n": {
-          "total": 5,
-          "perChannel": 4
+        "IS7" : {
+          "perChannel" : 6,
+          "total" : 8
         },
-        "IS119": {
-          "total": 3,
-          "perChannel": 1
+        "IS7c" : {
+          "perChannel" : 8,
+          "total" : 13
         },
-        "IS7": {
-          "total": 8,
-          "perChannel": 6
+        "IS7p" : {
+          "perChannel" : 4,
+          "total" : 6
         },
-        "IS118": {
-          "total": 8,
-          "perChannel": 2
+        "IS7px" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "IS10p": {
-          "total": 5,
-          "perChannel": 4
+        "M10 Bi-Amped" : {
+          "perChannel" : 4,
+          "total" : 5
         },
-        "IS7p": {
-          "total": 6,
-          "perChannel": 4
+        "M12A" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "IS7px": {
-          "total": 6,
-          "perChannel": 3
+        "M12P" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "IS7c": {
-          "total": 13,
-          "perChannel": 8
+        "M15A" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "IS5c": {
-          "total": 32,
-          "perChannel": 8
+        "M15P" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "IS213": {
-          "total": 2,
-          "perChannel": 1
+        "M212" : {
+          "perChannel" : 2,
+          "total" : 3
         },
-        "IS219": {
-          "total": 2,
-          "perChannel": 1
+        "M215" : {
+          "perChannel" : 2,
+          "total" : 3
         },
-        "P8P": {
-          "total": 14,
-          "perChannel": 4
+        "MTB" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "P115P + P8P": {
-          "total": 4,
-          "perChannel": 1
+        "MTX" : {
+          "perChannel" : 8,
+          "total" : 12
         },
-        "P115A": {
-          "total": 8,
-          "perChannel": 3
+        "P115A" : {
+          "perChannel" : 3,
+          "total" : 8
         },
-        "P215": {
-          "total": 4,
-          "perChannel": 2
+        "P115P + P8P" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "PC5": {
-          "total": 8,
-          "perChannel": 2
+        "P12A" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "PC8": {
-          "total": 8,
-          "perChannel": 2
+        "P12P" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "M10 Bi-Amped": {
-          "total": 5,
-          "perChannel": 4
+        "P15A" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "M15A": {
-          "total": 6,
-          "perChannel": 3
+        "P15P" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "M15P": {
-          "total": 6,
-          "perChannel": 3
+        "P215" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "M12A": {
-          "total": 6,
-          "perChannel": 3
+        "P8P" : {
+          "perChannel" : 4,
+          "total" : 14
         },
-        "M12P": {
-          "total": 6,
-          "perChannel": 3
+        "PC10" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "M215": {
-          "total": 3,
-          "perChannel": 2
+        "PC12" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "M212": {
-          "total": 3,
-          "perChannel": 2
+        "PC5" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "P12A": {
-          "total": 6,
-          "perChannel": 3
+        "PC6" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "P12P": {
-          "total": 8,
-          "perChannel": 2
+        "PC8" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "P15A": {
-          "total": 6,
-          "perChannel": 3
+        "S10" : {
+          "perChannel" : 4,
+          "total" : 5
         },
-        "P15P": {
-          "total": 8,
-          "perChannel": 2
+        "S10n" : {
+          "perChannel" : 4,
+          "total" : 5
         },
-        "PC6": {
-          "total": 12,
-          "perChannel": 3
+        "S10p" : {
+          "perChannel" : 4,
+          "total" : 5
         },
-        "PC10": {
-          "total": 8,
-          "perChannel": 2
+        "S118" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "PC12": {
-          "total": 8,
-          "perChannel": 2
+        "S119" : {
+          "perChannel" : 1,
+          "total" : 3
         },
-        "A218": {
-          "total": 3,
-          "perChannel": 2
+        "S7" : {
+          "perChannel" : 4,
+          "total" : 6
         },
-        "Y18": {
-          "total": 1,
-          "perChannel": 1
+        "S7p Bi-Amped" : {
+          "perChannel" : 4,
+          "total" : 6
         },
-        "Y10": {
-          "total": 2,
-          "perChannel": 2
+        "S7p Passive" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "SX18A": {
-          "total": 3,
-          "perChannel": 3
+        "SPB" : {
+          "perChannel" : 2,
+          "total" : 3
         },
-        "SX18P": {
-          "total": 4,
-          "perChannel": 3
+        "SPK" : {
+          "perChannel" : 4,
+          "total" : 4
         },
-        "MTX": {
-          "total": 12,
-          "perChannel": 8
+        "SX18A" : {
+          "perChannel" : 3,
+          "total" : 3
         },
-        "MTB": {
-          "total": 4,
-          "perChannel": 2
+        "SX18P" : {
+          "perChannel" : 3,
+          "total" : 4
         },
-        "SPK": {
-          "total": 4,
-          "perChannel": 4
+        "Y10" : {
+          "perChannel" : 2,
+          "total" : 2
         },
-        "SPB": {
-          "total": 3,
-          "perChannel": 2
+        "Y18" : {
+          "perChannel" : 1,
+          "total" : 1
         }
-      }
+      },
+      "name" : "PLM8K44"
     },
     {
-      "name": "PLM20000Q",
-      "brand": "Adamson",
-      "loads": {
-        "E15": {
-          "total": 3,
-          "perChannel": 3
+      "brand" : "Adamson",
+      "loads" : {
+        "A218" : {
+          "perChannel" : 2,
+          "total" : 6
         },
-        "E12": {
-          "total": 3,
-          "perChannel": 3
+        "E119" : {
+          "perChannel" : 2,
+          "total" : 6
         },
-        "E219": {
-          "total": 3,
-          "perChannel": 2
+        "E12" : {
+          "perChannel" : 3,
+          "total" : 3
         },
-        "E119": {
-          "total": 6,
-          "perChannel": 2
+        "E15" : {
+          "perChannel" : 3,
+          "total" : 3
         },
-        "S10": {
-          "total": 8,
-          "perChannel": 4
+        "E218" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "S119": {
-          "total": 2,
-          "perChannel": 2
+        "E219" : {
+          "perChannel" : 2,
+          "total" : 3
         },
-        "S7": {
-          "total": 8,
-          "perChannel": 4
+        "IS10" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "S118": {
-          "total": 16,
-          "perChannel": 4
+        "IS10p" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "S10p": {
-          "total": 8,
-          "perChannel": 4
+        "IS118" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "S7p Bi-Amped": {
-          "total": 8,
-          "perChannel": 4
+        "IS119" : {
+          "perChannel" : 2,
+          "total" : 2
         },
-        "S7p Passive": {
-          "total": 12,
-          "perChannel": 3
+        "IS213" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "IS10": {
-          "total": 8,
-          "perChannel": 4
+        "IS219" : {
+          "perChannel" : 1,
+          "total" : 3
         },
-        "IS119": {
-          "total": 2,
-          "perChannel": 2
+        "IS5c" : {
+          "perChannel" : 8,
+          "total" : 32
         },
-        "IS7": {
-          "total": 12,
-          "perChannel": 6
+        "IS7" : {
+          "perChannel" : 6,
+          "total" : 12
         },
-        "IS118": {
-          "total": 8,
-          "perChannel": 4
+        "IS7c" : {
+          "perChannel" : 8,
+          "total" : 32
         },
-        "IS10p": {
-          "total": 8,
-          "perChannel": 4
+        "IS7p" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "IS7p": {
-          "total": 8,
-          "perChannel": 4
+        "IS7px" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "IS7px": {
-          "total": 12,
-          "perChannel": 3
+        "M10 Bi-Amped" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "IS7c": {
-          "total": 32,
-          "perChannel": 8
+        "M12A" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "IS5c": {
-          "total": 32,
-          "perChannel": 8
+        "M12P" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "IS213": {
-          "total": 4,
-          "perChannel": 1
+        "M15A" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "IS219": {
-          "total": 3,
-          "perChannel": 1
+        "M15P" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "Point 8": {
-          "total": 8,
-          "perChannel": 4
+        "M212" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "Point 12": {
-          "total": 4,
-          "perChannel": 1
+        "M215" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "Point 15": {
-          "total": 4,
-          "perChannel": 1
+        "MTB" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "P8P": {
-          "total": 16,
-          "perChannel": 4
+        "MTX" : {
+          "perChannel" : 8,
+          "total" : 16
         },
-        "P115P + P8P": {
-          "total": 4,
-          "perChannel": 1
+        "P115A" : {
+          "perChannel" : 4,
+          "total" : 16
         },
-        "P115A": {
-          "total": 16,
-          "perChannel": 4
+        "P115P + P8P" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "P215": {
-          "total": 8,
-          "perChannel": 2
+        "P12A" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "PC5": {
-          "total": 8,
-          "perChannel": 2
+        "P12P" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "PC8": {
-          "total": 8,
-          "perChannel": 2
+        "P15A" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "M10 Bi-Amped": {
-          "total": 8,
-          "perChannel": 4
+        "P15P" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "M15A": {
-          "total": 6,
-          "perChannel": 3
+        "P215" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "M15P": {
-          "total": 12,
-          "perChannel": 3
+        "P8P" : {
+          "perChannel" : 4,
+          "total" : 16
         },
-        "M12A": {
-          "total": 6,
-          "perChannel": 3
+        "PC10" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "M12P": {
-          "total": 12,
-          "perChannel": 3
+        "PC12" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "M215": {
-          "total": 4,
-          "perChannel": 2
+        "PC5" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "M212": {
-          "total": 4,
-          "perChannel": 2
+        "PC6" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "P12A": {
-          "total": 6,
-          "perChannel": 3
+        "PC8" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "P12P": {
-          "total": 12,
-          "perChannel": 3
+        "Point 12" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "P15A": {
-          "total": 6,
-          "perChannel": 3
+        "Point 15" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "P15P": {
-          "total": 12,
-          "perChannel": 3
+        "Point 8" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "PC6": {
-          "total": 12,
-          "perChannel": 3
+        "S10" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "PC10": {
-          "total": 8,
-          "perChannel": 2
+        "S10p" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "PC12": {
-          "total": 8,
-          "perChannel": 2
+        "S118" : {
+          "perChannel" : 4,
+          "total" : 16
         },
-        "A218": {
-          "total": 6,
-          "perChannel": 2
+        "S119" : {
+          "perChannel" : 2,
+          "total" : 2
         },
-        "E218": {
-          "total": 6,
-          "perChannel": 3
+        "S7" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "Y18": {
-          "total": 2,
-          "perChannel": 2
+        "S7p Bi-Amped" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "Y10": {
-          "total": 4,
-          "perChannel": 4
+        "S7p Passive" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "T21": {
-          "total": 2,
-          "perChannel": 1
+        "SPB" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "SX18A": {
-          "total": 4,
-          "perChannel": 4
+        "SPK" : {
+          "perChannel" : 4,
+          "total" : 4
         },
-        "SX18P": {
-          "total": 8,
-          "perChannel": 4
+        "SX18A" : {
+          "perChannel" : 4,
+          "total" : 4
         },
-        "MTX": {
-          "total": 16,
-          "perChannel": 8
+        "SX18P" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "MTB": {
-          "total": 8,
-          "perChannel": 2
+        "T21" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "SPK": {
-          "total": 4,
-          "perChannel": 4
+        "Y10" : {
+          "perChannel" : 4,
+          "total" : 4
         },
-        "SPB": {
-          "total": 8,
-          "perChannel": 2
+        "Y18" : {
+          "perChannel" : 2,
+          "total" : 2
         }
-      }
+      },
+      "name" : "PLM20000Q"
     },
     {
-      "name": "PLM10000Q",
-      "brand": "Adamson",
-      "loads": {
-        "S10": {
-          "total": 6,
-          "perChannel": 3
+      "brand" : "Adamson",
+      "loads" : {
+        "A218" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "S10n": {
-          "total": 6,
-          "perChannel": 3
+        "IS10" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "S119": {
-          "total": 4,
-          "perChannel": 1
+        "IS10n" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "S7": {
-          "total": 6,
-          "perChannel": 3
+        "IS10p" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "S118": {
-          "total": 12,
-          "perChannel": 3
+        "IS118" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "S10p": {
-          "total": 6,
-          "perChannel": 3
+        "IS119" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "S7p Bi-Amped": {
-          "total": 6,
-          "perChannel": 3
+        "IS213" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "S7p Passive": {
-          "total": 10,
-          "perChannel": 3
+        "IS219" : {
+          "perChannel" : 1,
+          "total" : 3
         },
-        "IS10": {
-          "total": 6,
-          "perChannel": 3
+        "IS5c" : {
+          "perChannel" : 8,
+          "total" : 32
         },
-        "IS10n": {
-          "total": 6,
-          "perChannel": 3
+        "IS7" : {
+          "perChannel" : 6,
+          "total" : 12
         },
-        "IS119": {
-          "total": 4,
-          "perChannel": 1
+        "IS7c" : {
+          "perChannel" : 5,
+          "total" : 18
         },
-        "IS7": {
-          "total": 12,
-          "perChannel": 6
+        "IS7p" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "IS118": {
-          "total": 12,
-          "perChannel": 3
+        "IS7px" : {
+          "perChannel" : 3,
+          "total" : 10
         },
-        "IS10p": {
-          "total": 6,
-          "perChannel": 3
+        "M10 Bi-Amped" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "IS7p": {
-          "total": 6,
-          "perChannel": 3
+        "M12A" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "IS7px": {
-          "total": 10,
-          "perChannel": 3
+        "M12P" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "IS7c": {
-          "total": 18,
-          "perChannel": 5
+        "M15A" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "IS5c": {
-          "total": 32,
-          "perChannel": 8
+        "M15P" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "IS213": {
-          "total": 4,
-          "perChannel": 1
+        "M212" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "IS219": {
-          "total": 3,
-          "perChannel": 1
+        "M215" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "Point 8": {
-          "total": 16,
-          "perChannel": 4
+        "MTB" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "Point 12": {
-          "total": 4,
-          "perChannel": 1
+        "MTX" : {
+          "perChannel" : 6,
+          "total" : 12
         },
-        "Point 15": {
-          "total": 4,
-          "perChannel": 1
+        "P115A" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "P8P": {
-          "total": 16,
-          "perChannel": 4
+        "P115P + P8P" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "P115P + P8P": {
-          "total": 4,
-          "perChannel": 1
+        "P12A" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "P115A": {
-          "total": 12,
-          "perChannel": 3
+        "P12P" : {
+          "perChannel" : 3,
+          "total" : 10
         },
-        "P215": {
-          "total": 4,
-          "perChannel": 1
+        "P15A" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "PC5": {
-          "total": 8,
-          "perChannel": 2
+        "P15P" : {
+          "perChannel" : 3,
+          "total" : 10
         },
-        "PC8": {
-          "total": 8,
-          "perChannel": 2
+        "P215" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "M10 Bi-Amped": {
-          "total": 6,
-          "perChannel": 3
+        "P8P" : {
+          "perChannel" : 4,
+          "total" : 16
         },
-        "M15A": {
-          "total": 4,
-          "perChannel": 2
+        "PC10" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "M15P": {
-          "total": 8,
-          "perChannel": 2
+        "PC12" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "M12A": {
-          "total": 4,
-          "perChannel": 2
+        "PC5" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "M12P": {
-          "total": 8,
-          "perChannel": 2
+        "PC6" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "M215": {
-          "total": 2,
-          "perChannel": 1
+        "PC8" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "M212": {
-          "total": 2,
-          "perChannel": 1
+        "Point 12" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "P12A": {
-          "total": 6,
-          "perChannel": 3
+        "Point 15" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "P12P": {
-          "total": 10,
-          "perChannel": 3
+        "Point 8" : {
+          "perChannel" : 4,
+          "total" : 16
         },
-        "P15A": {
-          "total": 6,
-          "perChannel": 3
+        "S10" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "P15P": {
-          "total": 10,
-          "perChannel": 3
+        "S10n" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "PC6": {
-          "total": 12,
-          "perChannel": 3
+        "S10p" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "PC10": {
-          "total": 8,
-          "perChannel": 2
+        "S118" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "PC12": {
-          "total": 8,
-          "perChannel": 2
+        "S119" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "A218": {
-          "total": 4,
-          "perChannel": 1
+        "S7" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "Y18": {
-          "total": 2,
-          "perChannel": 2
+        "S7p Bi-Amped" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "Y10": {
-          "total": 4,
-          "perChannel": 4
+        "S7p Passive" : {
+          "perChannel" : 3,
+          "total" : 10
         },
-        "SX18A": {
-          "total": 3,
-          "perChannel": 3
+        "SPB" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "SX18P": {
-          "total": 6,
-          "perChannel": 3
+        "SPK" : {
+          "perChannel" : 4,
+          "total" : 4
         },
-        "MTX": {
-          "total": 12,
-          "perChannel": 6
+        "SX18A" : {
+          "perChannel" : 3,
+          "total" : 3
         },
-        "MTB": {
-          "total": 4,
-          "perChannel": 1
+        "SX18P" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "SPK": {
-          "total": 4,
-          "perChannel": 4
+        "Y10" : {
+          "perChannel" : 4,
+          "total" : 4
         },
-        "SPB": {
-          "total": 4,
-          "perChannel": 1
+        "Y18" : {
+          "perChannel" : 2,
+          "total" : 2
         }
-      }
+      },
+      "name" : "PLM10000Q"
     },
     {
-      "name": "IPD2400",
-      "brand": "Adamson",
-      "loads": {
-        "S10": {
-          "total": 2,
-          "perChannel": 1
+      "brand" : "Adamson",
+      "loads" : {
+        "IS10" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "S10n": {
-          "total": 2,
-          "perChannel": 1
+        "IS10n" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "S119": {
-          "total": 2,
-          "perChannel": 1
+        "IS10p" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "S7": {
-          "total": 2,
-          "perChannel": 1
+        "IS118" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "S118": {
-          "total": 4,
-          "perChannel": 1
+        "IS119" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "S10p": {
-          "total": 2,
-          "perChannel": 1
+        "IS5c" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "S7p Bi-Amped": {
-          "total": 2,
-          "perChannel": 1
+        "IS7" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "S7p Passive": {
-          "total": 4,
-          "perChannel": 1
+        "IS7c" : {
+          "perChannel" : 2,
+          "total" : 6
         },
-        "IS10": {
-          "total": 2,
-          "perChannel": 1
+        "IS7p" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "IS10n": {
-          "total": 2,
-          "perChannel": 1
+        "IS7px" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "IS119": {
-          "total": 2,
-          "perChannel": 1
+        "M10 Bi-Amped" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "IS7": {
-          "total": 4,
-          "perChannel": 2
+        "M12A" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "IS118": {
-          "total": 4,
-          "perChannel": 1
+        "M12P" : {
+          "perChannel" : 1,
+          "total" : 3
         },
-        "IS10p": {
-          "total": 2,
-          "perChannel": 1
+        "M15A" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "IS7p": {
-          "total": 2,
-          "perChannel": 1
+        "M15P" : {
+          "perChannel" : 1,
+          "total" : 3
         },
-        "IS7px": {
-          "total": 4,
-          "perChannel": 1
+        "MTX" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "IS7c": {
-          "total": 6,
-          "perChannel": 2
+        "P115A" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "IS5c": {
-          "total": 6,
-          "perChannel": 3
+        "P115P + P8P" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "P8P": {
-          "total": 2,
-          "perChannel": 1
+        "P12A" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "P115P + P8P": {
-          "total": 2,
-          "perChannel": 1
+        "P12P" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "P115A": {
-          "total": 2,
-          "perChannel": 1
+        "P15A" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "PC5": {
-          "total": 2,
-          "perChannel": 1
+        "P15P" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "PC8": {
-          "total": 2,
-          "perChannel": 1
+        "P8P" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "M10 Bi-Amped": {
-          "total": 2,
-          "perChannel": 1
+        "PC10" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "M15A": {
-          "total": 2,
-          "perChannel": 1
+        "PC12" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "M15P": {
-          "total": 3,
-          "perChannel": 1
+        "PC5" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "M12A": {
-          "total": 2,
-          "perChannel": 1
+        "PC6" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "M12P": {
-          "total": 3,
-          "perChannel": 1
+        "PC8" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "P12A": {
-          "total": 2,
-          "perChannel": 1
+        "S10" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "P12P": {
-          "total": 2,
-          "perChannel": 1
+        "S10n" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "P15A": {
-          "total": 2,
-          "perChannel": 1
+        "S10p" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "P15P": {
-          "total": 2,
-          "perChannel": 1
+        "S118" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "PC6": {
-          "total": 4,
-          "perChannel": 2
+        "S119" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "PC10": {
-          "total": 2,
-          "perChannel": 1
+        "S7" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "PC12": {
-          "total": 2,
-          "perChannel": 1
+        "S7p Bi-Amped" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "SX18A": {
-          "total": 1,
-          "perChannel": 1
+        "S7p Passive" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "SX18P": {
-          "total": 2,
-          "perChannel": 1
+        "SPK" : {
+          "perChannel" : 2,
+          "total" : 2
         },
-        "MTX": {
-          "total": 6,
-          "perChannel": 3
+        "SX18A" : {
+          "perChannel" : 1,
+          "total" : 1
         },
-        "SPK": {
-          "total": 2,
-          "perChannel": 2
+        "SX18P" : {
+          "perChannel" : 1,
+          "total" : 2
         }
-      }
+      },
+      "name" : "IPD2400"
     },
     {
-      "name": "IPX2400",
-      "brand": "Adamson",
-      "loads": {
-        "S10": {
-          "total": 2,
-          "perChannel": 1
+      "brand" : "Adamson",
+      "loads" : {
+        "IS10" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "S10n": {
-          "total": 2,
-          "perChannel": 1
+        "IS10n" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "S119": {
-          "total": 2,
-          "perChannel": 1
+        "IS10p" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "S7": {
-          "total": 2,
-          "perChannel": 1
+        "IS118" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "S118": {
-          "total": 4,
-          "perChannel": 1
+        "IS119" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "S10p": {
-          "total": 2,
-          "perChannel": 1
+        "IS5c" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "S7p Bi-Amped": {
-          "total": 2,
-          "perChannel": 1
+        "IS7" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "S7p Passive": {
-          "total": 4,
-          "perChannel": 1
+        "IS7c" : {
+          "perChannel" : 2,
+          "total" : 6
         },
-        "IS10": {
-          "total": 2,
-          "perChannel": 1
+        "IS7p" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "IS10n": {
-          "total": 2,
-          "perChannel": 1
+        "IS7px" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "IS119": {
-          "total": 2,
-          "perChannel": 1
+        "M10 Bi-Amped" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "IS7": {
-          "total": 4,
-          "perChannel": 2
+        "M12A" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "IS118": {
-          "total": 4,
-          "perChannel": 1
+        "M12P" : {
+          "perChannel" : 1,
+          "total" : 3
         },
-        "IS10p": {
-          "total": 2,
-          "perChannel": 1
+        "M15A" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "IS7p": {
-          "total": 2,
-          "perChannel": 1
+        "M15P" : {
+          "perChannel" : 1,
+          "total" : 3
         },
-        "IS7px": {
-          "total": 4,
-          "perChannel": 1
+        "MTX" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "IS7c": {
-          "total": 6,
-          "perChannel": 2
+        "P115A" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "IS5c": {
-          "total": 6,
-          "perChannel": 3
+        "P115P + P8P" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "P8P": {
-          "total": 2,
-          "perChannel": 1
+        "P12A" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "P115P + P8P": {
-          "total": 2,
-          "perChannel": 1
+        "P12P" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "P115A": {
-          "total": 2,
-          "perChannel": 1
+        "P15A" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "PC5": {
-          "total": 2,
-          "perChannel": 1
+        "P15P" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "PC8": {
-          "total": 2,
-          "perChannel": 1
+        "P8P" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "M10 Bi-Amped": {
-          "total": 2,
-          "perChannel": 1
+        "PC10" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "M15A": {
-          "total": 2,
-          "perChannel": 1
+        "PC12" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "M15P": {
-          "total": 3,
-          "perChannel": 1
+        "PC5" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "M12A": {
-          "total": 2,
-          "perChannel": 1
+        "PC6" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "M12P": {
-          "total": 3,
-          "perChannel": 1
+        "PC8" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "P12A": {
-          "total": 2,
-          "perChannel": 1
+        "S10" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "P12P": {
-          "total": 2,
-          "perChannel": 1
+        "S10n" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "P15A": {
-          "total": 2,
-          "perChannel": 1
+        "S10p" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "P15P": {
-          "total": 2,
-          "perChannel": 1
+        "S118" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "PC6": {
-          "total": 4,
-          "perChannel": 2
+        "S119" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "PC10": {
-          "total": 2,
-          "perChannel": 1
+        "S7" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "PC12": {
-          "total": 2,
-          "perChannel": 1
+        "S7p Bi-Amped" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "SX18A": {
-          "total": 1,
-          "perChannel": 1
+        "S7p Passive" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "SX18P": {
-          "total": 2,
-          "perChannel": 1
+        "SPK" : {
+          "perChannel" : 2,
+          "total" : 2
         },
-        "MTX": {
-          "total": 6,
-          "perChannel": 3
+        "SX18A" : {
+          "perChannel" : 1,
+          "total" : 1
         },
-        "SPK": {
-          "total": 2,
-          "perChannel": 2
+        "SX18P" : {
+          "perChannel" : 1,
+          "total" : 2
         }
-      }
+      },
+      "name" : "IPX2400"
     },
     {
-      "name": "D40",
-      "brand": "d&b audiotechnik",
-      "loads": {
-        "Y7P": {
-          "total": 4,
-          "perChannel": 1
+      "brand" : "d&b audiotechnik",
+      "loads" : {
+        "B6-SUB" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "Y10P": {
-          "total": 4,
-          "perChannel": 1
+        "C6" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "Y8": {
-          "total": 8,
-          "perChannel": 2
+        "E6" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "V8": {
-          "total": 4,
-          "perChannel": 1
+        "KSL12" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "KSL8": {
-          "total": 4,
-          "perChannel": 1
+        "KSL8" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "KSL12": {
-          "total": 4,
-          "perChannel": 1
+        "M4" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "XSL8": {
-          "total": 4,
-          "perChannel": 1
+        "T10" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "XSL12": {
-          "total": 4,
-          "perChannel": 1
+        "V8" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "T10": {
-          "total": 4,
-          "perChannel": 1
+        "XSL12" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "E6": {
-          "total": 4,
-          "perChannel": 1
+        "XSL8" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "M4": {
-          "total": 4,
-          "perChannel": 1
+        "Y10P" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "B6-SUB": {
-          "total": 4,
-          "perChannel": 1
+        "Y7P" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "C6": {
-          "total": 4,
-          "perChannel": 1
+        "Y8" : {
+          "perChannel" : 2,
+          "total" : 8
         }
-      }
+      },
+      "name" : "D40"
     },
     {
-      "name": "D80",
-      "brand": "d&b audiotechnik",
-      "loads": {
-        "Y7P": {
-          "total": 8,
-          "perChannel": 2
+      "brand" : "d&b audiotechnik",
+      "loads" : {
+        "B22-SUB" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "Y10P": {
-          "total": 8,
-          "perChannel": 2
+        "C6" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "V8": {
-          "total": 4,
-          "perChannel": 1
+        "GSL12" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "J8": {
-          "total": 4,
-          "perChannel": 1
+        "GSL8" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "GSL8": {
-          "total": 4,
-          "perChannel": 1
+        "J-SUB" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "GSL12": {
-          "total": 4,
-          "perChannel": 1
+        "J8" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "KSL8": {
-          "total": 4,
-          "perChannel": 1
+        "KSL12" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "KSL12": {
-          "total": 4,
-          "perChannel": 1
+        "KSL8" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "XSL8": {
-          "total": 4,
-          "perChannel": 1
+        "V8" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "XSL12": {
-          "total": 4,
-          "perChannel": 1
+        "XSL12" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "J-SUB": {
-          "total": 2,
-          "perChannel": 1
+        "XSL8" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "B22-SUB": {
-          "total": 2,
-          "perChannel": 1
+        "Y10P" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "C6": {
-          "total": 4,
-          "perChannel": 1
+        "Y7P" : {
+          "perChannel" : 2,
+          "total" : 8
         }
-      }
+      },
+      "name" : "D80"
     },
     {
-      "name": "iK42",
-      "brand": "Martin Audio",
-      "loads": {
-        "WPL": {
-          "total": 4,
-          "perChannel": 1
+      "brand" : "Martin Audio",
+      "loads" : {
+        "ADORN" : {
+          "perChannel" : 4,
+          "total" : 16
         },
-        "WPC": {
-          "total": 4,
-          "perChannel": 1
+        "CDD10" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "WPS": {
-          "total": 4,
-          "perChannel": 1
+        "CDD12" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "WPM": {
-          "total": 4,
-          "perChannel": 1
+        "CDD15" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "W8LM": {
-          "total": 4,
-          "perChannel": 1
+        "CDD6" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "W8LC": {
-          "total": 4,
-          "perChannel": 1
+        "CDD8" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "W8L": {
-          "total": 4,
-          "perChannel": 1
+        "LE1200" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "TORUS T1230": {
-          "total": 4,
-          "perChannel": 1
+        "LE1500" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "TORUS T1215": {
-          "total": 4,
-          "perChannel": 1
+        "LE2100" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "ADORN": {
-          "total": 16,
-          "perChannel": 4
+        "SX110" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "CDD6": {
-          "total": 12,
-          "perChannel": 3
+        "SX210" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "CDD8": {
-          "total": 12,
-          "perChannel": 3
+        "SXC115" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "CDD10": {
-          "total": 8,
-          "perChannel": 2
+        "SXC118" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "CDD12": {
-          "total": 4,
-          "perChannel": 1
+        "SXH218" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "CDD15": {
-          "total": 4,
-          "perChannel": 1
+        "TORUS T1215" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "XE500": {
-          "total": 4,
-          "perChannel": 1
+        "TORUS T1230" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "XE300": {
-          "total": 6,
-          "perChannel": 2
+        "W8L" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "LE1200": {
-          "total": 4,
-          "perChannel": 1
+        "W8LC" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "LE1500": {
-          "total": 2,
-          "perChannel": 1
+        "W8LM" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "LE2100": {
-          "total": 2,
-          "perChannel": 1
+        "WPC" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "SX110": {
-          "total": 8,
-          "perChannel": 2
+        "WPL" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "SX210": {
-          "total": 4,
-          "perChannel": 1
+        "WPM" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "SXC118": {
-          "total": 4,
-          "perChannel": 1
+        "WPS" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "SXC115": {
-          "total": 4,
-          "perChannel": 1
+        "XE300" : {
+          "perChannel" : 2,
+          "total" : 6
         },
-        "SXH218": {
-          "total": 2,
-          "perChannel": 1
+        "XE500" : {
+          "perChannel" : 1,
+          "total" : 4
         }
-      }
+      },
+      "name" : "iK42"
     },
     {
-      "name": "iK81",
-      "brand": "Martin Audio",
-      "loads": {
-        "WPL": {
-          "total": 4,
-          "perChannel": 1
+      "brand" : "Martin Audio",
+      "loads" : {
+        "ADORN" : {
+          "perChannel" : 4,
+          "total" : 16
         },
-        "WPC": {
-          "total": 4,
-          "perChannel": 1
+        "CDD10" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "WPS": {
-          "total": 4,
-          "perChannel": 1
+        "CDD12" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "WPM": {
-          "total": 4,
-          "perChannel": 1
+        "CDD15" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "W8LM": {
-          "total": 4,
-          "perChannel": 1
+        "CDD6" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "W8LC": {
-          "total": 4,
-          "perChannel": 1
+        "CDD8" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "W8L": {
-          "total": 4,
-          "perChannel": 1
+        "LE1200" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "TORUS T1230": {
-          "total": 4,
-          "perChannel": 1
+        "LE1500" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "TORUS T1215": {
-          "total": 4,
-          "perChannel": 1
+        "LE2100" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "ADORN": {
-          "total": 16,
-          "perChannel": 4
+        "SX110" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "CDD6": {
-          "total": 12,
-          "perChannel": 3
+        "SX210" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "CDD8": {
-          "total": 12,
-          "perChannel": 3
+        "SXC115" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "CDD10": {
-          "total": 8,
-          "perChannel": 2
+        "SXC118" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "CDD12": {
-          "total": 4,
-          "perChannel": 1
+        "SXH218" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "CDD15": {
-          "total": 4,
-          "perChannel": 1
+        "TORUS T1215" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "XE500": {
-          "total": 4,
-          "perChannel": 1
+        "TORUS T1230" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "XE300": {
-          "total": 6,
-          "perChannel": 2
+        "W8L" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "LE1200": {
-          "total": 4,
-          "perChannel": 1
+        "W8LC" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "LE1500": {
-          "total": 2,
-          "perChannel": 1
+        "W8LM" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "LE2100": {
-          "total": 2,
-          "perChannel": 1
+        "WPC" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "SX110": {
-          "total": 8,
-          "perChannel": 2
+        "WPL" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "SX210": {
-          "total": 4,
-          "perChannel": 1
+        "WPM" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "SXC118": {
-          "total": 4,
-          "perChannel": 1
+        "WPS" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "SXC115": {
-          "total": 4,
-          "perChannel": 1
+        "XE300" : {
+          "perChannel" : 2,
+          "total" : 6
         },
-        "SXH218": {
-          "total": 2,
-          "perChannel": 1
+        "XE500" : {
+          "perChannel" : 1,
+          "total" : 4
         }
-      }
+      },
+      "name" : "iK81"
     },
     {
-      "name": "VIA2004",
-      "brand": "Martin Audio",
-      "loads": {
-        "ADORN": {
-          "total": 16,
-          "perChannel": 4
+      "brand" : "Martin Audio",
+      "loads" : {
+        "ADORN" : {
+          "perChannel" : 4,
+          "total" : 16
         },
-        "CDD6": {
-          "total": 12,
-          "perChannel": 3
+        "CDD10" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "CDD8": {
-          "total": 12,
-          "perChannel": 3
+        "CDD12" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "CDD10": {
-          "total": 8,
-          "perChannel": 2
+        "CDD15" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "CDD12": {
-          "total": 4,
-          "perChannel": 1
+        "CDD6" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "CDD15": {
-          "total": 4,
-          "perChannel": 1
+        "CDD8" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "SX110": {
-          "total": 8,
-          "perChannel": 2
+        "SX110" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "SX210": {
-          "total": 4,
-          "perChannel": 1
+        "SX210" : {
+          "perChannel" : 1,
+          "total" : 4
         }
-      }
+      },
+      "name" : "VIA2004"
     },
     {
-      "name": "LINUS14D",
-      "brand": "CODA Audio",
-      "loads": {
-        "AiRAY": {
-          "total": 8,
-          "perChannel": 2
+      "brand" : "CODA Audio",
+      "loads" : {
+        "APS" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "SC2-F": {
-          "total": 4,
-          "perChannel": 1
+        "APS-SUB" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "ViRAY": {
-          "total": 12,
-          "perChannel": 3
+        "AiRAY" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "ViRAY SUB": {
-          "total": 8,
-          "perChannel": 2
+        "CUE FOUR" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "N-RAY": {
-          "total": 16,
-          "perChannel": 4
+        "CUE TWO" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "SCN-F": {
-          "total": 8,
-          "perChannel": 2
+        "CoRAY4" : {
+          "perChannel" : 4,
+          "total" : 16
         },
-        "APS": {
-          "total": 12,
-          "perChannel": 3
+        "CoRAY4L" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "APS-SUB": {
-          "total": 4,
-          "perChannel": 1
+        "G715" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "CoRAY4": {
-          "total": 16,
-          "perChannel": 4
+        "G718" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "CoRAY4L": {
-          "total": 12,
-          "perChannel": 3
+        "HOPS12i" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "HOPS12i": {
-          "total": 8,
-          "perChannel": 2
+        "HOPS5" : {
+          "perChannel" : 6,
+          "total" : 24
         },
-        "HOPS8": {
-          "total": 12,
-          "perChannel": 3
+        "HOPS8" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "HOPS5": {
-          "total": 24,
-          "perChannel": 6
+        "N-RAY" : {
+          "perChannel" : 4,
+          "total" : 16
         },
-        "CUE FOUR": {
-          "total": 8,
-          "perChannel": 2
+        "SC2-F" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "CUE TWO": {
-          "total": 8,
-          "perChannel": 2
+        "SCN-F" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "G715": {
-          "total": 8,
-          "perChannel": 2
+        "SCP-F" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "G718": {
-          "total": 4,
-          "perChannel": 1
+        "SCV-F" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "SCP-F": {
-          "total": 2,
-          "perChannel": 1
+        "ViRAY" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "SCV-F": {
-          "total": 2,
-          "perChannel": 1
+        "ViRAY SUB" : {
+          "perChannel" : 2,
+          "total" : 8
         }
-      }
+      },
+      "name" : "LINUS14D"
     },
     {
-      "name": "LINUS12C",
-      "brand": "CODA Audio",
-      "loads": {
-        "AiRAY": {
-          "total": 6,
-          "perChannel": 2
+      "brand" : "CODA Audio",
+      "loads" : {
+        "APS" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "SC2-F": {
-          "total": 4,
-          "perChannel": 1
+        "APS-SUB" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "ViRAY": {
-          "total": 8,
-          "perChannel": 2
+        "AiRAY" : {
+          "perChannel" : 2,
+          "total" : 6
         },
-        "ViRAY SUB": {
-          "total": 6,
-          "perChannel": 2
+        "CUE FOUR" : {
+          "perChannel" : 2,
+          "total" : 6
         },
-        "N-RAY": {
-          "total": 12,
-          "perChannel": 3
+        "CUE TWO" : {
+          "perChannel" : 2,
+          "total" : 6
         },
-        "SCN-F": {
-          "total": 6,
-          "perChannel": 2
+        "CoRAY4" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "APS": {
-          "total": 12,
-          "perChannel": 3
+        "CoRAY4L" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "APS-SUB": {
-          "total": 4,
-          "perChannel": 1
+        "G715" : {
+          "perChannel" : 2,
+          "total" : 6
         },
-        "CoRAY4": {
-          "total": 12,
-          "perChannel": 3
+        "G718" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "CoRAY4L": {
-          "total": 8,
-          "perChannel": 2
+        "HOPS12i" : {
+          "perChannel" : 2,
+          "total" : 6
         },
-        "HOPS12i": {
-          "total": 6,
-          "perChannel": 2
+        "HOPS5" : {
+          "perChannel" : 5,
+          "total" : 20
         },
-        "HOPS8": {
-          "total": 12,
-          "perChannel": 3
+        "HOPS8" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "HOPS5": {
-          "total": 20,
-          "perChannel": 5
+        "N-RAY" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "CUE FOUR": {
-          "total": 6,
-          "perChannel": 2
+        "SC2-F" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "CUE TWO": {
-          "total": 6,
-          "perChannel": 2
+        "SCN-F" : {
+          "perChannel" : 2,
+          "total" : 6
         },
-        "G715": {
-          "total": 6,
-          "perChannel": 2
+        "SCP-F" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "G718": {
-          "total": 4,
-          "perChannel": 1
+        "SCV-F" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "SCP-F": {
-          "total": 2,
-          "perChannel": 1
+        "ViRAY" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "SCV-F": {
-          "total": 2,
-          "perChannel": 1
+        "ViRAY SUB" : {
+          "perChannel" : 2,
+          "total" : 6
         }
-      }
+      },
+      "name" : "LINUS12C"
     },
     {
-      "name": "LINUS10C",
-      "brand": "CODA Audio",
-      "loads": {
-        "ViRAY": {
-          "total": 8,
-          "perChannel": 2
+      "brand" : "CODA Audio",
+      "loads" : {
+        "APS" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "ViRAY SUB": {
-          "total": 4,
-          "perChannel": 1
+        "APS-SUB" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "N-RAY": {
-          "total": 8,
-          "perChannel": 2
+        "CUE FOUR" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "SCN-F": {
-          "total": 4,
-          "perChannel": 1
+        "CUE TWO" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "APS": {
-          "total": 8,
-          "perChannel": 2
+        "CoRAY4" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "APS-SUB": {
-          "total": 4,
-          "perChannel": 1
+        "CoRAY4L" : {
+          "perChannel" : 2,
+          "total" : 6
         },
-        "CoRAY4": {
-          "total": 8,
-          "perChannel": 2
+        "G715" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "CoRAY4L": {
-          "total": 6,
-          "perChannel": 2
+        "G718" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "HOPS12i": {
-          "total": 4,
-          "perChannel": 1
+        "HOPS12i" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "HOPS8": {
-          "total": 8,
-          "perChannel": 2
+        "HOPS5" : {
+          "perChannel" : 4,
+          "total" : 16
         },
-        "HOPS5": {
-          "total": 16,
-          "perChannel": 4
+        "HOPS8" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "CUE FOUR": {
-          "total": 4,
-          "perChannel": 1
+        "N-RAY" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "CUE TWO": {
-          "total": 4,
-          "perChannel": 1
+        "SCN-F" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "G715": {
-          "total": 4,
-          "perChannel": 1
+        "SCP-F" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "G718": {
-          "total": 4,
-          "perChannel": 1
+        "SCV-F" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "SCP-F": {
-          "total": 2,
-          "perChannel": 1
+        "ViRAY" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "SCV-F": {
-          "total": 2,
-          "perChannel": 1
+        "ViRAY SUB" : {
+          "perChannel" : 1,
+          "total" : 4
         }
-      }
+      },
+      "name" : "LINUS10C"
     },
     {
-      "name": "LINUS5C",
-      "brand": "CODA Audio",
-      "loads": {
-        "APS": {
-          "total": 6,
-          "perChannel": 3
+      "brand" : "CODA Audio",
+      "loads" : {
+        "APS" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "CoRAY4": {
-          "total": 6,
-          "perChannel": 3
+        "CUE FOUR" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "CoRAY4L": {
-          "total": 4,
-          "perChannel": 2
+        "CUE TWO" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "HOPS8": {
-          "total": 6,
-          "perChannel": 3
+        "CoRAY4" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "HOPS5": {
-          "total": 12,
-          "perChannel": 6
+        "CoRAY4L" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "G715": {
-          "total": 4,
-          "perChannel": 2
+        "CoRAY4Li" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "G18-SUB": {
-          "total": 2,
-          "perChannel": 1
+        "CoRAY4i" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "CUE FOUR": {
-          "total": 4,
-          "perChannel": 2
+        "G18-SUB" : {
+          "perChannel" : 1,
+          "total" : 2
         },
-        "CUE TWO": {
-          "total": 4,
-          "perChannel": 2
+        "G715" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "CoRAY4i": {
-          "total": 6,
-          "perChannel": 3
+        "HOPS5" : {
+          "perChannel" : 6,
+          "total" : 12
         },
-        "CoRAY4Li": {
-          "total": 4,
-          "perChannel": 2
+        "HOPS8" : {
+          "perChannel" : 3,
+          "total" : 6
         }
-      }
+      },
+      "name" : "LINUS5C"
     },
     {
-      "name": "NXAMP4x1 MK2",
-      "brand": "NEXO",
-      "loads": {
-        "GEO M6": {
-          "total": 24,
-          "perChannel": 6
+      "brand" : "NEXO",
+      "loads" : {
+        "45N12" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "GEO M10": {
-          "total": 4,
-          "perChannel": 2
+        "GEO M10" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "P12": {
-          "total": 8,
-          "perChannel": 2
+        "GEO M6" : {
+          "perChannel" : 6,
+          "total" : 24
         },
-        "45N12": {
-          "total": 8,
-          "perChannel": 2
+        "P12" : {
+          "perChannel" : 2,
+          "total" : 8
         }
-      }
+      },
+      "name" : "NXAMP4x1 MK2"
     },
     {
-      "name": "NXAMP4x2 MK2",
-      "brand": "NEXO",
-      "loads": {
-        "GEO M12": {
-          "total": 6,
-          "perChannel": 3
+      "brand" : "NEXO",
+      "loads" : {
+        "GEO M10" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "GEO M10": {
-          "total": 8,
-          "perChannel": 4
+        "GEO M12" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "PS15-R2": {
-          "total": 8,
-          "perChannel": 2
+        "MSUB18" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "MSUB18": {
-          "total": 8,
-          "perChannel": 2
+        "PS15-R2" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "RS18": {
-          "total": 4,
-          "perChannel": 2
+        "RS18" : {
+          "perChannel" : 2,
+          "total" : 4
         }
-      }
+      },
+      "name" : "NXAMP4x2 MK2"
     },
     {
-      "name": "NXAMP4x4 MK2",
-      "brand": "NEXO",
-      "loads": {
-        "GEO M12": {
-          "total": 8,
-          "perChannel": 4
+      "brand" : "NEXO",
+      "loads" : {
+        "GEO M12" : {
+          "perChannel" : 4,
+          "total" : 8
         },
-        "STM M28": {
-          "total": 8,
-          "perChannel": 4
+        "MSUB18" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "MSUB18": {
-          "total": 8,
-          "perChannel": 2
+        "RS18" : {
+          "perChannel" : 4,
+          "total" : 6
         },
-        "RS18": {
-          "total": 6,
-          "perChannel": 4
+        "STM M28" : {
+          "perChannel" : 4,
+          "total" : 8
         }
-      }
+      },
+      "name" : "NXAMP4x4 MK2"
     },
     {
-      "name": "DTDAMP4x1.3",
-      "brand": "NEXO",
-      "loads": {
-        "GEO M6": {
-          "total": 16,
-          "perChannel": 4
+      "brand" : "NEXO",
+      "loads" : {
+        "45N12" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "P12": {
-          "total": 4,
-          "perChannel": 1
+        "GEO M6" : {
+          "perChannel" : 4,
+          "total" : 16
         },
-        "45N12": {
-          "total": 8,
-          "perChannel": 2
+        "P12" : {
+          "perChannel" : 1,
+          "total" : 4
         },
-        "P15": {
-          "total": 8,
-          "perChannel": 2
+        "P15" : {
+          "perChannel" : 2,
+          "total" : 8
         }
-      }
+      },
+      "name" : "DTDAMP4x1.3"
     },
     {
-      "name": "TGX20",
-      "brand": "Electro-Voice",
-      "loads": {
-        "X2-212/120": {
-          "total": 12,
-          "perChannel": 3
+      "brand" : "Electro-Voice",
+      "loads" : {
+        "X12-125F" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "X2-212/90": {
-          "total": 12,
-          "perChannel": 3
+        "X12-128" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "X12-128": {
-          "total": 6,
-          "perChannel": 3
+        "X2-212\/120" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "X12-125F": {
-          "total": 4,
-          "perChannel": 2
+        "X2-212\/90" : {
+          "perChannel" : 3,
+          "total" : 12
         }
-      }
+      },
+      "name" : "TGX20"
     },
     {
-      "name": "TGX10",
-      "brand": "Electro-Voice",
-      "loads": {
-        "X1-212/90": {
-          "total": 12,
-          "perChannel": 3
+      "brand" : "Electro-Voice",
+      "loads" : {
+        "MFX-12MC" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "X1-212/120": {
-          "total": 12,
-          "perChannel": 3
+        "X1-212\/120" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "MFX-12MC": {
-          "total": 8,
-          "perChannel": 2
+        "X1-212\/90" : {
+          "perChannel" : 3,
+          "total" : 12
         }
-      }
+      },
+      "name" : "TGX10"
     },
     {
-      "name": "IPX10:4",
-      "brand": "Electro-Voice",
-      "loads": {
-        "X1-212/90": {
-          "total": 8,
-          "perChannel": 2
+      "brand" : "Electro-Voice",
+      "loads" : {
+        "MFX-12MC" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "X1-212/120": {
-          "total": 8,
-          "perChannel": 2
+        "X1-212\/120" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "MFX-12MC": {
-          "total": 8,
-          "perChannel": 2
+        "X1-212\/90" : {
+          "perChannel" : 2,
+          "total" : 8
         }
-      }
+      },
+      "name" : "IPX10:4"
     },
     {
-      "name": "Crown I-Tech 4x3500HD",
-      "brand": "JBL Professional",
-      "loads": {
-        "VTX A12": {
-          "total": 3,
-          "perChannel": 2
+      "brand" : "JBL Professional",
+      "loads" : {
+        "VRX932LA-1" : {
+          "perChannel" : 3,
+          "total" : 12
         },
-        "VTX A8": {
-          "total": 6,
-          "perChannel": 3
+        "VTX A12" : {
+          "perChannel" : 2,
+          "total" : 3
         },
-        "VTX B28": {
-          "total": 2,
-          "perChannel": 1
+        "VTX A8" : {
+          "perChannel" : 3,
+          "total" : 6
         },
-        "VRX932LA-1": {
-          "total": 12,
-          "perChannel": 3
+        "VTX B28" : {
+          "perChannel" : 1,
+          "total" : 2
         }
-      }
+      },
+      "name" : "Crown I-Tech 4x3500HD"
     },
     {
-      "name": "Crown I-Tech 12000HD",
-      "brand": "JBL Professional",
-      "loads": {
-        "VTX B28": {
-          "total": 2,
-          "perChannel": 1
+      "brand" : "JBL Professional",
+      "loads" : {
+        "SRX815" : {
+          "perChannel" : 2,
+          "total" : 8
         },
-        "SRX828S": {
-          "total": 4,
-          "perChannel": 2
+        "SRX828S" : {
+          "perChannel" : 2,
+          "total" : 4
         },
-        "SRX815": {
-          "total": 8,
-          "perChannel": 2
+        "VTX B28" : {
+          "perChannel" : 1,
+          "total" : 2
         }
-      }
+      },
+      "name" : "Crown I-Tech 12000HD"
     },
     {
-      "name": "Crown VRack 4x3500HD",
-      "brand": "JBL Professional",
-      "loads": {
-        "VTX A12": {
-          "total": 9,
-          "perChannel": 2
+      "brand" : "JBL Professional",
+      "loads" : {
+        "VTX A12" : {
+          "perChannel" : 2,
+          "total" : 9
         },
-        "VTX A8": {
-          "total": 18,
-          "perChannel": 3
+        "VTX A8" : {
+          "perChannel" : 3,
+          "total" : 18
         },
-        "VTX B28": {
-          "total": 6,
-          "perChannel": 1
+        "VTX B28" : {
+          "perChannel" : 1,
+          "total" : 6
         }
-      }
+      },
+      "name" : "Crown VRack 4x3500HD"
+    },
+    {
+      "brand" : "Test manual BRAND Amplifier Add from Updater",
+      "loads" : {
+        "Test manual MODEL SPEAKER Add from Updater" : {
+          "perChannel" : 2,
+          "total" : 2
+        }
+      },
+      "name" : "Test manual NAME Amplifier Add from Updater"
     }
   ],
-  "speakers": [
-    {
-      "name": "112XT",
-      "brand": "L-Acoustics",
-      "category": "LEGACY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA4X": 2,
-        "LA12X": 3,
-        "LA4": 2,
-        "LA8": 3
-      }
-    },
-    {
-      "name": "115XT",
-      "brand": "L-Acoustics",
-      "category": "LEGACY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA4X": 1,
-        "LA12X": 3,
-        "LA4": 1,
-        "LA8": 3
-      }
-    },
-    {
-      "name": "115XT HiQ",
-      "brand": "L-Acoustics",
-      "category": "LEGACY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA4X": 1,
-        "LA12X": 3,
-        "LA4": 1,
-        "LA8": 2
-      }
-    },
-    {
-      "name": "5XT",
-      "brand": "L-Acoustics",
-      "category": "X",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA1.16i_SE": 3,
-        "LA1.16i_BTL": 2,
-        "LA2Xi_SE": 4,
-        "LA4X": 4,
-        "LA7.16i": 3,
-        "LA7.16": 3,
-        "LA12X": 6,
-        "LA4": 3,
-        "LA8": 6
-      }
-    },
-    {
-      "name": "8XT",
-      "brand": "L-Acoustics",
-      "category": "LEGACY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA4X": 2,
-        "LA12X": 3,
-        "LA4": 2,
-        "LA8": 3
-      }
-    },
-    {
-      "name": "A10 Wide/Focus",
-      "brand": "L-Acoustics",
-      "category": "A",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA1.16i_BTL": 1,
-        "LA2Xi_SE": 2,
-        "LA2Xi_BTL": 1,
-        "LA4X": 2,
-        "LA7.16i": 1,
-        "LA7.16": 1,
-        "LA12X": 3,
-        "LA8": 2
-      }
-    },
-    {
-      "name": "A15 Wide/Focus",
-      "brand": "L-Acoustics",
-      "category": "A",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA2Xi_SE": 1,
-        "LA2Xi_BTL": 1,
-        "LA4X": 1,
-        "LA7.16i": 1,
-        "LA7.16": 1,
-        "LA12X": 3,
-        "LA8": 2
-      }
-    },
-    {
-      "name": "ARCS",
-      "brand": "L-Acoustics",
-      "category": "LEGACY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA4X": 1,
-        "LA12X": 3,
-        "LA4": 1,
-        "LA8": 3
-      }
-    },
-    {
-      "name": "ARCS II",
-      "brand": "L-Acoustics",
-      "category": "LEGACY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA4X": 1,
-        "LA12X": 3,
-        "LA8": 2
-      }
-    },
-    {
-      "name": "ARCS Wide/Focus",
-      "brand": "L-Acoustics",
-      "category": "LEGACY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA2Xi_SE": 1,
-        "LA2Xi_BTL": 1,
-        "LA4X": 1,
-        "LA12X": 3,
-        "LA4": 1,
-        "LA8": 2
-      }
-    },
-    {
-      "name": "Active 12XT",
-      "brand": "L-Acoustics",
-      "category": "LEGACY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA4X": 2,
-        "LA12X": 3,
-        "LA4": 2,
-        "LA8": 3
-      }
-    },
-    {
-      "name": "Active MTD115b",
-      "brand": "L-Acoustics",
-      "category": "LEGACY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA4X": 1,
-        "LA12X": 2,
-        "LA4": 1,
-        "LA8": 2
-      }
-    },
-    {
-      "name": "K1",
-      "brand": "L-Acoustics",
-      "category": "K",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA12X": 2,
-        "LA8": 2
-      }
-    },
-    {
-      "name": "K1-SB",
-      "brand": "L-Acoustics",
-      "category": "SUB",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA12X": 1,
-        "LA8": 1
-      }
-    },
-    {
-      "name": "K2",
-      "brand": "L-Acoustics",
-      "category": "K",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA4X": 1,
-        "LA7.16i": 1,
-        "LA7.16": 1,
-        "LA12X": 3,
-        "LA8": 3
-      }
-    },
-    {
-      "name": "K3",
-      "brand": "L-Acoustics",
-      "category": "K",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA4X": 1,
-        "LA7.16i": 1,
-        "LA7.16": 1,
-        "LA12X": 3,
-        "LA8": 2
-      }
-    },
-    {
-      "name": "Kiva II",
-      "brand": "L-Acoustics",
-      "category": "K",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA1.16i_BTL": 2,
-        "LA2Xi_SE": 2,
-        "LA2Xi_BTL": 2,
-        "LA4X": 2,
-        "LA7.16i": 2,
-        "LA7.16": 2,
-        "LA12X": 6
-      }
-    },
-    {
-      "name": "KS21",
-      "brand": "L-Acoustics",
-      "category": "SUB",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA2Xi_SE": 1,
-        "LA2Xi_BTL": 1,
-        "LA4X": 1,
-        "LA7.16i": 1,
-        "LA7.16": 1,
-        "LA12X": 2
-      }
-    },
-    {
-      "name": "KS28",
-      "brand": "L-Acoustics",
-      "category": "SUB",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA12X": 1
-      }
-    },
-    {
-      "name": "Kara",
-      "brand": "L-Acoustics",
-      "category": "K",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA2Xi_SE": 2,
-        "LA4X": 2,
-        "LA12X": 3,
-        "LA8": 3
-      }
-    },
-    {
-      "name": "Kara II",
-      "brand": "L-Acoustics",
-      "category": "K",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA2Xi_SE": 2,
-        "LA4X": 2,
-        "LA7.16i": 1,
-        "LA7.16": 1,
-        "LA12X": 3,
-        "LA8": 3
-      }
-    },
-    {
-      "name": "Kiva / Kilo",
-      "brand": "L-Acoustics",
-      "category": "LEGACY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA4X": 2,
-        "LA12X": 3
-      }
-    },
-    {
-      "name": "Kudo",
-      "brand": "L-Acoustics",
-      "category": "LEGACY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA4X": 1,
-        "LA12X": 3
-      }
-    },
-    {
-      "name": "L2",
-      "brand": "L-Acoustics",
-      "category": "L",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA7.16i": 1,
-        "LA7.16": 1
-      }
-    },
-    {
-      "name": "L2D",
-      "brand": "L-Acoustics",
-      "category": "L",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA7.16i": 1,
-        "LA7.16": 1
-      }
-    },
-    {
-      "name": "MTD108a",
-      "brand": "L-Acoustics",
-      "category": "LEGACY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA4X": 2,
-        "LA12X": 3,
-        "LA4": 2,
-        "LA8": 3
-      }
-    },
-    {
-      "name": "MTD112b",
-      "brand": "L-Acoustics",
-      "category": "LEGACY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA4X": 1,
-        "LA12X": 2,
-        "LA4": 1,
-        "LA8": 2
-      }
-    },
-    {
-      "name": "Passive 12XT",
-      "brand": "L-Acoustics",
-      "category": "LEGACY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA4X": 1,
-        "LA12X": 3,
-        "LA4": 1,
-        "LA8": 2
-      }
-    },
-    {
-      "name": "Passive MTD115b",
-      "brand": "L-Acoustics",
-      "category": "LEGACY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA4X": 1,
-        "LA12X": 2,
-        "LA4": 1,
-        "LA8": 2
-      }
-    },
-    {
-      "name": "SB10i",
-      "brand": "L-Acoustics",
-      "category": "LEGACY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA1.16i_SE": 2,
-        "LA1.16i_BTL": 1,
-        "LA2Xi_SE": 2,
-        "LA2Xi_BTL": 1,
-        "LA4X": 2,
-        "LA7.16i": 2,
-        "LA7.16": 2,
-        "LA12X": 3
-      }
-    },
-    {
-      "name": "SB118",
-      "brand": "L-Acoustics",
-      "category": "LEGACY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA4X": 1,
-        "LA12X": 2
-      }
-    },
-    {
-      "name": "SB15m",
-      "brand": "L-Acoustics",
-      "category": "SUB",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA2Xi_SE": 1,
-        "LA2Xi_BTL": 1,
-        "LA4X": 1,
-        "LA7.16i": 1,
-        "LA7.16": 1,
-        "LA12X": 3
-      }
-    },
-    {
-      "name": "SB18",
-      "brand": "L-Acoustics",
-      "category": "SUB",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA2Xi_SE": 1,
-        "LA2Xi_BTL": 1,
-        "LA4X": 1,
-        "LA7.16i": 1,
-        "LA7.16": 1,
-        "LA12X": 3
-      }
-    },
-    {
-      "name": "SB218",
-      "brand": "L-Acoustics",
-      "category": "LEGACY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA12X": 1
-      }
-    },
-    {
-      "name": "SB28",
-      "brand": "L-Acoustics",
-      "category": "SUB",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA12X": 1
-      }
-    },
-    {
-      "name": "SB6i",
-      "brand": "L-Acoustics",
-      "category": "LEGACY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA1.16i_SE": 1,
-        "LA2Xi_SE": 1,
-        "LA4X": 1,
-        "LA7.16i": 1,
-        "LA7.16": 1,
-        "LA12X": 2
-      }
-    },
-    {
-      "name": "Soka",
-      "brand": "L-Acoustics",
-      "category": "S",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA1.16i_SE": 2,
-        "LA1.16i_BTL": 1,
-        "LA2Xi_SE": 1,
-        "LA2Xi_BTL": 1,
-        "LA4X": 2,
-        "LA7.16i": 1,
-        "LA7.16": 1,
-        "LA12X": 3
-      }
-    },
-    {
-      "name": "Syva",
-      "brand": "L-Acoustics",
-      "category": "S",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA2Xi_SE": 1,
-        "LA2Xi_BTL": 1,
-        "LA4X": 1,
-        "LA7.16i": 1,
-        "LA7.16": 1,
-        "LA12X": 3,
-        "LA8": 2
-      }
-    },
-    {
-      "name": "Syva Low",
-      "brand": "L-Acoustics",
-      "category": "SUB",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA2Xi_SE": 1,
-        "LA4X": 1,
-        "LA7.16i": 1,
-        "LA7.16": 1,
-        "LA12X": 2
-      }
-    },
-    {
-      "name": "Syva Sub",
-      "brand": "L-Acoustics",
-      "category": "SUB",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA1.16i_BTL": 1,
-        "LA2Xi_SE": 1,
-        "LA2Xi_BTL": 1,
-        "LA4X": 1,
-        "LA7.16i": 1,
-        "LA7.16": 1,
-        "LA12X": 3
-      }
-    },
-    {
-      "name": "V-DOSC",
-      "brand": "L-Acoustics",
-      "category": "LEGACY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA12X": 2
-      }
-    },
-    {
-      "name": "X12",
-      "brand": "L-Acoustics",
-      "category": "X",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA1.16i_BTL": 1,
-        "LA2Xi_SE": 1,
-        "LA2Xi_BTL": 1,
-        "LA4X": 1,
-        "LA7.16i": 1,
-        "LA7.16": 1,
-        "LA12X": 3,
-        "LA8": 2
-      }
-    },
-    {
-      "name": "X15 HiQ",
-      "brand": "L-Acoustics",
-      "category": "X",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA2Xi_SE": 1,
-        "LA4X": 1,
-        "LA7.16i": 1,
-        "LA7.16": 1,
-        "LA12X": 3,
-        "LA8": 2
-      }
-    },
-    {
-      "name": "X4i",
-      "brand": "L-Acoustics",
-      "category": "X",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA1.16i_SE": 3,
-        "LA1.16i_BTL": 2,
-        "LA2Xi_SE": 4,
-        "LA4X": 4,
-        "LA7.16i": 4,
-        "LA7.16": 4,
-        "LA12X": 6,
-        "LA4": 4,
-        "LA8": 6
-      }
-    },
-    {
-      "name": "X6i",
-      "brand": "L-Acoustics",
-      "category": "X",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA1.16i_SE": 2,
-        "LA1.16i_BTL": 1,
-        "LA2Xi_SE": 2,
-        "LA2Xi_BTL": 1,
-        "LA4X": 2,
-        "LA7.16i": 1,
-        "LA7.16": 1,
-        "LA12X": 3
-      }
-    },
-    {
-      "name": "X8",
-      "brand": "L-Acoustics",
-      "category": "X",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA1.16i_SE": 2,
-        "LA1.16i_BTL": 1,
-        "LA2Xi_SE": 2,
-        "LA2Xi_BTL": 1,
-        "LA4X": 2,
-        "LA7.16i": 1,
-        "LA7.16": 1,
-        "LA12X": 3
-      }
-    },
-    {
-      "name": "X8i",
-      "brand": "L-Acoustics",
-      "category": "X",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA1.16i_SE": 2,
-        "LA1.16i_BTL": 1,
-        "LA2Xi_SE": 2,
-        "LA2Xi_BTL": 1,
-        "LA4X": 2,
-        "LA7.16i": 1,
-        "LA7.16": 1,
-        "LA12X": 3
-      }
-    },
-    {
-      "name": "dV-DOSC",
-      "brand": "L-Acoustics",
-      "category": "LEGACY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA12X": 3
-      }
-    },
-    {
-      "name": "dV-SUB",
-      "brand": "L-Acoustics",
-      "category": "LEGACY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LA12X": 1
-      }
-    },
-    {
-      "name": "E15",
-      "brand": "Adamson",
-      "category": "E",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 3,
-        "PLM12K44": 3,
-        "PLM20000Q": 3
-      }
-    },
-    {
-      "name": "E12",
-      "brand": "Adamson",
-      "category": "E",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 3,
-        "PLM12K44": 3,
-        "PLM20000Q": 3
-      }
-    },
-    {
-      "name": "E219",
-      "brand": "Adamson",
-      "category": "E",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "PLM20K44": 3,
-        "PLM12K44": 2,
-        "PLM20000Q": 3
-      }
-    },
-    {
-      "name": "E119",
-      "brand": "Adamson",
-      "category": "E",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 6,
-        "PLM12K44": 4,
-        "PLM20000Q": 6
-      }
-    },
-    {
-      "name": "S10",
-      "brand": "Adamson",
-      "category": "S ",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 8,
-        "PLM12K44": 8,
-        "PLM8K44": 5,
-        "PLM20000Q": 8,
-        "PLM10000Q": 6,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "S10n",
-      "brand": "Adamson",
-      "category": "S ",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM12K44": 8,
-        "PLM8K44": 5,
-        "PLM10000Q": 6,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "S119",
-      "brand": "Adamson",
-      "category": "S ",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 8,
-        "PLM12K44": 4,
-        "PLM8K44": 3,
-        "PLM20000Q": 2,
-        "PLM10000Q": 4,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "S7",
-      "brand": "Adamson",
-      "category": "S ",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 8,
-        "PLM12K44": 8,
-        "PLM8K44": 6,
-        "PLM20000Q": 8,
-        "PLM10000Q": 6,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "S118",
-      "brand": "Adamson",
-      "category": "S ",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 16,
-        "PLM12K44": 12,
-        "PLM8K44": 8,
-        "PLM20000Q": 16,
-        "PLM10000Q": 12,
-        "IPX2400": 4
-      }
-    },
-    {
-      "name": "S10p",
-      "brand": "Adamson",
-      "category": "S ",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "PLM20K44": 8,
-        "PLM12K44": 8,
-        "PLM8K44": 5,
-        "PLM20000Q": 8,
-        "PLM10000Q": 6,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "S7p Bi-Amped",
-      "brand": "Adamson",
-      "category": "S ",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "PLM20K44": 8,
-        "PLM12K44": 8,
-        "PLM8K44": 6,
-        "PLM20000Q": 8,
-        "PLM10000Q": 6,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "S7p Passive",
-      "brand": "Adamson",
-      "category": "S ",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 12,
-        "PLM12K44": 12,
-        "PLM8K44": 6,
-        "PLM20000Q": 12,
-        "PLM10000Q": 10,
-        "IPX2400": 4
-      }
-    },
-    {
-      "name": "IS10",
-      "brand": "Adamson",
-      "category": "I",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 8,
-        "PLM12K44": 8,
-        "PLM8K44": 5,
-        "PLM20000Q": 8,
-        "PLM10000Q": 6,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "IS10n",
-      "brand": "Adamson",
-      "category": "I",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM12K44": 8,
-        "PLM8K44": 5,
-        "PLM10000Q": 6,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "IS119",
-      "brand": "Adamson",
-      "category": "I",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 8,
-        "PLM12K44": 4,
-        "PLM8K44": 3,
-        "PLM20000Q": 2,
-        "PLM10000Q": 4,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "IS7",
-      "brand": "Adamson",
-      "category": "I",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 12,
-        "PLM12K44": 12,
-        "PLM8K44": 8,
-        "PLM20000Q": 12,
-        "PLM10000Q": 12,
-        "IPX2400": 4
-      }
-    },
-    {
-      "name": "IS118",
-      "brand": "Adamson",
-      "category": "I",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 16,
-        "PLM12K44": 12,
-        "PLM8K44": 8,
-        "PLM20000Q": 8,
-        "PLM10000Q": 12,
-        "IPX2400": 4
-      }
-    },
-    {
-      "name": "IS10p",
-      "brand": "Adamson",
-      "category": "I",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "PLM20K44": 8,
-        "PLM12K44": 8,
-        "PLM8K44": 5,
-        "PLM20000Q": 8,
-        "PLM10000Q": 6,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "IS7p",
-      "brand": "Adamson",
-      "category": "I",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "PLM20K44": 8,
-        "PLM12K44": 8,
-        "PLM8K44": 6,
-        "PLM20000Q": 8,
-        "PLM10000Q": 6,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "IS7px",
-      "brand": "Adamson",
-      "category": "I",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 12,
-        "PLM12K44": 12,
-        "PLM8K44": 6,
-        "PLM20000Q": 12,
-        "PLM10000Q": 10,
-        "IPX2400": 4
-      }
-    },
-    {
-      "name": "IS7c",
-      "brand": "Adamson",
-      "category": "I",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 32,
-        "PLM12K44": 20,
-        "PLM8K44": 13,
-        "PLM20000Q": 32,
-        "PLM10000Q": 18,
-        "IPX2400": 6
-      }
-    },
-    {
-      "name": "IS5c",
-      "brand": "Adamson",
-      "category": "I",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 32,
-        "PLM12K44": 32,
-        "PLM8K44": 32,
-        "PLM20000Q": 32,
-        "PLM10000Q": 32,
-        "IPX2400": 6
-      }
-    },
-    {
-      "name": "IS213",
-      "brand": "Adamson",
-      "category": "I",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 4,
-        "PLM12K44": 4,
-        "PLM8K44": 2,
-        "PLM20000Q": 4
-      }
-    },
-    {
-      "name": "IS219",
-      "brand": "Adamson",
-      "category": "I",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 3,
-        "PLM12K44": 2,
-        "PLM8K44": 2,
-        "PLM20000Q": 3
-      }
-    },
-    {
-      "name": "Point 8",
-      "brand": "Adamson",
-      "category": "Point",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 16,
-        "PLM12K44": 4,
-        "PLM20000Q": 8,
-        "PLM10000Q": 16
-      }
-    },
-    {
-      "name": "Point 12",
-      "brand": "Adamson",
-      "category": "Point",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 4,
-        "PLM12K44": 4,
-        "PLM20000Q": 4,
-        "PLM10000Q": 4
-      }
-    },
-    {
-      "name": "Point 15",
-      "brand": "Adamson",
-      "category": "Point",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 4,
-        "PLM12K44": 4,
-        "PLM20000Q": 4,
-        "PLM10000Q": 4
-      }
-    },
-    {
-      "name": "P8P",
-      "brand": "Adamson",
-      "category": "Point",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 16,
-        "PLM12K44": 16,
-        "PLM8K44": 14,
-        "PLM20000Q": 16,
-        "PLM10000Q": 16,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "P115P + P8P",
-      "brand": "Adamson",
-      "category": "Point",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 4,
-        "PLM12K44": 4,
-        "PLM8K44": 4,
-        "PLM20000Q": 4,
-        "PLM10000Q": 4,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "P115A",
-      "brand": "Adamson",
-      "category": "Point",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 16,
-        "PLM12K44": 12,
-        "PLM8K44": 8,
-        "PLM20000Q": 16,
-        "PLM10000Q": 12,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "P215",
-      "brand": "Adamson",
-      "category": "Point",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "PLM20K44": 8,
-        "PLM12K44": 6,
-        "PLM8K44": 4,
-        "PLM20000Q": 8,
-        "PLM10000Q": 4
-      }
-    },
-    {
-      "name": "PC5",
-      "brand": "Adamson",
-      "category": "Point",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 8,
-        "PLM12K44": 8,
-        "PLM8K44": 8,
-        "PLM20000Q": 8,
-        "PLM10000Q": 8
-      }
-    },
-    {
-      "name": "PC8",
-      "brand": "Adamson",
-      "category": "Point",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 8,
-        "PLM12K44": 8,
-        "PLM8K44": 8,
-        "PLM20000Q": 8,
-        "PLM10000Q": 8,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "PC10",
-      "brand": "Adamson",
-      "category": "Point",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 8,
-        "PLM12K44": 8,
-        "PLM8K44": 8,
-        "PLM20000Q": 8,
-        "PLM10000Q": 8,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "PC12",
-      "brand": "Adamson",
-      "category": "Point",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 8,
-        "PLM12K44": 8,
-        "PLM8K44": 8,
-        "PLM20000Q": 8,
-        "PLM10000Q": 8,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "M10 Bi-Amped",
-      "brand": "Adamson",
-      "category": "M",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "PLM20K44": 8,
-        "PLM12K44": 8,
-        "PLM8K44": 5,
-        "PLM20000Q": 8,
-        "PLM10000Q": 6,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "M15A",
-      "brand": "Adamson",
-      "category": "M",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "PLM20K44": 6,
-        "PLM12K44": 6,
-        "PLM8K44": 6,
-        "PLM20000Q": 6,
-        "PLM10000Q": 4,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "M15P",
-      "brand": "Adamson",
-      "category": "M",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 12,
-        "PLM12K44": 10,
-        "PLM8K44": 6,
-        "PLM20000Q": 12,
-        "PLM10000Q": 8,
-        "IPX2400": 3
-      }
-    },
-    {
-      "name": "M12A",
-      "brand": "Adamson",
-      "category": "M",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "PLM20K44": 6,
-        "PLM12K44": 6,
-        "PLM8K44": 6,
-        "PLM20000Q": 6,
-        "PLM10000Q": 4,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "M12P",
-      "brand": "Adamson",
-      "category": "M",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 12,
-        "PLM12K44": 10,
-        "PLM8K44": 6,
-        "PLM20000Q": 12,
-        "PLM10000Q": 8,
-        "IPX2400": 3
-      }
-    },
-    {
-      "name": "M215",
-      "brand": "Adamson",
-      "category": "M",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "PLM20K44": 4,
-        "PLM12K44": 4,
-        "PLM8K44": 3,
-        "PLM20000Q": 4,
-        "PLM10000Q": 2
-      }
-    },
-    {
-      "name": "M212",
-      "brand": "Adamson",
-      "category": "M",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "PLM20K44": 4,
-        "PLM12K44": 4,
-        "PLM8K44": 3,
-        "PLM20000Q": 4,
-        "PLM10000Q": 2
-      }
-    },
-    {
-      "name": "P12A",
-      "brand": "Adamson",
-      "category": "Legacy",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "PLM20K44": 6,
-        "PLM12K44": 6,
-        "PLM8K44": 6,
-        "PLM20000Q": 6,
-        "PLM10000Q": 6,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "P12P",
-      "brand": "Adamson",
-      "category": "Legacy",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 12,
-        "PLM12K44": 10,
-        "PLM8K44": 8,
-        "PLM20000Q": 12,
-        "PLM10000Q": 10,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "P15A",
-      "brand": "Adamson",
-      "category": "Legacy",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "PLM20K44": 6,
-        "PLM12K44": 6,
-        "PLM8K44": 6,
-        "PLM20000Q": 6,
-        "PLM10000Q": 6,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "P15P",
-      "brand": "Adamson",
-      "category": "Legacy",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 12,
-        "PLM12K44": 10,
-        "PLM8K44": 8,
-        "PLM20000Q": 12,
-        "PLM10000Q": 10,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "PC6",
-      "brand": "Adamson",
-      "category": "Legacy",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 12,
-        "PLM12K44": 12,
-        "PLM8K44": 12,
-        "PLM20000Q": 12,
-        "PLM10000Q": 12,
-        "IPX2400": 4
-      }
-    },
-    {
-      "name": "PC10",
-      "brand": "Adamson",
-      "category": "Legacy",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 8,
-        "PLM12K44": 8,
-        "PLM8K44": 8,
-        "PLM20000Q": 8,
-        "PLM10000Q": 8,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "PC12",
-      "brand": "Adamson",
-      "category": "Legacy",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 8,
-        "PLM12K44": 8,
-        "PLM8K44": 8,
-        "PLM20000Q": 8,
-        "PLM10000Q": 8,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "A218",
-      "brand": "Adamson",
-      "category": "Legacy",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 6,
-        "PLM12K44": 4,
-        "PLM8K44": 3,
-        "PLM20000Q": 6,
-        "PLM10000Q": 4
-      }
-    },
-    {
-      "name": "E218",
-      "brand": "Adamson",
-      "category": "Legacy",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "PLM20K44": 6,
-        "PLM20000Q": 6
-      }
-    },
-    {
-      "name": "Y18",
-      "brand": "Adamson",
-      "category": "Y",
-      "channelsUsed": 4,
-      "ampConfig": {
-        "PLM20000Q": 2,
-        "PLM10000Q": 2
-      }
-    },
-    {
-      "name": "Y10",
-      "brand": "Adamson",
-      "category": "Y",
-      "channelsUsed": 4,
-      "ampConfig": {
-        "PLM20000Q": 4,
-        "PLM10000Q": 4
-      }
-    },
-    {
-      "name": "T21",
-      "brand": "Adamson",
-      "category": "Legacy",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "PLM20K44": 2,
-        "PLM20000Q": 2
-      }
-    },
-    {
-      "name": "SX18A",
-      "brand": "Adamson",
-      "category": "Legacy",
-      "channelsUsed": 3,
-      "ampConfig": {
-        "PLM20K44": 4,
-        "PLM12K44": 4,
-        "PLM8K44": 3,
-        "PLM20000Q": 4,
-        "PLM10000Q": 3,
-        "IPX2400": 1
-      }
-    },
-    {
-      "name": "SX18P",
-      "brand": "Adamson",
-      "category": "Legacy",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "PLM20K44": 8,
-        "PLM12K44": 8,
-        "PLM8K44": 4,
-        "PLM20000Q": 8,
-        "PLM10000Q": 6,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "MTX",
-      "brand": "Adamson",
-      "category": "Legacy",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "PLM20K44": 16,
-        "PLM12K44": 12,
-        "PLM8K44": 12,
-        "PLM20000Q": 16,
-        "PLM10000Q": 12,
-        "IPX2400": 6
-      }
-    },
-    {
-      "name": "MTB",
-      "brand": "Adamson",
-      "category": "Legacy",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 8,
-        "PLM12K44": 6,
-        "PLM8K44": 4,
-        "PLM20000Q": 8,
-        "PLM10000Q": 4
-      }
-    },
-    {
-      "name": "SPK",
-      "brand": "Adamson",
-      "category": "Legacy",
-      "channelsUsed": 3,
-      "ampConfig": {
-        "PLM20K44": 4,
-        "PLM12K44": 4,
-        "PLM8K44": 4,
-        "PLM20000Q": 4,
-        "PLM10000Q": 4,
-        "IPX2400": 2
-      }
-    },
-    {
-      "name": "SPB",
-      "brand": "Adamson",
-      "category": "Legacy",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "PLM20K44": 6,
-        "PLM12K44": 5,
-        "PLM8K44": 3,
-        "PLM20000Q": 8,
-        "PLM10000Q": 4
-      }
-    },
-    {
-      "name": "Y7P",
-      "brand": "d&b audiotechnik",
-      "category": "Y",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D40": 4,
-        "D80": 2
-      }
-    },
-    {
-      "name": "Y10P",
-      "brand": "d&b audiotechnik",
-      "category": "Y",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D40": 4,
-        "D80": 2
-      }
-    },
-    {
-      "name": "Y8",
-      "brand": "d&b audiotechnik",
-      "category": "Y",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "D40": 2,
-        "D80": 2
-      }
-    },
-    {
-      "name": "Y12",
-      "brand": "d&b audiotechnik",
-      "category": "Y",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "D40": 2,
-        "D80": 2
-      }
-    },
-    {
-      "name": "V7P",
-      "brand": "d&b audiotechnik",
-      "category": "V",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D40": 4,
-        "D80": 1
-      }
-    },
-    {
-      "name": "V10P",
-      "brand": "d&b audiotechnik",
-      "category": "V",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D40": 4,
-        "D80": 1
-      }
-    },
-    {
-      "name": "V8",
-      "brand": "d&b audiotechnik",
-      "category": "V",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D40": 4,
-        "D80": 1
-      }
-    },
-    {
-      "name": "V12",
-      "brand": "d&b audiotechnik",
-      "category": "V",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D40": 4,
-        "D80": 1
-      }
-    },
-    {
-      "name": "J8",
-      "brand": "d&b audiotechnik",
-      "category": "J",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D80": 1
-      }
-    },
-    {
-      "name": "J12",
-      "brand": "d&b audiotechnik",
-      "category": "J",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D80": 1
-      }
-    },
-    {
-      "name": "KSL8",
-      "brand": "d&b audiotechnik",
-      "category": "SL",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D40": 1,
-        "D80": 1
-      }
-    },
-    {
-      "name": "KSL12",
-      "brand": "d&b audiotechnik",
-      "category": "SL",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D40": 1,
-        "D80": 1
-      }
-    },
-    {
-      "name": "GSL8",
-      "brand": "d&b audiotechnik",
-      "category": "SL",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D80": 1
-      }
-    },
-    {
-      "name": "GSL12",
-      "brand": "d&b audiotechnik",
-      "category": "SL",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D80": 1
-      }
-    },
-    {
-      "name": "XSL8",
-      "brand": "d&b audiotechnik",
-      "category": "SL",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D40": 1,
-        "D80": 1
-      }
-    },
-    {
-      "name": "XSL12",
-      "brand": "d&b audiotechnik",
-      "category": "SL",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D40": 1,
-        "D80": 1
-      }
-    },
-    {
-      "name": "T10",
-      "brand": "d&b audiotechnik",
-      "category": "T",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D40": 4,
-        "D80": 4
-      }
-    },
-    {
-      "name": "E5",
-      "brand": "d&b audiotechnik",
-      "category": "E ",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D40": 4,
-        "D80": 4
-      }
-    },
-    {
-      "name": "E6",
-      "brand": "d&b audiotechnik",
-      "category": "E ",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D40": 4,
-        "D80": 4
-      }
-    },
-    {
-      "name": "E8",
-      "brand": "d&b audiotechnik",
-      "category": "E ",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D40": 4,
-        "D80": 4
-      }
-    },
-    {
-      "name": "E12",
-      "brand": "d&b audiotechnik",
-      "category": "E ",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D40": 4,
-        "D80": 4
-      }
-    },
-    {
-      "name": "M4",
-      "brand": "d&b audiotechnik",
-      "category": "M ",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D40": 4,
-        "D80": 4
-      }
-    },
-    {
-      "name": "MAX2",
-      "brand": "d&b audiotechnik",
-      "category": "M ",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D40": 4,
-        "D80": 4
-      }
-    },
-    {
-      "name": "B6-SUB",
-      "brand": "d&b audiotechnik",
-      "category": "Sub",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D40": 4,
-        "D80": 4
-      }
-    },
-    {
-      "name": "B22-SUB",
-      "brand": "d&b audiotechnik",
-      "category": "Sub",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D80": 1
-      }
-    },
-    {
-      "name": "J-SUB",
-      "brand": "d&b audiotechnik",
-      "category": "Sub",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D80": 1
-      }
-    },
-    {
-      "name": "J-INFRA",
-      "brand": "d&b audiotechnik",
-      "category": "Sub",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D80": 1
-      }
-    },
-    {
-      "name": "C6",
-      "brand": "d&b audiotechnik",
-      "category": "Legacy",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D40": 4,
-        "D80": 4
-      }
-    },
-    {
-      "name": "C7",
-      "brand": "d&b audiotechnik",
-      "category": "Legacy",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D80": 4
-      }
-    },
-    {
-      "name": "C4",
-      "brand": "d&b audiotechnik",
-      "category": "Legacy",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D80": 4
-      }
-    },
-    {
-      "name": "Ci80",
-      "brand": "d&b audiotechnik",
-      "category": "Legacy",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D40": 4,
-        "D80": 4
-      }
-    },
-    {
-      "name": "Ci90",
-      "brand": "d&b audiotechnik",
-      "category": "Legacy",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "D80": 4
-      }
-    },
-    {
-      "name": "TORUS T1230",
-      "brand": "Martin Audio",
-      "category": "TORUS",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "iK42": 1,
-        "iK81": 1
-      }
-    },
-    {
-      "name": "TORUS T1215",
-      "brand": "Martin Audio",
-      "category": "TORUS",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "iK42": 1,
-        "iK81": 1
-      }
-    },
-    {
-      "name": "ADORN",
-      "brand": "Martin Audio",
-      "category": "Adorn",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "iK42": 4,
-        "iK81": 4
-      }
-    },
-    {
-      "name": "CDD6",
-      "brand": "Martin Audio",
-      "category": "CDD",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "iK42": 3,
-        "iK81": 3,
-        "VIA2004": 2
-      }
-    },
-    {
-      "name": "CDD8",
-      "brand": "Martin Audio",
-      "category": "CDD",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "iK42": 3,
-        "iK81": 3,
-        "VIA2004": 2
-      }
-    },
-    {
-      "name": "CDD10",
-      "brand": "Martin Audio",
-      "category": "CDD",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "iK42": 2,
-        "iK81": 2,
-        "VIA2004": 1,
-        "VIA5004": 2
-      }
-    },
-    {
-      "name": "CDD12",
-      "brand": "Martin Audio",
-      "category": "CDD",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "iK42": 1,
-        "iK81": 1,
-        "VIA2004": 1,
-        "VIA5004": 2
-      }
-    },
-    {
-      "name": "CDD15",
-      "brand": "Martin Audio",
-      "category": "CDD",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "iK42": 1,
-        "iK81": 1,
-        "VIA5004": 1
-      }
-    },
-    {
-      "name": "WPL",
-      "brand": "Martin Audio",
-      "category": "Wavefront",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "iK42": 2,
-        "iK81": 2
-      }
-    },
-    {
-      "name": "WPC",
-      "brand": "Martin Audio",
-      "category": "Wavefront",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "iK42": 2,
-        "iK81": 2
-      }
-    },
-    {
-      "name": "WPS",
-      "brand": "Martin Audio",
-      "category": "Wavefront",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "iK42": 2,
-        "iK81": 2
-      }
-    },
-    {
-      "name": "WPM",
-      "brand": "Martin Audio",
-      "category": "Wavefront",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "iK42": 2,
-        "iK81": 2
-      }
-    },
-    {
-      "name": "W8LM",
-      "brand": "Martin Audio",
-      "category": "W8",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "iK42": 2,
-        "iK81": 2
-      }
-    },
-    {
-      "name": "W8LC",
-      "brand": "Martin Audio",
-      "category": "W8",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "iK42": 2,
-        "iK81": 2
-      }
-    },
-    {
-      "name": "W8L",
-      "brand": "Martin Audio",
-      "category": "W8",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "iK42": 2,
-        "iK81": 2
-      }
-    },
-    {
-      "name": "XE500",
-      "brand": "Martin Audio",
-      "category": "XE",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "iK42": 2
-      }
-    },
-    {
-      "name": "XE300",
-      "brand": "Martin Audio",
-      "category": "XE",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "iK42": 3,
-        "iK81": 3
-      }
-    },
-    {
-      "name": "LE1200",
-      "brand": "Martin Audio",
-      "category": "LE",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "iK42": 2,
-        "iK81": 2
-      }
-    },
-    {
-      "name": "LE1500",
-      "brand": "Martin Audio",
-      "category": "LE",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "iK42": 1,
-        "iK81": 1
-      }
-    },
-    {
-      "name": "LE2100",
-      "brand": "Martin Audio",
-      "category": "LE",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "iK42": 1,
-        "iK81": 1
-      }
-    },
-    {
-      "name": "SX110",
-      "brand": "Martin Audio",
-      "category": "Subwoofer",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "iK42": 2,
-        "iK81": 2,
-        "VIA2004": 1,
-        "VIA5004": 2
-      }
-    },
-    {
-      "name": "SX210",
-      "brand": "Martin Audio",
-      "category": "Subwoofer",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "iK42": 1,
-        "iK81": 1,
-        "VIA2004": 1,
-        "VIA5004": 1
-      }
-    },
-    {
-      "name": "SXC118",
-      "brand": "Martin Audio",
-      "category": "Subwoofer",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "iK42": 1
-      }
-    },
-    {
-      "name": "SXC115",
-      "brand": "Martin Audio",
-      "category": "Subwoofer",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "iK42": 1
-      }
-    },
-    {
-      "name": "SXH218",
-      "brand": "Martin Audio",
-      "category": "Subwoofer",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "iK42": 1
-      }
-    },
-    {
-      "name": "AiRAY",
-      "brand": "CODA Audio",
-      "category": "AiRAY",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "LINUS14D": 8,
-        "LINUS12C": 6
-      }
-    },
-    {
-      "name": "SC2-F",
-      "brand": "CODA Audio",
-      "category": "AiRAY",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "LINUS14D": 4,
-        "LINUS12C": 4
-      }
-    },
-    {
-      "name": "ViRAY",
-      "brand": "CODA Audio",
-      "category": "ViRAY",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "LINUS14D": 12,
-        "LINUS12C": 8,
-        "LINUS10C": 8
-      }
-    },
-    {
-      "name": "ViRAY SUB",
-      "brand": "CODA Audio",
-      "category": "ViRAY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LINUS14D": 8,
-        "LINUS12C": 6,
-        "LINUS10C": 4
-      }
-    },
-    {
-      "name": "N-RAY",
-      "brand": "CODA Audio",
-      "category": "N-Series",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LINUS14D": 16,
-        "LINUS12C": 12,
-        "LINUS10C": 8
-      }
-    },
-    {
-      "name": "SCN-F",
-      "brand": "CODA Audio",
-      "category": "N-Series",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LINUS14D": 8,
-        "LINUS12C": 6,
-        "LINUS10C": 4
-      }
-    },
-    {
-      "name": "APS",
-      "brand": "CODA Audio",
-      "category": "APS",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "LINUS14D": 12,
-        "LINUS12C": 12,
-        "LINUS10C": 8,
-        "LINUS5C": 6
-      }
-    },
-    {
-      "name": "APS-SUB",
-      "brand": "CODA Audio",
-      "category": "APS",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LINUS14D": 4,
-        "LINUS12C": 4,
-        "LINUS10C": 4,
-        "LINUS5C": 4
-      }
-    },
-    {
-      "name": "CoRAY4",
-      "brand": "CODA Audio",
-      "category": "CoRAY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LINUS14D": 16,
-        "LINUS12C": 12,
-        "LINUS10C": 8,
-        "LINUS5C": 6
-      }
-    },
-    {
-      "name": "CoRAY4L",
-      "brand": "CODA Audio",
-      "category": "CoRAY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LINUS14D": 12,
-        "LINUS12C": 8,
-        "LINUS10C": 6,
-        "LINUS5C": 4
-      }
-    },
-    {
-      "name": "CoRAY4i",
-      "brand": "CODA Audio",
-      "category": "CoRAY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LINUS14D": 16,
-        "LINUS12C": 12,
-        "LINUS10C": 8,
-        "LINUS5C": 6
-      }
-    },
-    {
-      "name": "CoRAY4Li",
-      "brand": "CODA Audio",
-      "category": "CoRAY",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LINUS14D": 12,
-        "LINUS12C": 8,
-        "LINUS10C": 6,
-        "LINUS5C": 4
-      }
-    },
-    {
-      "name": "HOPS12i",
-      "brand": "CODA Audio",
-      "category": "HOPS",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LINUS14D": 8,
-        "LINUS12C": 6,
-        "LINUS10C": 4
-      }
-    },
-    {
-      "name": "HOPS8",
-      "brand": "CODA Audio",
-      "category": "HOPS",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LINUS14D": 12,
-        "LINUS12C": 12,
-        "LINUS10C": 8,
-        "LINUS5C": 6
-      }
-    },
-    {
-      "name": "HOPS5",
-      "brand": "CODA Audio",
-      "category": "HOPS",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LINUS14D": 24,
-        "LINUS12C": 20,
-        "LINUS10C": 16,
-        "LINUS5C": 12
-      }
-    },
-    {
-      "name": "CUE FOUR",
-      "brand": "CODA Audio",
-      "category": "CUE",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LINUS14D": 8,
-        "LINUS12C": 6,
-        "LINUS10C": 4,
-        "LINUS5C": 4
-      }
-    },
-    {
-      "name": "CUE TWO",
-      "brand": "CODA Audio",
-      "category": "CUE",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LINUS14D": 8,
-        "LINUS12C": 6,
-        "LINUS10C": 4,
-        "LINUS5C": 4
-      }
-    },
-    {
-      "name": "G715",
-      "brand": "CODA Audio",
-      "category": "G-Series",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LINUS14D": 8,
-        "LINUS12C": 6,
-        "LINUS10C": 4,
-        "LINUS5C": 4
-      }
-    },
-    {
-      "name": "G718",
-      "brand": "CODA Audio",
-      "category": "G-Series",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LINUS14D": 4,
-        "LINUS12C": 4,
-        "LINUS10C": 4
-      }
-    },
-    {
-      "name": "SCP-F",
-      "brand": "CODA Audio",
-      "category": "CODA Sub",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LINUS14D": 2,
-        "LINUS12C": 2,
-        "LINUS10C": 2
-      }
-    },
-    {
-      "name": "SCV-F",
-      "brand": "CODA Audio",
-      "category": "CODA Sub",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LINUS14D": 2,
-        "LINUS12C": 2,
-        "LINUS10C": 2
-      }
-    },
-    {
-      "name": "G18-SUB",
-      "brand": "CODA Audio",
-      "category": "CODA Sub",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "LINUS14D": 4,
-        "LINUS12C": 4,
-        "LINUS10C": 4,
-        "LINUS5C": 2
-      }
-    },
-    {
-      "name": "GEO M12",
-      "brand": "NEXO",
-      "category": "NEXO Line Array",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "NXAMP4x2 MK2": 3,
-        "NXAMP4x4 MK2": 4
-      }
-    },
-    {
-      "name": "GEO M10",
-      "brand": "NEXO",
-      "category": "NEXO Line Array",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "NXAMP4x1 MK2": 2,
-        "NXAMP4x2 MK2": 4
-      }
-    },
-    {
-      "name": "GEO M6",
-      "brand": "NEXO",
-      "category": "NEXO Line Array",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "NXAMP4x1 MK2": 6,
-        "DTDAMP4x1.3": 4
-      }
-    },
-    {
-      "name": "STM M28",
-      "brand": "NEXO",
-      "category": "NEXO Line Array",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "NXAMP4x4 MK2": 4
-      }
-    },
-    {
-      "name": "MSUB18",
-      "brand": "NEXO",
-      "category": "NEXO Subwoofer",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "NXAMP4x2 MK2": 2,
-        "NXAMP4x4 MK2": 2
-      }
-    },
-    {
-      "name": "RS18",
-      "brand": "NEXO",
-      "category": "NEXO Subwoofer",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "NXAMP4x2 MK2": 2,
-        "NXAMP4x4 MK2": 4
-      }
-    },
-    {
-      "name": "P12",
-      "brand": "NEXO",
-      "category": "NEXO Point Source",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "NXAMP4x1 MK2": 2,
-        "DTDAMP4x1.3": 1
-      }
-    },
-    {
-      "name": "PS15-R2",
-      "brand": "NEXO",
-      "category": "NEXO Point Source",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "NXAMP4x2 MK2": 2,
-        "NXAMP4x1 MK2": 1
-      }
-    },
-    {
-      "name": "45N12",
-      "brand": "NEXO",
-      "category": "NEXO Monitor",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "NXAMP4x1 MK2": 2,
-        "DTDAMP4x1.3": 2
-      }
-    },
-    {
-      "name": "P15",
-      "brand": "NEXO",
-      "category": "NEXO Monitor",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "DTDAMP4x1.3": 2
-      }
-    },
-    {
-      "name": "X2-212/120",
-      "brand": "Electro-Voice",
-      "category": "Electro-Voice Line Array",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "TGX20": 3
-      }
-    },
-    {
-      "name": "X2-212/90",
-      "brand": "Electro-Voice",
-      "category": "Electro-Voice Line Array",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "TGX20": 3
-      }
-    },
-    {
-      "name": "X1-212/90",
-      "brand": "Electro-Voice",
-      "category": "Electro-Voice Line Array",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "TGX10": 3,
-        "IPX10:4": 2
-      }
-    },
-    {
-      "name": "X1-212/120",
-      "brand": "Electro-Voice",
-      "category": "Electro-Voice Line Array",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "TGX10": 3,
-        "IPX10:4": 2
-      }
-    },
-    {
-      "name": "X12-128",
-      "brand": "Electro-Voice",
-      "category": "Electro-Voice Subwoofer",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "TGX20": 3
-      }
-    },
-    {
-      "name": "X12-125F",
-      "brand": "Electro-Voice",
-      "category": "Electro-Voice Subwoofer",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "TGX20": 2
-      }
-    },
-    {
-      "name": "MFX-12MC",
-      "brand": "Electro-Voice",
-      "category": "Electro-Voice Monitor",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "TGX10": 2,
-        "IPX10:4": 2
-      }
-    },
-    {
-      "name": "VTX A12",
-      "brand": "JBL Professional",
-      "category": "JBL VTX",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "Crown I-Tech 4x3500HD": 2,
-        "Crown VRack 4x3500HD": 4
-      }
-    },
-    {
-      "name": "VTX A8",
-      "brand": "JBL Professional",
-      "category": "JBL VTX",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "Crown I-Tech 4x3500HD": 2,
-        "Crown VRack 4x3500HD": 4
-      }
-    },
-    {
-      "name": "VTX B28",
-      "brand": "JBL Professional",
-      "category": "JBL Subwoofer",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "Crown I-Tech 4x3500HD": 1,
-        "Crown I-Tech 12000HD": 2,
-        "Crown VRack 4x3500HD": 2
-      }
-    },
-    {
-      "name": "VRX932LA-1",
-      "brand": "JBL Professional",
-      "category": "JBL VRX",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "Crown I-Tech 4x3500HD": 3
-      }
-    },
-    {
-      "name": "SRX815",
-      "brand": "JBL Professional",
-      "category": "JBL SRX",
-      "channelsUsed": 1,
-      "ampConfig": {
-        "Crown I-Tech 12000HD": 2
-      }
-    },
-    {
-      "name": "SRX828S",
-      "brand": "JBL Professional",
-      "category": "JBL Subwoofer",
-      "channelsUsed": 2,
-      "ampConfig": {
-        "Crown I-Tech 12000HD": 2
-      }
-    }
-  ],
-  "technicalInfo": {
-    "Adamson": {
-      "PLM20K44": {
-        "architecture": "4 x 4 Class TD®",
-        "outputPower": "4 x 5000 W at 2.7 ohms / 4 x 4400 W at 4 ohms / 4 x 2300 W at 8 ohms",
-        "inputs": "Analog, AES/EBU, Dante",
-        "description": "High-power 4-channel amplifier with integrated Lake DSP, ideal for large-scale touring and fixed installations.",
-        "dspProcessing": "Lake DSP platform with FIR/IIR filters, Gain Tracking Limiter (GTL™), delay alignment, crossover, and parametric EQ with up to 4 seconds of delay per channel.",
-        "latency": "2.08 ms (Analog input to Analog output with Lake processing enabled)",
-        "powerSupply": "Regulated Switch Mode Power Supply (R.SMPS™) with Power Factor Correction (PFC) for consistent performance in all voltages (85V-265V).",
-        "networkCompatibility": "Dante audio network for audio over IP with seamless redundancy.",
-        "additionalFeatures": "System monitoring, load impedance measurement, Over Temperature Protection (OTP), and real-time control via **Lake Controller** software."
-      },
-      "PLM12K44": {
-        "architecture": "4 x 4 Class TD®",
-        "outputPower": "4 x 3000 W at 2.7 ohms / 4 x 2700 W at 4 ohms / 4 x 1500 W at 8 ohms",
-        "inputs": "Analog, AES/EBU, Dante",
-        "description": "Flexible 4-channel amplifier optimized for mid-sized touring systems and permanent installations.",
-        "dspProcessing": "Lake DSP with advanced filters (FIR/IIR), LevelMax™ Limiter, crossovers, and EQs for speaker optimization.",
-        "latency": "2.08 ms (Analog Input to Analog Output)",
-        "powerSupply": "R.SMPS™ power supply with PFC for global voltage operation.",
-        "networkCompatibility": "Dante audio over IP with automatic failover.",
-        "additionalFeatures": "Lake Controller software integration, real-time system diagnostics, and load monitoring."
-      },
-      "PLM20000Q": {
-        "architecture": "4 x 4 Class TD®",
-        "outputPower": "4 x 4400 W at 4 ohms / 4 x 2300 W at 8 ohms",
-        "inputs": "Analog, AES/EBU",
-        "description": "Legendary 4-channel amplifier delivering unmatched power density for large PA systems.",
-        "dspProcessing": "Lake DSP with comprehensive speaker management, FIR/IIR filters, limiter, delay, and parametric EQ.",
-        "latency": "2.3 ms (Analog Input to Output with DSP)",
-        "powerSupply": "Regulated SMPS with PFC for consistent performance in varying voltage conditions.",
-        "networkCompatibility": "Dante ready with optional expansion cards.",
-        "additionalFeatures": "Load impedance monitoring, real-time diagnostics, and full control via **Lake Controller**."
-      },
-      "PLM10000Q": {
-        "architecture": "4 x 4 Class TD®",
-        "outputPower": "4 x 2300 W at 4 ohms / 4 x 1300 W at 8 ohms",
-        "inputs": "Analog, AES/EBU",
-        "description": "Industry-standard 4-channel amplifier for touring and fixed installations.",
-        "dspProcessing": "Lake DSP with FIR filters, limiter, crossover, and EQ processing.",
-        "latency": "2.3 ms (Analog Input to Output with DSP)",
-        "powerSupply": "R.SMPS™ with PFC for consistent performance in fluctuating voltages.",
-        "networkCompatibility": "Lake Controller with optional Dante network expansion.",
-        "additionalFeatures": "Load monitoring, real-time diagnostics, and system optimization."
-      },
-      "IPD2400": {
-        "architecture": "2 x 2 Class D",
-        "outputPower": "2 x 1200 W at 4 ohms / 2 x 600 W at 8 ohms",
-        "inputs": "Analog, AES/EBU",
-        "description": "Compact 2-channel amplifier with advanced DSP for small to mid-sized installations.",
-        "dspProcessing": "Integrated DSP with FIR/IIR filters, EQ, crossovers, delay, and limiters.",
-        "latency": "< 1 ms (Analog Input to Output)",
-        "powerSupply": "Universal switch mode power supply with PFC.",
-        "networkCompatibility": "Ethernet-based remote control with IPD Control software.",
-        "additionalFeatures": "LCD display for configuration, web-based interface, and presets."
-      },
-      "IPX2400": {
-        "architecture": "2 x 2 Class D",
-        "outputPower": "2 x 1200 W at 4 ohms / 2 x 600 W at 8 ohms",
-        "inputs": "Analog, AES/EBU",
-        "description": "Installation amplifier with DSP processing and remote control for fixed applications.",
-        "dspProcessing": "DSP with parametric EQ, delay, filters, and RMS limiters.",
-        "latency": "< 1 ms (Analog Input to Output)",
-        "powerSupply": "Universal SMPS with PFC.",
-        "networkCompatibility": "Ethernet control with IPX Controller software.",
-        "additionalFeatures": "Web-based user interface, system monitoring, and flexible mounting options."
-      }
-    }
-  }
+  "version" : "2025-02-01"
 }
