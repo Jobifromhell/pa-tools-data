@@ -1,9 +1,6 @@
 {
   "amps" : [
-    {
-      "brand" : "test JSON",
-      "name" : "Modele Amp JSON"
-    },
+    
     {
       "brand" : "Adamson",
       "name" : "IPD2400"
@@ -163,16 +160,6 @@
 
   
   "loads" : [
-
-     {
-      "amp" : "Modele Amp JSON",
-      "ampBrand" : "test JSON",
-      "perChannel" : 1,
-      "speaker" : "IS10",
-      "total" : 2
-    },
-
-    
     {
       "amp" : "IPD2400",
       "ampBrand" : "Adamson",
