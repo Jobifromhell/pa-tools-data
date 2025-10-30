@@ -5,14 +5,14 @@
       "id": "amp-load",
       "fileName": "ampload.json",
       "version": "1.0.1",
-      "checksum": "2f7358556eff1f255514df5f0a24aa06b16def784bfffb15c80ee355b58bd9f3",
+      "checksum": "979dfeba53898abd369c6cac8c73c2da52764446e310065025d8889416bee12a",
       "url": "https://raw.githubusercontent.com/Jobifromhell/pa-tools-data/main/ampload.json"
     },
     {
       "id": "pre-alignment",
       "fileName": "prealignment.json",
       "version": "1.0.1",
-      "checksum": "f471357ecee2ec7976c03d7c7608edbbde4448d6dab28b7213cd2eb1bb3ecaa5",
+      "checksum": "cdf84181fffb8907709b07c8564850ecd67ef4e2f8d14d87c1171ef4e3c32f83",
       "url": "https://raw.githubusercontent.com/Jobifromhell/pa-tools-data/main/prealignment.json"
     }
   ]
