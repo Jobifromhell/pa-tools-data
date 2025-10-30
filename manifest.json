@@ -3,9 +3,9 @@
     {
       "id": "ampload",
       "name": "Amplifier Load Dataset",
-      "version": "2025-02-15",
+      "version": "2025-02-20",
       "fileName": "ampload.json",
-      "checksum": "be032ce2969ed009dcef636f05dc53808f593498d0f4087ae1c53a8bac7f879d",
+      "checksum": "2e057de9a7e2e6e0a931d183fcee2b9d343ae44504dd6e6aa5953f7eb85d7ec5",
       "url": "https://raw.githubusercontent.com/Jobifromhell/pa-tools-data/main/ampload.json"
     },
     {
