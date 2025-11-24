@@ -688,8 +688,8 @@
           "total" : 4
         },
         "K1" : {
-          "perChannel" : 10,
-          "total" : 10
+          "perChannel" : 8,
+          "total" : 8
         },
         "K1-SB" : {
           "perChannel" : 1,
