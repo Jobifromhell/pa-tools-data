@@ -37,7 +37,7 @@
         },
         "test speaker load LA76.16 SE" : {
           "perChannel" : 1,
-          "total" : 1
+          "total" : 2
         }
       },
       "name" : "LA1.16i_SE"
