@@ -36,7 +36,7 @@
           "total" : 30
         },
         "test speaker load LA76.16 SE" : {
-          "perChannel" : 1,
+          "perChannel" : 2,
           "total" : 2
         }
       },
