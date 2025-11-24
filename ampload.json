@@ -5,7 +5,7 @@
       "loads" : {
         "5XT" : {
           "perChannel" : 3,
-          "total" : 48
+          "total" : 49
         },
         "SB10i" : {
           "perChannel" : 2,
