@@ -5,7 +5,7 @@
       "loads" : {
         "5XT" : {
           "perChannel" : 3,
-          "total" : 49
+          "total" : 48
         },
         "SB10i" : {
           "perChannel" : 2,
@@ -34,6 +34,10 @@
         "X8i" : {
           "perChannel" : 2,
           "total" : 30
+        },
+        "test speaker load LA76.16 SE" : {
+          "perChannel" : 1,
+          "total" : 1
         }
       },
       "name" : "LA1.16i_SE"
